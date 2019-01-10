@@ -22,10 +22,12 @@ nhưng không cần bí mật thì Github free là quá đủ cho mục đích l
  Tôi thường dụng theo cách sau:
   
 
- 1. Tạo một file có tên bất kỳ với đuôi `.md`. Có thể dùng `notepad`, `noteped++`. `nano`,......hay bất kỳ ứng dụng nào bạn biết
+ 
+
+ -Tạo một file có tên bất kỳ với đuôi `.md`. Có thể dùng `notepad`, `noteped++`. `nano`,......hay bất kỳ ứng dụng nào bạn biết
  2. tôi hay viết trực tiếp trên trang [này](https://stackedit.io/) để làm quen với markdown
 
- ### 1. Thẻ tiêu đề
+ 1. Thẻ tiêu đề
 
 Markdown sử dụng kí tự # để bắt đầu cho các thẻ tiêu đề, có thể dùng từ 1 đến 6 ký tự # liên tiếp. Mức độ riêu đề giảm dần từ 1 đến 6
 
@@ -38,14 +40,14 @@ Ví dụ:
 
 ```
 
-# [](https://github.com/hocchudong/git-github-for-sysadmin#1ti%C3%AAu-%C4%91%E1%BB%81-c%E1%BA%A5p-1)1.Tiêu đề cấp 1
+1.Tiêu đề cấp 1
 
 ```
 ## 2.Tiêu đề cấp 2
 
 ```
 
-## [](https://github.com/hocchudong/git-github-for-sysadmin#2ti%C3%AAu-%C4%91%E1%BB%81-c%E1%BA%A5p-2)2.Tiêu đề cấp 2
+2.Tiêu đề cấp 2
 
 ```
 ###### 6.Tiêu đề cấp 6
@@ -54,7 +56,7 @@ Ví dụ:
 
 ###### [](https://github.com/hocchudong/git-github-for-sysadmin#6ti%C3%AAu-%C4%91%E1%BB%81-c%E1%BA%A5p-6)6.Tiêu đề cấp 6
 
-### [](https://github.com/hocchudong/git-github-for-sysadmin#2-ch%C3%A8n-link-ch%C3%A8n-%E1%BA%A3nh)2. Chèn link, chèn ảnh
+2. Chèn link, chèn ảnh
 
 Để chèn hyperlink bạn chỉ cần paste luôn linh đó vào file .md
 
@@ -198,7 +200,7 @@ Bạn có thể sử dụng cú pháp sau để tạo bảng:
 
 Như vậy bạn đã có thể trình bày github của mình một cách sáng sủa bằng markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjI5NDA2MTEsMjEwNjczODQ3MywxNT
-U2OTkwMjM0LDQ0MTM0NDgwNSwtNDI4NTczMjYyLDEzNjM4MzU2
-MDNdfQ==
+eyJoaXN0b3J5IjpbODg4MTExNTA0LDIxMDY3Mzg0NzMsMTU1Nj
+k5MDIzNCw0NDEzNDQ4MDUsLTQyODU3MzI2MiwxMzYzODM1NjAz
+XX0=
 -->
