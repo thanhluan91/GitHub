@@ -13,7 +13,8 @@ II. **Vmware workstation**
     - Một máy ảo sẽ có những thành phần giống như một máy thật chẳng hạn như  CPU , RAM , HDD , CARD  mạng hay ổ DVD ......
     
  [Các thành phần của máy ảo ](https://imgur.com/a/YTFYDkt)
-![](https://photo2.tinhte.vn/data/attachment-files/2018/10/4444784_11.jpg)
+
+![than](https://i.imgur.com/XJCJb6d.png) 
 
 Một máy thật có thể chạy được nhiều máy ảo khác nhau cùng lúc tùy thuộc vào khả năng đáp ứng phần cứng của chính máy thật đó.
 **2. cách chạy các OS khác bằng máy ảo trên mính tính**
@@ -22,6 +23,6 @@ Một máy thật có thể chạy được nhiều máy ảo khác nhau cùng l
 - Trên Windows:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzI0OTg3OSwyMDM4NTQwMjYyLDIwND
-k5MTQ5ODgsMjk5NzA5NTU1LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTIxMzI1NzUwMjAsMjAzODU0MDI2MiwyMD
+Q5OTE0OTg4LDI5OTcwOTU1NSwyMDQwMjk3NjIyXX0=
 -->
