@@ -22,10 +22,10 @@ nhưng không cần bí mật thì Github free là quá đủ cho mục đích l
  Tôi thường dụng theo cách sau:
   
 
- 3. List item
+ 1. Tạo một file có tên bất kỳ với đuôi `.md`. Có thể dùng `notepad`, `noteped++`. 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTgyNTk4Nyw0NDEzNDQ4MDUsLTQyOD
+eyJoaXN0b3J5IjpbMjEwMTQxMjI4Niw0NDEzNDQ4MDUsLTQyOD
 U3MzI2MiwxMzYzODM1NjAzXX0=
 -->
