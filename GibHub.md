@@ -24,8 +24,8 @@ nhưng không cần bí mật thì Github free là quá đủ cho mục đích l
 
  
 
- -Tạo một file có tên bất kỳ với đuôi `.md`. Có thể dùng `notepad`, `noteped++`. `nano`,......hay bất kỳ ứng dụng nào bạn biết
- 2. tôi hay viết trực tiếp trên trang [này](https://stackedit.io/) để làm quen với markdown
+ - Tạo một file có tên bất kỳ với đuôi `.md`. Có thể dùng `notepad`, `noteped++`. `nano`,......hay bất kỳ ứng dụng nào bạn biết
+ - Tôi hay viết trực tiếp trên trang [này](https://stackedit.io/) để làm quen với markdown
 
  1. Thẻ tiêu đề
 
@@ -200,7 +200,7 @@ Bạn có thể sử dụng cú pháp sau để tạo bảng:
 
 Như vậy bạn đã có thể trình bày github của mình một cách sáng sủa bằng markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4MTExNTA0LDIxMDY3Mzg0NzMsMTU1Nj
-k5MDIzNCw0NDEzNDQ4MDUsLTQyODU3MzI2MiwxMzYzODM1NjAz
-XX0=
+eyJoaXN0b3J5IjpbLTE5MTA0NjgxNjUsMjEwNjczODQ3MywxNT
+U2OTkwMjM0LDQ0MTM0NDgwNSwtNDI4NTczMjYyLDEzNjM4MzU2
+MDNdfQ==
 -->
