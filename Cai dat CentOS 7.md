@@ -22,7 +22,11 @@
 ![](https://i.imgur.com/j2E9Gxr.png)
 - Network and hostname
 ![](https://i.imgur.com/FarLjrR.png)
+![](https://i.imgur.com/Lh9uyuT.png)
+- Đặt ip tĩnh 
+![](https://i.imgur.com/hkfTB4o.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDI2NTQzOCwtMjA2ODg4NTA0NiwtMT
+eyJoaXN0b3J5IjpbLTMzNDM5MjE5NCwtMjA2ODg4NTA0NiwtMT
 Y3OTY3OTI4MV19
 -->
