@@ -54,7 +54,10 @@ Sau đó bấm finish là xong, chỉ vậy thôi, quá trình chạy máy ảo,
 ![Đang tải 10.JPG…](https://photo2.tinhte.vn/data/attachment-files/2018/10/4440484_10.jpg "10.JPG")  
 
 _Màn hình cài đặt máy ảo tương tự như máy thật Ubuntu_​
+
+                                  `end!`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTEyNzA1MSwyMDM4NTQwMjYyLDIwND
-k5MTQ5ODgsMjk5NzA5NTU1LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTExMjYwNTA5NTMsLTI3MTEyNzA1MSwyMD
+M4NTQwMjYyLDIwNDk5MTQ5ODgsMjk5NzA5NTU1LDIwNDAyOTc2
+MjJdfQ==
 -->
