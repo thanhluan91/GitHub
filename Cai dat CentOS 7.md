@@ -30,8 +30,10 @@
 - ta có thể để auto hoặc chọn phần đĩa cứng thủ công , Chọn LVM trong Partitioning Scheme
 ![](https://i.imgur.com/ZsmS9dX.png)
 - Taọ các phần cùng với dung lượng theo ý muốn
-
+![](https://i.imgur.com/db4Cwni.png)
+![](https://i.imgur.com/0Mo6G5F.png)
+- cuối cùng sau khi thiết lập xong các thông số cần thiết 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzE4Mjg4NSwtMjA2ODg4NTA0NiwtMT
-Y3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbNzE3MTA0NTk4LC0yMDY4ODg1MDQ2LC0xNj
+c5Njc5MjgxXX0=
 -->
