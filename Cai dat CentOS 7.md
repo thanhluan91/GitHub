@@ -1,6 +1,4 @@
-# Thanh-Luan
-tìm hiểu về Github
-cai dat CentOS 7
+# 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4NTgxOTEyXX0=
+eyJoaXN0b3J5IjpbLTE2Nzk2NzkyODFdfQ==
 -->
