@@ -12,10 +12,12 @@
  ![](https://i.imgur.com/DpgxkKV.png)
 ![](https://i.imgur.com/fmvdeJG.png)
 - Ta Enter để tiến hành cài đặt các bước tiếp theo
-![enter image description here](https://i.imgur.com/x1fP9Jr.png)
+![](https://i.imgur.com/x1fP9Jr.png)
 ![](https://i.imgur.com/9iiajsY.png)
-- Chọn ngôn ngữ và nhấn Continec
+- Chọn ngôn ngữ và nhấn **Continue**
+![](https://i.imgur.com/wrW1LEh.png)
+- Giao diện cấu hình Date & Time , Le
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzE1ODIxMCwtMjA2ODg4NTA0NiwtMT
-Y3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbLTE3MjQ3Mzk5OTgsLTIwNjg4ODUwNDYsLT
+E2Nzk2NzkyODFdfQ==
 -->
