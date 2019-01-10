@@ -21,8 +21,9 @@ Một máy thật có thể chạy được nhiều máy ảo khác nhau cùng l
  Như đã giải thích ở trên, anh em có thể chạy 1 hệ điều hành bất kì nào khác trên chính cái máy tính của mình. Mình sẽ hướng dẫn sơ qua cho anh em thấy được các mà mình tạo các máy ảo như thế nào:
 
 - Trên Windows:
-Để tạo máy ảo, anh em tải về hai phần mềm ở trên, mình sẽ hướng dẫn bằng VMWare nhé
+Để tạo máy ảo, anh em tải về hai phần mềm ở trên, mình sẽ hướng dẫn bằng VMWare nhé.
+ Chọn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTMxMCwyMDM4NTQwMjYyLDIwNDk5MT
-Q5ODgsMjk5NzA5NTU1LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMjMxODc4MDI0LDIwMzg1NDAyNjIsMjA0OT
+kxNDk4OCwyOTk3MDk1NTUsMjA0MDI5NzYyMl19
 -->
