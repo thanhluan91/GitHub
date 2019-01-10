@@ -38,8 +38,11 @@
 và set password cho tài khoản root hoặc tạo tài khoản khác nếu muốn
 ![](https://i.imgur.com/kPO14eX.png)
 ![](https://i.imgur.com/K3aiSy6.png)
+- sau đó reboot khởi động lại hệ thống
+![](https://i.imgur.com/jnQOvc3.png)
+và cuối cùng là đăng nhập tài khoản đã cài đặt
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzk2NzY2NywtMjA2ODg4NTA0NiwtMT
-Y3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbMTg0MTUyNDc1NSwxNzE3OTY3NjY3LC0yMD
+Y4ODg1MDQ2LC0xNjc5Njc5MjgxXX0=
 -->
