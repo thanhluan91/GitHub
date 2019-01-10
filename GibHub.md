@@ -13,9 +13,10 @@ nhưng không cần bí mật thì Github free là quá đủ cho mục đích l
 
  1.Đăng ký tài khoản tại github.com và đăng nhập
   2. Học cách sử dụng ngôn ngữ `markdown`
-  3. Tạo một Repo đầu tiên và gõ những gì mình muốn bằng markdown 
+  3. Tạo một Repo đầu tiên và gõ những gì mình muốn bằng markdown . Sau đó tạo các Repo tùy mục đích , clone nó về client và code
   --
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjQ2MjQyNiw0NDEzNDQ4MDUsLTQyOD
+eyJoaXN0b3J5IjpbMTA5NTEwMTM0MSw0NDEzNDQ4MDUsLTQyOD
 U3MzI2MiwxMzYzODM1NjAzXX0=
 -->
