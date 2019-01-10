@@ -15,7 +15,8 @@ II. **Vmware workstation**
  [Các thành phần của máy ảo ](https://imgur.com/a/YTFYDkt)
 ![](https://photo2.tinhte.vn/data/attachment-files/2018/10/4444784_11.jpg)
 
+Một máy thật có thể chạy được nhiều máy ảo khác nhau cùng lúc tùy thuộc vào khả năng đáp ứng phần cứng của chính máy thật đó.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDQ4MDgxMSwyMDM4NTQwMjYyLDIwND
-k5MTQ5ODgsMjk5NzA5NTU1LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbNTQ2NDUzODUwLDIwMzg1NDAyNjIsMjA0OT
+kxNDk4OCwyOTk3MDk1NTUsMjA0MDI5NzYyMl19
 -->
