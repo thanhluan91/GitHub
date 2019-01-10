@@ -7,8 +7,10 @@ GitHub là một trang web, cho phép bạn lưu các source code của mình l�
 Github có bản free và mất phí. Với Github free thì source code của bạn sẽ công khai, có nghĩa là ai cũng có thể xem code của bạn. Nó phù hợp với các phần mềm nguồn mở, và cũng có thể trở thành một blog cá nhân của chính các bạn như các trang blogspot, wordpress,...
 
 Nếu muốn mình có thể tạo một kho code bí mật của riêng mình thì bạn phải trả phí .
-nhưng mình không cần bí mâ
+nhưng không cần bí mật thì Github free là quá đủ cho mục đích lưu trữ và chia sẻ thông tin .
+
+Cần làm gì để sử dụng GitHub
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzE5NTgxNTIsLTQyODU3MzI2MiwxMz
-YzODM1NjAzXX0=
+eyJoaXN0b3J5IjpbNTg3Mjk0NzY0LC00Mjg1NzMyNjIsMTM2Mz
+gzNTYwM119
 -->
