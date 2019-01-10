@@ -18,8 +18,8 @@ nhưng không cần bí mật thì Github free là quá đủ cho mục đích l
   
 
  **II. Ngôn Ngữ Markdown** 
- Ngôn ngữ này khá đơn giản , bạn có thể đọc tại 
+ Ngôn ngữ này khá đơn giản , bạn có thể đọc tại [đây](https://viblo.asia/helps/cach-su-dung-markdown-bxjvZYnwkJZ) để biết cách sử dụng chi tiết hơn 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTA5OTU0NDcsNDQxMzQ0ODA1LC00Mj
-g1NzMyNjIsMTM2MzgzNTYwM119
+eyJoaXN0b3J5IjpbNzY3NjY0Mjg2LDQ0MTM0NDgwNSwtNDI4NT
+czMjYyLDEzNjM4MzU2MDNdfQ==
 -->
