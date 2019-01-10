@@ -35,8 +35,11 @@
 - cuối cùng sau khi thiết lập xong các thông số cần thiết click **`Done` --> ` Accpept Changes**` để định dạng và tạo phân vùng
 ![](https://i.imgur.com/LgGEuI7.png)
 - Trở lại trang tóm tắt cài đặt và click “**Begin Installation**”
-và set password cho tài khoản ro
+và set password cho tài khoản root hoặc tạo tài khoản khác nếu muốn
+![](https://i.imgur.com/kPO14eX.png)
+![](https://i.imgur.com/K3aiSy6.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NDYzOTI5LC0yMDY4ODg1MDQ2LC0xNj
-c5Njc5MjgxXX0=
+eyJoaXN0b3J5IjpbMTcxNzk2NzY2NywtMjA2ODg4NTA0NiwtMT
+Y3OTY3OTI4MV19
 -->
