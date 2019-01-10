@@ -12,8 +12,8 @@ II. **Vmware workstation**
     
     - Một máy ảo sẽ có những thành phần giống như một máy thật chẳng hạn như  CPU , RAM , HDD , CARD  mạng hay ổ DVD ......
     
-
+![enter image description here](https://imgur.com/a/YTFYDkt)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODU0MDI2MiwyMDQ5OTE0OTg4LDI5OT
-cwOTU1NSwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTU5MTc2OTk1NSwyMDM4NTQwMjYyLDIwND
+k5MTQ5ODgsMjk5NzA5NTU1LDIwNDAyOTc2MjJdfQ==
 -->
