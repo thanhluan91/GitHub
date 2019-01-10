@@ -143,7 +143,7 @@ netmask 255.255.255.0
 gateway 10.10.10.1
 dns-nameservers 8.8.8.8
 
-### [](https://github.com/hocchudong/git-github-for-sysadmin#5-g%E1%BA%A1ch-%C4%91%E1%BA%A7u-d%C3%B2ng)5. Gạch đầu dòng
+ Gạch đầu dòng
 
 Để sử dụng gạch đầu dòng bạn chỉ cần sử dụng cú pháp sau:
 
@@ -200,7 +200,7 @@ Bạn có thể sử dụng cú pháp sau để tạo bảng:
 
 Như vậy bạn đã có thể trình bày github của mình một cách sáng sủa bằng markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTA0NjgxNjUsMjEwNjczODQ3MywxNT
+eyJoaXN0b3J5IjpbLTEyNDk1OTYxNzAsMjEwNjczODQ3MywxNT
 U2OTkwMjM0LDQ0MTM0NDgwNSwtNDI4NTczMjYyLDEzNjM4MzU2
 MDNdfQ==
 -->
