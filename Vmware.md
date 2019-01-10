@@ -8,9 +8,9 @@
 II. **Vmware workstation**
 
  1. Máy ảo là gì ?
-    Máy ảo (Vỉ)
+    Máy ảo (Virtual Machine - VM) được xem là một chương trình máy tính ( Client ) được chạy trên một hệ điều hành chủ ( Host ) và hoạt động giống như một máy tính thật , tức  là
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzEwNjU1ODcsMjA0OTkxNDk4OCwyOT
-k3MDk1NTUsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTc4NzM2MjE3NCwyMDQ5OTE0OTg4LDI5OT
+cwOTU1NSwyMDQwMjk3NjIyXX0=
 -->
