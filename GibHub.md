@@ -132,22 +132,23 @@ gateway 10.10.10.1
 dns-nameservers 8.8.8.8
 ```
 
-```
+
 
 Kết quả như sau:
-
+```
 auto eth0
 iface eth0 inet static
 ipaddress 10.10.10.10
 netmask 255.255.255.0
 gateway 10.10.10.1
 dns-nameservers 8.8.8.8
+```
 
  Gạch đầu dòng
 
 Để sử dụng gạch đầu dòng bạn chỉ cần sử dụng cú pháp sau:
 
-```
+
 - Gạch đầu dòng thứ nhất
   
   - Thụt với đầu dòng 1
@@ -200,7 +201,7 @@ Bạn có thể sử dụng cú pháp sau để tạo bảng:
 
 Như vậy bạn đã có thể trình bày github của mình một cách sáng sủa bằng markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk1OTYxNzAsMjEwNjczODQ3MywxNT
-U2OTkwMjM0LDQ0MTM0NDgwNSwtNDI4NTczMjYyLDEzNjM4MzU2
-MDNdfQ==
+eyJoaXN0b3J5IjpbMTU4ODAwMDM3MCwyMTA2NzM4NDczLDE1NT
+Y5OTAyMzQsNDQxMzQ0ODA1LC00Mjg1NzMyNjIsMTM2MzgzNTYw
+M119
 -->
