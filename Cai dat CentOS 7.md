@@ -6,8 +6,12 @@
  - Để cài đặt CentOS 7 ta cần download tại [đây](https://www.centos.org/download/)
  
  - Sau khi download bạn burn file vào đĩa DVD hoặc tạo USB boot , nếu bạn cài trên VMWare chỉ cần mount đĩa vào .
-
+ 
+ - Chọn **Install CentOS 7**
+ 
+ ![](https://i.imgur.com/DpgxkKV.png)
+![enter image description here](https://i.imgur.com/fmvdeJG.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxNDMyMjYzLC0yMDY4ODg1MDQ2LC0xNj
-c5Njc5MjgxXX0=
+eyJoaXN0b3J5IjpbMjA0MzczNDI2NSwtMjA2ODg4NTA0NiwtMT
+Y3OTY3OTI4MV19
 -->
