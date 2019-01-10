@@ -197,9 +197,12 @@ kết quả như sau
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
 
 ### **III. Các thao tác với Github**
+---
+ **1. Cài đặt** 
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDM4MTkzOTYsLTE4NTc1MDg0MjAsMj
+eyJoaXN0b3J5IjpbLTE0MTE1MTAzMzIsLTE4NTc1MDg0MjAsMj
 EwNjczODQ3MywxNTU2OTkwMjM0LDQ0MTM0NDgwNSwtNDI4NTcz
 MjYyLDEzNjM4MzU2MDNdfQ==
 -->
