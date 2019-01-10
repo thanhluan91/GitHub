@@ -196,10 +196,10 @@ kết quả như sau
 | Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
 
+### **III. Các thao tác với Github**
 
-**III. Các thao tác với Github**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTcxNzAxNywtMTg1NzUwODQyMCwyMT
-A2NzM4NDczLDE1NTY5OTAyMzQsNDQxMzQ0ODA1LC00Mjg1NzMy
-NjIsMTM2MzgzNTYwM119
+eyJoaXN0b3J5IjpbLTE3MDM4MTkzOTYsLTE4NTc1MDg0MjAsMj
+EwNjczODQ3MywxNTU2OTkwMjM0LDQ0MTM0NDgwNSwtNDI4NTcz
+MjYyLDEzNjM4MzU2MDNdfQ==
 -->
