@@ -16,7 +16,9 @@ II. **Vmware workstation**
 ![](https://photo2.tinhte.vn/data/attachment-files/2018/10/4444784_11.jpg)
 
 Một máy thật có thể chạy được nhiều máy ảo khác nhau cùng lúc tùy thuộc vào khả năng đáp ứng phần cứng của chính máy thật đó.
+**2. cách chạy các OS khác bằng máy ảo trên mính tính**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2NDUzODUwLDIwMzg1NDAyNjIsMjA0OT
+eyJoaXN0b3J5IjpbNTI5NzAxODQ0LDIwMzg1NDAyNjIsMjA0OT
 kxNDk4OCwyOTk3MDk1NTUsMjA0MDI5NzYyMl19
 -->
