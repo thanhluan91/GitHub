@@ -18,8 +18,11 @@
 ![](https://i.imgur.com/wrW1LEh.png)
 - Giao diện cấu hình Date & Time , Language , Network & Hostname , Installtion Destination , Software Selection
 ![](https://i.imgur.com/oYY2t8C.png)
-
+-Date & Time
+![](https://i.imgur.com/j2E9Gxr.png)
+- Network and hostname
+![enter image description here](https://i.imgur.com/FarLjrR.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI0NTIwODMsLTIwNjg4ODUwNDYsLT
+eyJoaXN0b3J5IjpbLTE1MDQ0NjI5MTUsLTIwNjg4ODUwNDYsLT
 E2Nzk2NzkyODFdfQ==
 -->
