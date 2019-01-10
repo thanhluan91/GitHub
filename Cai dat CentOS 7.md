@@ -27,8 +27,11 @@
 ![](https://i.imgur.com/hkfTB4o.png)
 - Tiếp đến chọn nơi cài đặt , click **Installation Destination** , chọn đĩa cứng và tích “**I will configure Partitioning”**
 ![](https://i.imgur.com/Grcu5Lo.png)
-- ta có thể để auto hoặc chọn phần đĩa cứng thủ công , Chọn LVM trong Partitioning
+- ta có thể để auto hoặc chọn phần đĩa cứng thủ công , Chọn LVM trong Partitioning Scheme
+![](https://i.imgur.com/ZsmS9dX.png)
+- Taọ các phần cùng với dung lượng theo ý muốn
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDYzMzQzMywtMjA2ODg4NTA0NiwtMT
+eyJoaXN0b3J5IjpbMTY0MzE4Mjg4NSwtMjA2ODg4NTA0NiwtMT
 Y3OTY3OTI4MV19
 -->
