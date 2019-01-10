@@ -32,8 +32,8 @@
 - Taọ các phần cùng với dung lượng theo ý muốn
 ![](https://i.imgur.com/db4Cwni.png)
 ![](https://i.imgur.com/0Mo6G5F.png)
-- cuối cùng sau khi thiết lập xong các thông số cần thiết 
+- cuối cùng sau khi thiết lập xong các thông số cần thiết click **`Done` --> ` Accpept Changes**` để định dạng và tạo phân vùng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3MTA0NTk4LC0yMDY4ODg1MDQ2LC0xNj
+eyJoaXN0b3J5IjpbNDA3MzQ4ODk1LC0yMDY4ODg1MDQ2LC0xNj
 c5Njc5MjgxXX0=
 -->
