@@ -12,10 +12,13 @@ nhưng không cần bí mật thì Github free là quá đủ cho mục đích l
 **Cần làm gì để sử dụng GitHub ?**
 
  1.Đăng ký tài khoản tại github.com và đăng nhập
+ 
  2. Học cách sử dụng ngôn ngữ `markdown`
- 3. Tạo một Repo đầu tiên và gõ những gì mình muốn bằng markdown 
- 4
+ 
+ 
+ 4. Tạo một Repo đầu tiên và gõ những gì mình muốn bằng markdown 
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjQ5MDI4MCwtNDI4NTczMjYyLDEzNj
-M4MzU2MDNdfQ==
+eyJoaXN0b3J5IjpbNDQxMzQ0ODA1LC00Mjg1NzMyNjIsMTM2Mz
+gzNTYwM119
 -->
