@@ -22,10 +22,11 @@ nhưng không cần bí mật thì Github free là quá đủ cho mục đích l
  Tôi thường dụng theo cách sau:
   
 
- 1. Tạo một file có tên bất kỳ với đuôi `.md`. Có thể dùng `notepad`, `noteped++`. 
+ 1. Tạo một file có tên bất kỳ với đuôi `.md`. Có thể dùng `notepad`, `noteped++`. `nano`,......hay bất kỳ ứng dụng nào bạn biết
+ 2. tôi hay viết trực tiếp trên trang 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTQxMjI4Niw0NDEzNDQ4MDUsLTQyOD
+eyJoaXN0b3J5IjpbMTU1Njk5MDIzNCw0NDEzNDQ4MDUsLTQyOD
 U3MzI2MiwxMzYzODM1NjAzXX0=
 -->
