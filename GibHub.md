@@ -17,7 +17,7 @@ nhưng không cần bí mật thì Github free là quá đủ cho mục đích l
   --
   
 
- **II. Ngôn Ngữ Markdown** 
+## **II. Ngôn Ngữ Markdown** 
  Ngôn ngữ này khá đơn giản , bạn có thể đọc tại [đây](https://viblo.asia/helps/cach-su-dung-markdown-bxjvZYnwkJZ) để biết cách sử dụng chi tiết hơn 
  Tôi thường dụng theo cách sau:
   
@@ -197,8 +197,9 @@ kết quả như sau
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
 
 
+**III. Các thao tác với Github**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc1MDg0MjAsMjEwNjczODQ3MywxNT
-U2OTkwMjM0LDQ0MTM0NDgwNSwtNDI4NTczMjYyLDEzNjM4MzU2
-MDNdfQ==
+eyJoaXN0b3J5IjpbMjA5MTcxNzAxNywtMTg1NzUwODQyMCwyMT
+A2NzM4NDczLDE1NTY5OTAyMzQsNDQxMzQ0ODA1LC00Mjg1NzMy
+NjIsMTM2MzgzNTYwM119
 -->
