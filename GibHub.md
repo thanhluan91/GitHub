@@ -18,8 +18,8 @@ nhưng không cần bí mật thì Github free là quá đủ cho mục đích l
   
 
  **II. Ngôn Ngữ Markdown** 
- 
+ Ngôn ngữ này khá đơn giản , bạn có thể đọc tại 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE3MjE4OTcsNDQxMzQ0ODA1LC00Mj
+eyJoaXN0b3J5IjpbLTEwNTA5OTU0NDcsNDQxMzQ0ODA1LC00Mj
 g1NzMyNjIsMTM2MzgzNTYwM119
 -->
