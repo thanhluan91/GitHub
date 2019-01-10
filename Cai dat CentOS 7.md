@@ -16,8 +16,10 @@
 ![](https://i.imgur.com/9iiajsY.png)
 - Chọn ngôn ngữ và nhấn **Continue**
 ![](https://i.imgur.com/wrW1LEh.png)
-- Giao diện cấu hình Date & Time , Le
+- Giao diện cấu hình Date & Time , Language , Network & Hostname , Installtion Destination , Software Selection
+![](https://i.imgur.com/oYY2t8C.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQ3Mzk5OTgsLTIwNjg4ODUwNDYsLT
+eyJoaXN0b3J5IjpbLTEzMDI0NTIwODMsLTIwNjg4ODUwNDYsLT
 E2Nzk2NzkyODFdfQ==
 -->
