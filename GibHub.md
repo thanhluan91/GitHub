@@ -144,7 +144,7 @@ gateway 10.10.10.1
 dns-nameservers 8.8.8.8
 ```
 
- Gạch đầu dòng
+5. Gạch đầu dòng
 
 Để sử dụng gạch đầu dòng bạn chỉ cần sử dụng cú pháp sau:
 
@@ -176,19 +176,20 @@ dns-nameservers 8.8.8.8
         
     -   Thụt với đầu dòng 2
         
-
-### [](https://github.com/hocchudong/git-github-for-sysadmin#6-t%E1%BA%A1o-b%E1%BA%A3ng)6. Tạo bảng
+```
+ 6. Tạo bảng
 
 Bạn có thể sử dụng cú pháp sau để tạo bảng:
 
-```
+
 `| Cột 1 Hàng 1 | Cột 2 | Cột 3| Cột 4 |
 |--------------|-------|------|-------|
 | Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
 | Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |``
 
-kết q
+kết quả như sau 
+
 | Cột 1 Hàng 1 | Cột 2 | Cột 3| Cột 4 |
 |--------------|-------|------|-------|
 | Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
@@ -197,7 +198,7 @@ kết q
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzMyMzYwMSwyMTA2NzM4NDczLDE1NT
-Y5OTAyMzQsNDQxMzQ0ODA1LC00Mjg1NzMyNjIsMTM2MzgzNTYw
-M119
+eyJoaXN0b3J5IjpbLTE4NTc1MDg0MjAsMjEwNjczODQ3MywxNT
+U2OTkwMjM0LDQ0MTM0NDgwNSwtNDI4NTczMjYyLDEzNjM4MzU2
+MDNdfQ==
 -->
