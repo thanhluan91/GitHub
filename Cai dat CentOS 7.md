@@ -13,7 +13,9 @@
 ![](https://i.imgur.com/fmvdeJG.png)
 - Ta Enter để tiến hành cài đặt các bước tiếp theo
 ![enter image description here](https://i.imgur.com/x1fP9Jr.png)
+![](https://i.imgur.com/9iiajsY.png)
+- Chọn ngôn ngữ và nhấn Continec
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NjEwMTQ4MSwtMjA2ODg4NTA0NiwtMT
+eyJoaXN0b3J5IjpbLTI1MzE1ODIxMCwtMjA2ODg4NTA0NiwtMT
 Y3OTY3OTI4MV19
 -->
