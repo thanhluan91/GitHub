@@ -22,7 +22,8 @@ Một máy thật có thể chạy được nhiều máy ảo khác nhau cùng l
 
 - Trên Windows:
 Để tạo máy ảo, anh em tải về hai phần mềm ở trên, mình sẽ hướng dẫn bằng VMWare nhé.
- Anh em chọn File / New Virtual Machine, anh em có thể chọn Typical hoặc Custom tùy ý (Nếu anh em có thể sẽ chép cái máy ảo này đi máy khác sử dụng thì nên chọn custom, rồi chọn phiên bản thấp 1 tí cho dễ nhé)  
+ Anh em chọn File / New Virtual Machine, anh em có thể chọn Typical hoặc Custom tùy ý (Nếu anh em có thể sẽ chép cái máy ảo này đi máy khác sử dụng thì nên chọn custom, rồi chọn phiên bản thấp 1 tí cho dễ nhé)
+ như mình đang chạy phiên bản `vmware wokstation pro12`  
   
 
 ![](https://i.imgur.com/BSXOSvo.png)
@@ -54,6 +55,6 @@ Sau đó bấm finish là xong, chỉ vậy thôi, quá trình chạy máy ảo,
 
 _Màn hình cài đặt máy ảo tương tự như máy thật Ubuntu_​
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxNDM3NDMsMjAzODU0MDI2MiwyMDQ5OT
-E0OTg4LDI5OTcwOTU1NSwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTI3MTEyNzA1MSwyMDM4NTQwMjYyLDIwND
+k5MTQ5ODgsMjk5NzA5NTU1LDIwNDAyOTc2MjJdfQ==
 -->
