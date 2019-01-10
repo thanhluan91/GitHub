@@ -12,8 +12,8 @@ nhưng không cần bí mật thì Github free là quá đủ cho mục đích l
 **Cần làm gì để sử dụng GitHub ?**
 
  1.Đăng ký tài khoản tại github.com và đăng nhập
-
+ 2. Học cách sử dụng ngôn ngữ `markdown`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTg2ODc1NCwtNDI4NTczMjYyLDEzNj
-M4MzU2MDNdfQ==
+eyJoaXN0b3J5IjpbMzY3Mzk3NTA1LC00Mjg1NzMyNjIsMTM2Mz
+gzNTYwM119
 -->
