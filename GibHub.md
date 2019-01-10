@@ -182,26 +182,22 @@ dns-nameservers 8.8.8.8
 Bạn có thể sử dụng cú pháp sau để tạo bảng:
 
 ```
+`| Cột 1 Hàng 1 | Cột 2 | Cột 3| Cột 4 |
+|--------------|-------|------|-------|
+| Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
+| Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
+| Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |``
+
+kết q
 | Cột 1 Hàng 1 | Cột 2 | Cột 3| Cột 4 |
 |--------------|-------|------|-------|
 | Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
 | Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
 
-```
 
-
-
-###_Mẹo:_
-
--   Sử dụng trang  [http://markdownlivepreview.com/](http://markdownlivepreview.com/)  paste vào đó đoạn markdown bạn viết và xem trước để chỉnh sửa cho phù hợp.
-    
--   Bạn cũng có thể sử dụng những đoạn markdown của người khác đã viết trước để tham khảo.
-    
-
-Như vậy bạn đã có thể trình bày github của mình một cách sáng sủa bằng markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODAwMDM3MCwyMTA2NzM4NDczLDE1NT
+eyJoaXN0b3J5IjpbMTU3MzMyMzYwMSwyMTA2NzM4NDczLDE1NT
 Y5OTAyMzQsNDQxMzQ0ODA1LC00Mjg1NzMyNjIsMTM2MzgzNTYw
 M119
 -->
