@@ -10,7 +10,10 @@ Nếu muốn mình có thể tạo một kho code bí mật của riêng mình t
 nhưng không cần bí mật thì Github free là quá đủ cho mục đích lưu trữ và chia sẻ thông tin .
 
 **Cần làm gì để sử dụng GitHub ?**
+
+ 1.Đăng ký tài khoản tại [enter link description here](https://github.com/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTA2NjY0MywtNDI4NTczMjYyLDEzNj
-M4MzU2MDNdfQ==
+eyJoaXN0b3J5IjpbLTE3ODU4ODc1NjEsLTQyODU3MzI2MiwxMz
+YzODM1NjAzXX0=
 -->
