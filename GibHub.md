@@ -4,6 +4,8 @@
 - **`Khái Niệm`**
 GitHub là một trang web, cho phép bạn lưu các source code của mình lên đó. Bạn có thể thay đổi đoạn code của mình mọi lúc mọi nơi mà không sợ bị ghi đè lên hay mất dữ liệu do hỏng hóc vì dữ liệu của bạn được lưu trên web GitHub và máy tính cá nhân . Bạn cũng có thể thay đổi code của mình ở một thời điểm bất kỳ nào đó.
 
+Github có bản free và mất phí. Với Github free thì source code của bạn sẽ công khai, có nghĩa là ai cũng có thể xem code của bạn. Nó phù hợp với các phần mềm nguồn mở, và cũng có thể trở thành một blog cá nhân của chính các bạn như các trang blogspot, wordpress,...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODU3MzI2MiwxMzYzODM1NjAzXX0=
+eyJoaXN0b3J5IjpbMTEyNDQzNjI4OCwtNDI4NTczMjYyLDEzNj
+M4MzU2MDNdfQ==
 -->
