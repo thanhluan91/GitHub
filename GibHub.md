@@ -11,9 +11,9 @@ nhưng không cần bí mật thì Github free là quá đủ cho mục đích l
 
 **Cần làm gì để sử dụng GitHub ?**
 
- 1.Đăng ký tài khoản tại [enter link description here](https://github.com/)
+ 1.Đăng ký tài khoản tại github.com và đăng nh
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU4ODc1NjEsLTQyODU3MzI2MiwxMz
+eyJoaXN0b3J5IjpbLTE2NDcxODc0OTksLTQyODU3MzI2MiwxMz
 YzODM1NjAzXX0=
 -->
