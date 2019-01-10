@@ -25,7 +25,7 @@ Một máy thật có thể chạy được nhiều máy ảo khác nhau cùng l
  Anh em chọn File / New Virtual Machine, anh em có thể chọn Typical hoặc Custom tùy ý (Nếu anh em có thể sẽ chép cái máy ảo này đi máy khác sử dụng thì nên chọn custom, rồi chọn phiên bản thấp 1 tí cho dễ nhé)  
   
 
-![enter image description here](https://i.imgur.com/BSXOSvo.png)
+![](https://i.imgur.com/BSXOSvo.png)
 
 Tiếp theo là phần chọn hệ điều hành, như mình nói, anh em có thể chọn rát nhiều hệ điều hành khác nhau như Ubuntu, Solaris, Windows....  
   
@@ -54,6 +54,6 @@ Sau đó bấm finish là xong, chỉ vậy thôi, quá trình chạy máy ảo,
 
 _Màn hình cài đặt máy ảo tương tự như máy thật Ubuntu_​
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjk2NDE5NCwyMDM4NTQwMjYyLDIwND
-k5MTQ5ODgsMjk5NzA5NTU1LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbOTgxNDM3NDMsMjAzODU0MDI2MiwyMDQ5OT
+E0OTg4LDI5OTcwOTU1NSwyMDQwMjk3NjIyXX0=
 -->
