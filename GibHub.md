@@ -200,9 +200,11 @@ kết quả như sau
 ---
  **1. Cài đặt** 
  
+    **1.1 Linux**
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE1MTAzMzIsLTE4NTc1MDg0MjAsMj
-EwNjczODQ3MywxNTU2OTkwMjM0LDQ0MTM0NDgwNSwtNDI4NTcz
-MjYyLDEzNjM4MzU2MDNdfQ==
+eyJoaXN0b3J5IjpbMzc0NTQ5NzA4LC0xODU3NTA4NDIwLDIxMD
+Y3Mzg0NzMsMTU1Njk5MDIzNCw0NDEzNDQ4MDUsLTQyODU3MzI2
+MiwxMzYzODM1NjAzXX0=
 -->
