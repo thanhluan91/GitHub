@@ -1,6 +1,6 @@
 # GitHub
 **I. Mở Đầu** 
-- `Git` là một phần mềm dùng để quản lý phiên bản của mã nguồn tương tự như `SVN` nhưng có nhiều ưu điểm hơn, `Git` đang được sủ dụng rộng rãi hiện nay. Tuy nhiên trong bài viết này, tôi sẽ nói về git một cách "cá nhân" hơn, mang tính chia sẻ những cái tôi hay làm và hướng tới những người là sysadmin. Mong nhận được ý kiến đóng góp của các bạn
+- `Git` là một phần mềm dùng để quản lý phiên bản của mã nguồn tương tự như `SVN` nhưng có nhiều ưu điểm hơn, `Git` đang được sủ dụng rộng rãi hiện nay. Tuy nhiên trong bài viết này, tôi sẽ nói về git một cách "cá nhân" hơn, mang tính chia sẻ những cái tôi hay làm và hướng tới những người là sysadmin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1MDAzNDA1LDEzNjM4MzU2MDNdfQ==
+eyJoaXN0b3J5IjpbLTUwNjU0OTQ3NCwxMzYzODM1NjAzXX0=
 -->
