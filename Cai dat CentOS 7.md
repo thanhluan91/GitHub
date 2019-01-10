@@ -25,8 +25,9 @@
 ![](https://i.imgur.com/Lh9uyuT.png)
 - Đặt ip tĩnh 
 ![](https://i.imgur.com/hkfTB4o.png)
-
+- Tiếp đến chọn nơi cài đặt , click **Installation Destination** , chọn đĩa cứng và tích “**I will configure Partitioning”**
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDM5MjE5NCwtMjA2ODg4NTA0NiwtMT
-Y3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbLTEwOTU2ODEzMTAsLTIwNjg4ODUwNDYsLT
+E2Nzk2NzkyODFdfQ==
 -->
