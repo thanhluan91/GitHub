@@ -6,8 +6,11 @@
 
 
 II. **Vmware workstation**
--
+
+ 1. Máy ảo là gì ?
+    Máy ảo (Vỉ)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTgyOTMzOSwyMDQ5OTE0OTg4LDI5OT
-cwOTU1NSwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTE2NzEwNjU1ODcsMjA0OTkxNDk4OCwyOT
+k3MDk1NTUsMjA0MDI5NzYyMl19
 -->
