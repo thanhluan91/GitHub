@@ -200,11 +200,25 @@ kết quả như sau
 ---
  **1. Cài đặt** 
  
-    **1.1 Linux**
+   **1.1 Linux**
+.
+.
+.
+.
+.
+2.1 Trên Window
+
+
+
+
+
+
+
+
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0NTQ5NzA4LC0xODU3NTA4NDIwLDIxMD
+eyJoaXN0b3J5IjpbMzkyNTQzMzU3LC0xODU3NTA4NDIwLDIxMD
 Y3Mzg0NzMsMTU1Njk5MDIzNCw0NDEzNDQ4MDUsLTQyODU3MzI2
 MiwxMzYzODM1NjAzXX0=
 -->
