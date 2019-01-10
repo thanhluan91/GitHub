@@ -87,7 +87,7 @@ Tôi thường sử dụng công cụ  [Lightshot](https://app.prntscr.com/en/in
 
 Hai công cụ này khá dễ sử dụng, bạn chỉ cần chụp màn hình bằng Lightshot ấn Ctrl + C để copy và Ctrl + V để paste vào trình duyệt tại trang web  [http://i.imgur.com/](http://i.imgur.com/)
 
-### [](https://github.com/hocchudong/git-github-for-sysadmin#3-k%C3%BD-t%E1%BB%B1-in-%C4%91%E1%BA%ADm-in-nghi%C3%AAng)3. Ký tự in đậm, in nghiêng
+3. Ký tự in đậm, in nghiêng
 
 -   Để in đậm một đoạn text bạn chỉ cần làm như sau:
 
@@ -107,7 +107,7 @@ Hai công cụ này khá dễ sử dụng, bạn chỉ cần chụp màn hình b
 
 _từ cần in nghiêng_
 
-### [](https://github.com/hocchudong/git-github-for-sysadmin#4-tr%C3%ADch-d%E1%BA%ABn-bo-ch%E1%BB%AF)4. Trích dẫn, bo chữ
+4. Trích dẫn, bo chữ
 
 Để bo một đoạn text thì bạn chỉ cần sử dụng cú pháp sau:
 
@@ -198,7 +198,7 @@ Bạn có thể sử dụng cú pháp sau để tạo bảng:
 
 Như vậy bạn đã có thể trình bày github của mình một cách sáng sủa bằng markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzMjk5MDEwLDIxMDY3Mzg0NzMsMTU1Nj
-k5MDIzNCw0NDEzNDQ4MDUsLTQyODU3MzI2MiwxMzYzODM1NjAz
-XX0=
+eyJoaXN0b3J5IjpbLTE3NjI5NDA2MTEsMjEwNjczODQ3MywxNT
+U2OTkwMjM0LDQ0MTM0NDgwNSwtNDI4NTczMjYyLDEzNjM4MzU2
+MDNdfQ==
 -->
