@@ -26,8 +26,9 @@
 - Đặt ip tĩnh 
 ![](https://i.imgur.com/hkfTB4o.png)
 - Tiếp đến chọn nơi cài đặt , click **Installation Destination** , chọn đĩa cứng và tích “**I will configure Partitioning”**
-- 
+![](https://i.imgur.com/Grcu5Lo.png)
+- ta có thể để auto hoặc chọn phần đĩa cứng thủ công , Chọn LVM trong Partitioning
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU2ODEzMTAsLTIwNjg4ODUwNDYsLT
-E2Nzk2NzkyODFdfQ==
+eyJoaXN0b3J5IjpbMTgxMDYzMzQzMywtMjA2ODg4NTA0NiwtMT
+Y3OTY3OTI4MV19
 -->
