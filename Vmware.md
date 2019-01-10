@@ -22,8 +22,39 @@ Một máy thật có thể chạy được nhiều máy ảo khác nhau cùng l
 
 - Trên Windows:
 Để tạo máy ảo, anh em tải về hai phần mềm ở trên, mình sẽ hướng dẫn bằng VMWare nhé.
- Chọn
+ Anh em chọn File / New Virtual Machine, anh em có thể chọn Typical hoặc Custom tùy ý (Nếu anh em có thể sẽ chép cái máy ảo này đi máy khác sử dụng thì nên chọn custom, rồi chọn phiên bản thấp 1 tí cho dễ nhé)  
+  
+
+![Đang tải 3.JPG…](https://photo2.tinhte.vn/data/attachment-files/2018/10/4440475_3.jpg "3.JPG")  
+​
+
+Tiếp theo là phần chọn hệ điều hành, như mình nói, anh em có thể chọn rát nhiều hệ điều hành khác nhau như Ubuntu, Solaris, Windows....  
+  
+
+![Đang tải 5.JPG…](https://photo2.tinhte.vn/data/attachment-files/2018/10/4440479_5.jpg "5.JPG")  
+_Các hệ điều hành có thể tạo trên một máy ảo  
+_​
+
+Bước tiếp theo sẽ là đặt tên cho máy ảo và vị trí lưu trữ của nó  
+  
+
+![Đang tải 7.JPG…](https://photo2.tinhte.vn/data/attachment-files/2018/10/4440481_7.jpg "7.JPG")  
+_Chọn nơi lưu trữ cho máy ảo_​
+
+Sau đó anh em có thể chọn dung lượng ổ cứng cho máy cũng như tùy biến lại các thông số như RAM, CPU... tùy theo khả năng mà máy thật của anh em có thể cung cấp  
+  
+
+![Đang tải 8.JPG…](https://photo2.tinhte.vn/data/attachment-files/2018/10/4440482_8.jpg "8.JPG")  
+_Chọn dung lượng ổ cứng_  
+  
+![Đang tải 9.JPG…](https://photo2.tinhte.vn/data/attachment-files/2018/10/4440483_9.jpg "9.JPG")​
+
+Sau đó bấm finish là xong, chỉ vậy thôi, quá trình chạy máy ảo, nó sẽ tốn tài nguyên như lúc anh em cấu hình, còn việc cài đặt thì anh em có thể làm như một cái máy tính bình thường khác.  
+  
+![Đang tải 10.JPG…](https://photo2.tinhte.vn/data/attachment-files/2018/10/4440484_10.jpg "10.JPG")  
+
+_Màn hình cài đặt máy ảo tương tự như máy thật Ubuntu_​
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxODc4MDI0LDIwMzg1NDAyNjIsMjA0OT
-kxNDk4OCwyOTk3MDk1NTUsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbMTk1MDc1NDkwMywyMDM4NTQwMjYyLDIwND
+k5MTQ5ODgsMjk5NzA5NTU1LDIwNDAyOTc2MjJdfQ==
 -->
