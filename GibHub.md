@@ -206,7 +206,14 @@ kết quả như sau
 .
 .
 .
-2.1 Trên Window
+**2.1 Trên Window**
+.
+.
+.
+.
+.
+.
+.
 
 
 
@@ -218,7 +225,7 @@ kết quả như sau
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyNTQzMzU3LC0xODU3NTA4NDIwLDIxMD
+eyJoaXN0b3J5IjpbMzQ5NDk0MTMxLC0xODU3NTA4NDIwLDIxMD
 Y3Mzg0NzMsMTU1Njk5MDIzNCw0NDEzNDQ4MDUsLTQyODU3MzI2
 MiwxMzYzODM1NjAzXX0=
 -->
