@@ -1,6 +1,6 @@
 # -  Tìm hiểu về linux và lệnh basic cơ bản của linux/unix
 
- **- Các lệnh về thư mục tệp tin -**
+ **- Các lệnh về thư mục tệp tin -** -
   1. **pwd - Mình đang ở đâu ?**
 
    pwd là viết tắt của Print Working Directory (In ra thư mục hiện tại). Nếu bạn để ý thì sẽ thấy hầu hết các lệnh trong Linux đều là viết tắt của một từ hay cụm từ nào đó.
@@ -53,7 +53,7 @@
   4. **cp - Tạo bản copy**
   2. **mv - di chuyển hoặc đổi tên**
   2. **rm - xóa, xóa hết, xóa sạch**
-  7. **Các lệnh về thông tin hệ thống**-
+  7. **Các lệnh về thông tin hệ thống** --
 
   2. **df -kiểm tra dung lượng các partition**
   2. **du - kiểm tra dung lượng các directory**
