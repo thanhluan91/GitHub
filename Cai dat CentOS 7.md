@@ -41,8 +41,10 @@ và set password cho tài khoản root hoặc tạo tài khoản khác nếu mu�
 - sau đó reboot khởi động lại hệ thống
 ![](https://i.imgur.com/jnQOvc3.png)
 và cuối cùng là đăng nhập tài khoản đã cài đặt
-
+![](https://i.imgur.com/YB4mH0d.png)
+                                             Done
+Chúc các bạn thành công !
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTUyNDc1NSwxNzE3OTY3NjY3LC0yMD
-Y4ODg1MDQ2LC0xNjc5Njc5MjgxXX0=
+eyJoaXN0b3J5IjpbMTYxMDU3MTExMywxODQxNTI0NzU1LDE3MT
+c5Njc2NjcsLTIwNjg4ODUwNDYsLTE2Nzk2NzkyODFdfQ==
 -->
