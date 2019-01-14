@@ -50,14 +50,15 @@
 
        `CentOS1:/usr/local/lib$ cd -`
        `CentOS1:/usr/local$`    
-  4. **cp - Tạo bản copy **
-  2. **mv - di chuyển hoặc đổi tên **
-  2. **rm - xóa, xóa hết, xóa sạch **
-  7. **- Các lệnh về thông tin hệ thống -**
-  2. **df -kiểm tra dung lượng các partition **
-  2. **du - kiểm tra dung lượng các directory **
-  2. **free - thông tin về Ram **
-  2. **top - Một Task Manager của Linux **
-  2. **uname - Thông tin về kernel **
-  2. **ifconfig - Hiển thị thông tin mạng **
+  4. **cp - Tạo bản copy**
+  2. **mv - di chuyển hoặc đổi tên**
+  2. **rm - xóa, xóa hết, xóa sạch**
+  7. **Các lệnh về thông tin hệ thống**-
+
+  2. **df -kiểm tra dung lượng các partition**
+  2. **du - kiểm tra dung lượng các directory**
+  2. **free - thông tin về Ram**
+  2. **top - Một Task Manager của Linux**
+  2. **uname - Thông tin về kernel**
+  2. **ifconfig - Hiển thị thông tin mạng**
   2. ** **
