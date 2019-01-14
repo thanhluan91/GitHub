@@ -65,11 +65,12 @@
        ` cp -r [dir_path] [target_dir_path]
 
       - Để hiển thị quá trình copy (ta dùng option '-v')
-      
+
        ` cp -v a.txt b.txt c.txt lab/`
-       `a.txt` -> `lab/a.txt`
-       `b.txt` -> `lab/b.txt`
-       `c.txt` -> `lab/c.txt` 
+      
+       `a.txt` -> `lab/a.txt` -
+       `b.txt` -> `lab/b.txt` -
+       `c.txt` -> `lab/c.txt` -
 
   2. **mv - di chuyển hoặc đổi tên**
   2. **rm - xóa, xóa hết, xóa sạch**
