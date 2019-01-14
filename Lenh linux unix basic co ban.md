@@ -51,9 +51,29 @@
        `CentOS1:/usr/local/lib$ cd -`
        `CentOS1:/usr/local$`    
   4. **cp - Tạo bản copy**
+  cp viết tắt của copy là sao chép thư mục khác
+     - Để tạo bản copy của 1 file nhưng với tên khác trong cùng directory
+
+       ` cp [file_name] [another_name]`
+
+     - Để copy 1 hay nhiều file đến directory khác
+
+       ` cp [file_1] [file_2] [file_n] [dir_path]`
+
+     - Để copy dir này sang dir khác . (folder cần copy không được có dấu "/" ở cuối nếu không sẽ lỗi) 
+      
+       ` cp -r [dir_path] [target_dir_path]
+
+      - Để hiển thị quá trình copy (ta dùng option '-v')
+      
+       ` cp -v a.txt b.txt c.txt lab/`
+       `a.txt` -> `lab/a.txt`
+       `b.txt` -> `lab/b.txt`
+       `c.txt` -> `lab/c.txt` 
+
   2. **mv - di chuyển hoặc đổi tên**
   2. **rm - xóa, xóa hết, xóa sạch**
-  7.- **Các lệnh về thông tin hệ thống**
+  7. **Các lệnh về thông tin hệ thống**
 
   2. **df -kiểm tra dung lượng các partition**
   2. **du - kiểm tra dung lượng các directory**
