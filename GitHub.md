@@ -204,7 +204,7 @@ kết quả như sau
  |Kiểm tra một kho lưu trữ và tải về máy cục bộ |Tạo một bản sao làm việc tại một kho lưu trữ cục bộ trong mạng nội bộ |`Git clone` /path/to/repository|
  ||Đối với một máy chủ từ xa|`git clone` username@host:/path/to/repository    VD: Git clone https://github.com/thanhluan91/Thanh-Luan.git|
  |Thêm các tập tin|Thêm một hoặc nhiều tệp tin |git add  "filename" ,    Git add .|
- |Commit|||
+ |Commit|Cam kết thay đổi thành đầu (nhưng chưa có kho lưu trữ từ xa):||
  
 
 
@@ -217,8 +217,9 @@ kết quả như sau
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4NTM3MTYwLDE1NTM2ODU1NTMsMjA2OT
-I3NTMzNSwtOTYzNTI5NjEyLDEzMjU5NDU3NTcsLTM0MjMxOTky
-Myw0NDE3MzYxODUsLTE0MTYzNjcyNzMsMTcwMjMzNTk3LC0xMj
-E0MzQ3MzkzLC0xMzQwMDg4ODYyLDM0OTQ5NDEzMV19
+eyJoaXN0b3J5IjpbMTI3NTQzNTM4Myw0MDg1MzcxNjAsMTU1Mz
+Y4NTU1MywyMDY5Mjc1MzM1LC05NjM1Mjk2MTIsMTMyNTk0NTc1
+NywtMzQyMzE5OTIzLDQ0MTczNjE4NSwtMTQxNjM2NzI3MywxNz
+AyMzM1OTcsLTEyMTQzNDczOTMsLTEzNDAwODg4NjIsMzQ5NDk0
+MTMxXX0=
 -->
