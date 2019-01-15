@@ -85,8 +85,8 @@
  ---
  
   7. **tail - print Tail**
-	  `tail <tên file> đọc và in ra nội dung 10 dòng cuối cùng của file (mặc định)
-	  
+	  `tail <tên file>` đọc và in ra nội dung 10 dòng cuối cùng của file (mặc định)
+	  `tail -n N <tên file>` trong đó N chỉ định số dò
 ---
   8. **rm - xóa, xóa hết, xóa sạch**
   9. **Các lệnh về thông tin hệ thống**
@@ -99,6 +99,6 @@
   15. **ifconfig - Hiển thị thông tin mạng**
   16. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjgyMjgwMywxMjQ2NTA1MTcwLC0xNj
+eyJoaXN0b3J5IjpbMjA3NTA1NzE4NiwxMjQ2NTA1MTcwLC0xNj
 A4MjAwNjExLC02NDc2NTUxNjFdfQ==
 -->
