@@ -22,7 +22,7 @@
 
     - ls -R hiện thị cả các file ở các sub-directory
 
-    - ls [directory_path] sẽ hiển thị các file/thư mục ở directory đó, có thể dùng thêm các options bên trên.
+   
 ---
   3. **cd đến nơi khác**
 
@@ -107,6 +107,7 @@
   17. **ifconfig - Hiển thị thông tin mạng**
   18. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTgyNzgxNDksODQwNDgyNjU0LDEyND
-Y1MDUxNzAsLTE2MDgyMDA2MTEsLTY0NzY1NTE2MV19
+eyJoaXN0b3J5IjpbMTc0OTkwMDA5MywtMTM1ODI3ODE0OSw4ND
+A0ODI2NTQsMTI0NjUwNTE3MCwtMTYwODIwMDYxMSwtNjQ3NjU1
+MTYxXX0=
 -->
