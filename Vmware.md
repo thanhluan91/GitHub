@@ -87,7 +87,7 @@ Use host-only networking: máy tính ảo sẽ kết nối với máy tính th�
 
 ### 1.1. Thêm, xóa một vmnet
 
-##### Thêm một vmnet
+**- Thêm một vmnet**
 
 Cũng trong Virtual Network Editor ta chọn như sau:
 
@@ -145,8 +145,8 @@ Các card mạng này có thể cấp DHCP cho các máy ảo sử dụng nó.
 
 ![](https://i.imgur.com/fjwdjjM.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE1ODA3NzEsLTIwNDE5MjgwODcsLT
-E0NzE0NTg1ODgsLTEzODk1MjA5LDkxNjY3MTI3NCwtMTAxNjQy
-OTExNCwtMTEyNjA1MDk1MywtMjcxMTI3MDUxLDIwMzg1NDAyNj
-IsMjA0OTkxNDk4OCwyOTk3MDk1NTUsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbMzEyMTcwMjE1LC0yMDQxOTI4MDg3LC0xND
+cxNDU4NTg4LC0xMzg5NTIwOSw5MTY2NzEyNzQsLTEwMTY0Mjkx
+MTQsLTExMjYwNTA5NTMsLTI3MTEyNzA1MSwyMDM4NTQwMjYyLD
+IwNDk5MTQ5ODgsMjk5NzA5NTU1LDIwNDAyOTc2MjJdfQ==
 -->
