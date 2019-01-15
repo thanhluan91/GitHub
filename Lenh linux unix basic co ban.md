@@ -134,7 +134,7 @@
 
 **2. /bin – Chương trình của người dùng**
 
-Thư mục này chứa các chương trình thực thi. Các chương trình chung của Linux được sử dụng bởi tất cả người dùng được lưu ở đây. Ví dụ như: ps, ls, ping…
+- Thư mục này chứa các chương trình thực thi. Các chương trình chung của Linux được sử dụng bởi tất cả người dùng được lưu ở đây. Ví dụ như: ps, ls, ping…
 
 **3. /sbin – Chương trình hệ thống**
 
@@ -158,16 +158,16 @@ Thư mục này chứa các chương trình thực thi. Các chương trình chu
 
 **8. /var – File về biến của chương trình**
 
-Thông tin về các biến của hệ thống được lưu trong thư mục này. Như thông tin về log file: /var/log, các gói và cơ sở dữ liệu /var/lib…
+- Thông tin về các biến của hệ thống được lưu trong thư mục này. Như thông tin về log file: /var/log, các gói và cơ sở dữ liệu /var/lib…
 
 **9. /usr – Chương trình của người dùng**
 
-Chứa các thư viện, file thực thi, tài liệu hướng dẫn và mã nguồn cho chương trình chạy ở level 2 của hệ thống. Trong đó
+- Chứa các thư viện, file thực thi, tài liệu hướng dẫn và mã nguồn cho chương trình chạy ở level 2 của hệ thống. Trong đó
 
--   /usr/bin chứa các file thực thi của người dùng như: at,  [awk](https://www.gocit.vn/bai-viet/tag/awk/ "Posts tagged with awk"), cc, less… Nếu bạn không tìm thấy chúng trong /bin hãy tìm trong /usr/bin
--   /usr/sbin chứa các file thực thi của hệ thống dưới quyền của admin như: atd, cron, sshd… Nếu bạn không tìm thấy chúng trong /sbin thì hãy tìm trong thư mục này.
--   /usr/lib chứa các thư viện cho các chương trình trong /usr/bin và /usr/sbin
--   /usr/local chứa các chương tình của người dùng được cài từ mã nguồn. Ví dụ như bạn cài  [apache](https://www.gocit.vn/bai-viet/tag/apache/ "Posts tagged with Apache")  từ mã nguồn, nó sẽ được lưu dưới /usr/local/[apache](https://www.gocit.vn/bai-viet/tag/apache/ "Posts tagged with Apache")2
+	-   /usr/bin chứa các file thực thi của người dùng như: at, awk, cc, less… Nếu bạn không tìm thấy chúng trong /bin hãy tìm trong /usr/bin
+	-   /usr/sbin chứa các file thực thi của hệ thống dưới quyền của admin như: atd, cron, sshd… Nếu bạn không tìm thấy chúng trong /sbin thì hãy tìm trong thư mục này.
+	-   /usr/lib chứa các thư viện cho các chương trình trong /usr/bin và /usr/sbin
+	-   /usr/local chứa các chương tình của người dùng được cài từ mã nguồn. Ví dụ như bạn cài  [apache từ mã nguồn, nó sẽ được lưu dưới /usr/local/[apache](https://www.gocit.vn/bai-viet/tag/apache/ "Posts tagged with Apache")2
 
 **10. /home – Thư mục người của dùng**
 
@@ -196,7 +196,7 @@ Thư mục tạm này chứa các thiết bị như CdRom /media/cdrom. floppy /
 	`etc/fstab` file này có trên mọi máy tính Linux, kiểm soát cho biết các điểm mount vào filesystem . Các partition Windows và các chia sẻ mạng và có thể sử dụng nó để kiểm soát các điểm gắn của các thiết bị lưu trữ ngoài giống như USB và các ổ cứng ngoài
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwOTIyMjQ1LC0xODMxODQ5NzA2LDYxMz
+eyJoaXN0b3J5IjpbNjk1NjAyODU1LC0xODMxODQ5NzA2LDYxMz
 cwNDY0LC0xMzU4Mjc4MTQ5LDg0MDQ4MjY1NCwxMjQ2NTA1MTcw
 LC0xNjA4MjAwNjExLC02NDc2NTUxNjFdfQ==
 -->
