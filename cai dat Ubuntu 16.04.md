@@ -117,14 +117,14 @@ Bạn hãy truy cập vào Website: [tại đây](https://www.ubuntu.com/downloa
 ![](https://camo.githubusercontent.com/d5cbfb9b86cef31289e18eb7f33faee5bb249aa3/68747470733a2f2f692e696d6775722e636f6d2f35325448694c4a2e706e67)
 
 
-|   Hoàn thành quá trình cài đặt và hãy đăng nhập với tài khoản ( User ) vừa tạo ở trên  |
+|   Hoàn thành quá trình cài đặt và hãy đăng nhập với tài khoản ( User ) vừa tạo phía trên  |
 |:----:|
 |  END  |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjg5NTcyMiwxNzU2NDQzOTIzLC0xMT
+eyJoaXN0b3J5IjpbLTUzNDg0OTE3MywxNzU2NDQzOTIzLC0xMT
 QwOTg5ODc2LDg4NjY0NTgwMSwtNTAyNTU0MDksMTk1NjQ3MzY0
 M119
 -->
