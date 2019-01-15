@@ -5,35 +5,33 @@
 
 - **2.1**   Chọn Install Ubuntu Server => Enter
 
-[![](https://camo.githubusercontent.com/1c7225a93be5ee3cb3fcdfe384dea7f17ec7f3f0/68747470733a2f2f692e696d6775722e636f6d2f7739387a37574f2e706e67)](https://camo.githubusercontent.com/1c7225a93be5ee3cb3fcdfe384dea7f17ec7f3f0/68747470733a2f2f692e696d6775722e636f6d2f7739387a37574f2e706e67)
+![](https://camo.githubusercontent.com/1c7225a93be5ee3cb3fcdfe384dea7f17ec7f3f0/68747470733a2f2f692e696d6775722e636f6d2f7739387a37574f2e706e67)
 
 - **2.2** tới phần **select a Language** chọn ngôn ngữ sử dụng trong hệ điều hành **Ubuntu Server 16.04** chọn **English** ==> Enter 
 
-[![](https://camo.githubusercontent.com/b2aa1b8b4c5da050eab40f08f50aaddfc91410e8/68747470733a2f2f692e696d6775722e636f6d2f49664f7353586f2e706e67)](https://camo.githubusercontent.com/b2aa1b8b4c5da050eab40f08f50aaddfc91410e8/68747470733a2f2f692e696d6775722e636f6d2f49664f7353586f2e706e67)
+![](https://camo.githubusercontent.com/b2aa1b8b4c5da050eab40f08f50aaddfc91410e8/68747470733a2f2f692e696d6775722e636f6d2f49664f7353586f2e706e67)
 
   - **2.3** lựa chọn khu vực **
 
-[![](https://camo.githubusercontent.com/56f11cbc637d8ad42c33b98398afcb17b46c17c5/68747470733a2f2f692e696d6775722e636f6d2f4173504345446d2e706e67)](https://camo.githubusercontent.com/56f11cbc637d8ad42c33b98398afcb17b46c17c5/68747470733a2f2f692e696d6775722e636f6d2f4173504345446d2e706e67)
+![](https://camo.githubusercontent.com/56f11cbc637d8ad42c33b98398afcb17b46c17c5/68747470733a2f2f692e696d6775722e636f6d2f4173504345446d2e706e67)
 
 -  **2.4**  Chọn **No** nếu không cấu hình bàn phím mặc định sẽ là kiểu bàn phím **English**
 
-[![](https://camo.githubusercontent.com/2d8085d3a70dc97eb89e86aab3f72b4ed20f4c16/68747470733a2f2f692e696d6775722e636f6d2f3148505576756e2e706e67)](https://camo.githubusercontent.com/2d8085d3a70dc97eb89e86aab3f72b4ed20f4c16/68747470733a2f2f692e696d6775722e636f6d2f3148505576756e2e706e67)
+![](https://camo.githubusercontent.com/2d8085d3a70dc97eb89e86aab3f72b4ed20f4c16/68747470733a2f2f692e696d6775722e636f6d2f3148505576756e2e706e67)
 
 - **2.5** Chọn chuẩn cú pháp gõ bàn phím dành cho  **Keyboad** của bạn . Thông thường chúng ta sủa dụng chuẩn tiếng anh. nên chọ **English**
 
-[![](https://camo.githubusercontent.com/29f4926fecbf721d10b881ff7cc1f9fd481e88c4/68747470733a2f2f692e696d6775722e636f6d2f344c79685865752e706e67)](https://camo.githubusercontent.com/29f4926fecbf721d10b881ff7cc1f9fd481e88c4/68747470733a2f2f692e696d6775722e636f6d2f344c79685865752e706e67)
-
+![](https://camo.githubusercontent.com/29f4926fecbf721d10b881ff7cc1f9fd481e88c4/68747470733a2f2f692e696d6775722e636f6d2f344c79685865752e706e67)
 -  **2.6** Quá trình cấu hình mạng tự động
 
-[![](https://camo.githubusercontent.com/ec207f83ac1d4508d9245216337c9f858d43abb0/68747470733a2f2f692e696d6775722e636f6d2f463334663857642e706e67)](https://camo.githubusercontent.com/ec207f83ac1d4508d9245216337c9f858d43abb0/68747470733a2f2f692e696d6775722e636f6d2f463334663857642e706e67)
-
+![](https://camo.githubusercontent.com/ec207f83ac1d4508d9245216337c9f858d43abb0/68747470733a2f2f692e696d6775722e636f6d2f463334663857642e706e67)
 -  **2.2** Cấu hình tên máy **hostname** cho server Ubuntu 
 
 ![](https://camo.githubusercontent.com/b18dfc224f7f631208e978a2052717b457f1009a/68747470733a2f2f692e696d6775722e636f6d2f414676314a4d732e706e67)
 
 -   **2.2** Tạo User khác để đăng nhập từ đầu . Thay vì sử dụng User **root** vì lý do bảo mật. 
 
-[![](https://camo.githubusercontent.com/ab8287ff80126554d551b0f59a72c6f9253556d9/68747470733a2f2f692e696d6775722e636f6d2f5331385a6d616f2e706e67)](https://camo.githubusercontent.com/ab8287ff80126554d551b0f59a72c6f9253556d9/68747470733a2f2f692e696d6775722e636f6d2f5331385a6d616f2e706e67)
+![](https://camo.githubusercontent.com/ab8287ff80126554d551b0f59a72c6f9253556d9/68747470733a2f2f692e696d6775722e636f6d2f5331385a6d616f2e706e67)
 
 -   Chọn "No" để không mã hóa thư mục home
 
@@ -77,6 +75,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODE0NjUzMSwtNTAyNTU0MDksMTk1Nj
-Q3MzY0M119
+eyJoaXN0b3J5IjpbMzY4MTA0MTM2LC01MDI1NTQwOSwxOTU2ND
+czNjQzXX0=
 -->
