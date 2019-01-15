@@ -147,10 +147,10 @@
 		-   Thư mục / var chứa các tệp sẽ thay đổi về kích thước và nội dung khi hệ thống đang chạy
 
 3.**File System Table** 
-	`etc/fstab` file này có trên mọi máy tính Linux, kiểm soát filesystem LinuxTìm hiểu hệ thống tập tin và thư mục trên hệ điều hành Linux ") nào được gắn (_mount_) ở đây. các partition Windows và các chia sẻ mạng. Bạn cũng có thể sử dụng nó để kiểm soát các điểm gắn của các thiết bị lưu trữ ngoài giống như USB và các ổ cứng ngoài
+	`etc/fstab` file này có trên mọi máy tính Linux, kiểm soát cho biết các điểm mount vào filesystem . Các partition Windows và các chia sẻ mạng và có thể sử dụng nó để kiểm soát các điểm gắn của các thiết bị lưu trữ ngoài giống như USB và các ổ cứng ngoài
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzIwOTYwNDAsNjEzNzA0NjQsLTEzNT
+eyJoaXN0b3J5IjpbLTE4MzE4NDk3MDYsNjEzNzA0NjQsLTEzNT
 gyNzgxNDksODQwNDgyNjU0LDEyNDY1MDUxNzAsLTE2MDgyMDA2
 MTEsLTY0NzY1NTE2MV19
 -->
