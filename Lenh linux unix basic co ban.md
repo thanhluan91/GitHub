@@ -25,7 +25,8 @@
 
   3. **cd đến nơi khác**
 
-  cd viết tắt của Change Directory, nghĩa là đổi sang thư mục khác. Dùng cực kỳ thường xuyên, ngày nào cũng phải dùng
+  cd viết tắt của Change Directory, nghĩa là đổi sang thư mục khác. Dùng cực kỳ thường xuyên, ngày nào cũng phải dùng 
+  chuyển một thư mục thành thư mục hiện hành cho phiên làm việc hiện tại. Nó cũng tương tự với việc bạn mở một thư mục và thao tác với các file và thư mục bên trong đó trên giao diện người dùng
     - cd đến thư mục /usr/local
 
        `CentOS1: ~$ cd /usr/local`
@@ -49,7 +50,8 @@
     - Quay về thư mục trước (folder)
 
        `CentOS1:/usr/local/lib$ cd -`
-       `CentOS1:/usr/local$`    
+       `CentOS1:/usr/local$`   
+  ---------      
   4. **cp - Tạo bản copy**
   cp viết tắt của copy là sao chép thư mục khác
      - Để tạo bản copy của 1 file nhưng với tên khác trong cùng directory
@@ -85,5 +87,6 @@
   14. **ifconfig - Hiển thị thông tin mạng**
   15. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDgyMDA2MTEsLTY0NzY1NTE2MV19
+eyJoaXN0b3J5IjpbMTY2MjYzNzYyMCwtMTYwODIwMDYxMSwtNj
+Q3NjU1MTYxXX0=
 -->
