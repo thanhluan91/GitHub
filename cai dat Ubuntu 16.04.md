@@ -35,9 +35,9 @@
 
 ![](https://camo.githubusercontent.com/ab8287ff80126554d551b0f59a72c6f9253556d9/68747470733a2f2f692e696d6775722e636f6d2f5331385a6d616f2e706e67)
 
--   Chọn "No" để không mã hóa thư mục home
+-  **2.2** Đặt mật khẩu cho **User** vừa tạo 
 
-[![](https://camo.githubusercontent.com/50c5bd9e4de25bf17e8cc78144a087c05c443437/68747470733a2f2f692e696d6775722e636f6d2f48336c6d476e672e706e67)](https://camo.githubusercontent.com/50c5bd9e4de25bf17e8cc78144a087c05c443437/68747470733a2f2f692e696d6775722e636f6d2f48336c6d476e672e706e67)
+![](https://camo.githubusercontent.com/50c5bd9e4de25bf17e8cc78144a087c05c443437/68747470733a2f2f692e696d6775722e636f6d2f48336c6d476e672e706e67)
 
 -   Chọn Time Zone => Enter
 
@@ -77,6 +77,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2NjQ1ODAxLC01MDI1NTQwOSwxOTU2ND
-czNjQzXX0=
+eyJoaXN0b3J5IjpbMjA2OTU2Mzc3OSw4ODY2NDU4MDEsLTUwMj
+U1NDA5LDE5NTY0NzM2NDNdfQ==
 -->
