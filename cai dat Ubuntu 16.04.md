@@ -15,7 +15,7 @@
 
 [![](https://camo.githubusercontent.com/56f11cbc637d8ad42c33b98398afcb17b46c17c5/68747470733a2f2f692e696d6775722e636f6d2f4173504345446d2e706e67)](https://camo.githubusercontent.com/56f11cbc637d8ad42c33b98398afcb17b46c17c5/68747470733a2f2f692e696d6775722e636f6d2f4173504345446d2e706e67)
 
--   Chọn "No" nếu ko cấu hình bàn phím
+-  **2.4**  Chọn **No** nếu không cấu hình bàn phím mặc định sẽ là
 
 [![](https://camo.githubusercontent.com/2d8085d3a70dc97eb89e86aab3f72b4ed20f4c16/68747470733a2f2f692e696d6775722e636f6d2f3148505576756e2e706e67)](https://camo.githubusercontent.com/2d8085d3a70dc97eb89e86aab3f72b4ed20f4c16/68747470733a2f2f692e696d6775722e636f6d2f3148505576756e2e706e67)
 
@@ -77,6 +77,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDcwNjM3MCwtNTAyNTU0MDksMTk1Nj
+eyJoaXN0b3J5IjpbLTM3ODM2NzAwNSwtNTAyNTU0MDksMTk1Nj
 Q3MzY0M119
 -->
