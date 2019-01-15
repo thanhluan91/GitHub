@@ -144,9 +144,13 @@
 		-   Trong những hệ thống UNIX, mỗi người dùng có đường dẫn sở hữu của họ. Thông thường được đặt /home. Thư mục /home thường được mount 1 filesystem riêng biệt trên partition
 		
 2. **Thư mục var**
+		-   Thư mục / var chứa các tệp sẽ thay đổi về kích thước và nội dung khi hệ thống đang chạy
+
+3.**File System Table** 
+	`etc/fsta
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxMzg4MjM0LDYxMzcwNDY0LC0xMzU4Mj
+eyJoaXN0b3J5IjpbNDc4NTk3ODUwLDYxMzcwNDY0LC0xMzU4Mj
 c4MTQ5LDg0MDQ4MjY1NCwxMjQ2NTA1MTcwLC0xNjA4MjAwNjEx
 LC02NDc2NTUxNjFdfQ==
 -->
