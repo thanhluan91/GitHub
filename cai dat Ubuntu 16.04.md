@@ -63,11 +63,11 @@
 -   **2.15** Cấu hình http proxy nếu cần thiết để update luôn các phiên bản phần mềm đang có trong đĩa ISO  cài đặt Ubuntu . Bỏ trống và chọn **Continue** 
 ![](https://camo.githubusercontent.com/9e55e35931a0ba709322dd285bfc41c93ae56b44/68747470733a2f2f692e696d6775722e636f6d2f657a597161447a2e706e67)
 
--  **2.16** nếu muốn cập nhật phần mềm tự động trong quá trình cài đặt thì chọn option dưới , để tránh cài đặt các ứng dụng phần mềm không cần thiết nên ta chọn **No a** 
+-  **2.16** nếu muốn cập nhật phần mềm tự động trong quá trình cài đặt thì chọn option dưới , để tránh cài đặt các ứng dụng phần mềm không cần thiết nên ta chọn **No automatic updates** để cài phần mềm sau  
 
-[![](https://camo.githubusercontent.com/3dac841f44aada330c65291741e03ded90c4485f/68747470733a2f2f692e696d6775722e636f6d2f4647694a48656f2e706e67)](https://camo.githubusercontent.com/3dac841f44aada330c65291741e03ded90c4485f/68747470733a2f2f692e696d6775722e636f6d2f4647694a48656f2e706e67)
+![](https://camo.githubusercontent.com/3dac841f44aada330c65291741e03ded90c4485f/68747470733a2f2f692e696d6775722e636f6d2f4647694a48656f2e706e67)
 
--   Chọn "Yes" để cài đặt GRUB Boot loader
+-  **2.17** Cài đặt **select a Language** 
 
 [![](https://camo.githubusercontent.com/dccb0036d24752649a2dc6f24aacdb650840ea3e/68747470733a2f2f692e696d6775722e636f6d2f7331536d704e502e706e67)](https://camo.githubusercontent.com/dccb0036d24752649a2dc6f24aacdb650840ea3e/68747470733a2f2f692e696d6775722e636f6d2f7331536d704e502e706e67)
 
@@ -77,6 +77,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1NjY5OTQwLC0xMTQwOTg5ODc2LDg4Nj
-Y0NTgwMSwtNTAyNTU0MDksMTk1NjQ3MzY0M119
+eyJoaXN0b3J5IjpbLTY0MDI2NjEyMSwtMTE0MDk4OTg3Niw4OD
+Y2NDU4MDEsLTUwMjU1NDA5LDE5NTY0NzM2NDNdfQ==
 -->
