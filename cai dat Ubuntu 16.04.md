@@ -76,10 +76,10 @@
 
 
 |Hoàn thành quá trình cài đặt và hãy đăng nhập với tài khoản vừa tạo ở trên!|
-:-----------:|
+:-----------:
 |END!| 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyMjQ2NDE2LC0xMTQwOTg5ODc2LDg4Nj
-Y0NTgwMSwtNTAyNTU0MDksMTk1NjQ3MzY0M119
+eyJoaXN0b3J5IjpbMTEyODUyMTE0MCwtMTE0MDk4OTg3Niw4OD
+Y2NDU4MDEsLTUwMjU1NDA5LDE5NTY0NzM2NDNdfQ==
 -->
