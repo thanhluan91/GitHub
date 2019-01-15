@@ -147,10 +147,10 @@
 		-   Thư mục / var chứa các tệp sẽ thay đổi về kích thước và nội dung khi hệ thống đang chạy
 
 3.**File System Table** 
-	`etc/fstab` 
+	`etc/fstab` file này ó trên mọi máy tính Linux, kiểm soát filesystem LinuxTìm hiểu hệ thống tập tin và thư mục trên hệ điều hành Linux ") nào được gắn (_mount_) ở đây.
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyMTMzMzk2LDYxMzcwNDY0LC0xMzU4Mj
-c4MTQ5LDg0MDQ4MjY1NCwxMjQ2NTA1MTcwLC0xNjA4MjAwNjEx
-LC02NDc2NTUxNjFdfQ==
+eyJoaXN0b3J5IjpbLTIxMTc0MTcyNCw2MTM3MDQ2NCwtMTM1OD
+I3ODE0OSw4NDA0ODI2NTQsMTI0NjUwNTE3MCwtMTYwODIwMDYx
+MSwtNjQ3NjU1MTYxXX0=
 -->
