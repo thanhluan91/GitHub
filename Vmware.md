@@ -73,10 +73,13 @@ III. Networking Vmware
 Ta có thể thấy trong hình card bridge có tên là VMnet0, card Nat có tên là VMnet8 , Host-only VMnet1
 
 Card bridge không có địa chỉ IP do nó sẽ sử dụng dải IP của máy thật. VMware sẽ tự sinh một dải IP và gán cho VMnet8. Trong trường hợp của tôi là dải 10.10.0.0/24.
-	*- Card mạng Bridgerd*
+
+*- Card mạng Bridgerd*
 Use bridged connection: cho phép card mạng máy ảo kết nối trực tiếp với card mạng máy thật, giống như khi chúng được kết nối vào chung một  switch. Khi đó, địa chỉ IP của máy ảo phải nằm cùng subnet với địa chỉ IP mà card mạng máy thật đang dùng. Đây là lựa chọn thường được sử dụng nhiều nhất khi tạo một mạng máy tính ảo.
-* -Card mạng Nat*
+
+ -Card mạng Nat*
 Use network address translation (NAT): máy ảo sẽ nằm ở một vùng địa chỉ IP khác và phải thực hiện việc kỹ thuật chuyển đổi địa chỉ (NAT) khi liên lạc với máy tính bên ngoài.
+
 *- Card mạng Hots-only*
 Use host-only networking: máy tính ảo sẽ kết nối với máy tính thật bằng một vùng mạng riêng, nhưng không liên lạc được với bên ngoài.
 
@@ -142,8 +145,8 @@ Các card mạng này có thể cấp DHCP cho các máy ảo sử dụng nó.
 
 ![](https://i.imgur.com/fjwdjjM.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDU5NDI2MSwtMjA0MTkyODA4NywtMT
-Q3MTQ1ODU4OCwtMTM4OTUyMDksOTE2NjcxMjc0LC0xMDE2NDI5
-MTE0LC0xMTI2MDUwOTUzLC0yNzExMjcwNTEsMjAzODU0MDI2Mi
-wyMDQ5OTE0OTg4LDI5OTcwOTU1NSwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTEzMzE1ODA3NzEsLTIwNDE5MjgwODcsLT
+E0NzE0NTg1ODgsLTEzODk1MjA5LDkxNjY3MTI3NCwtMTAxNjQy
+OTExNCwtMTEyNjA1MDk1MywtMjcxMTI3MDUxLDIwMzg1NDAyNj
+IsMjA0OTkxNDk4OCwyOTk3MDk1NTUsMjA0MDI5NzYyMl19
 -->
