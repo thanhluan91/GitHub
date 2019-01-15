@@ -108,7 +108,7 @@ Trong dòng Subnet IP chọn dải IP và subnet muốn thay đổi.
 ![](https://i.imgur.com/nog7IBA.png)
 
 - Cài đặt subnet : 192.168.220.0/24
-- 
+
 Click Apply và OK
 
 ### 2.3. Cấu hình DHCP
@@ -121,8 +121,8 @@ Các card mạng này có thể cấp DHCP cho các máy ảo sử dụng nó.
 
 - Cấp DHCP 	 từ 192.168.220.10 đến 192.168.220.50 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzM1MDE2MjksLTE0NzE0NTg1ODgsLT
-EzODk1MjA5LDkxNjY3MTI3NCwtMTAxNjQyOTExNCwtMTEyNjA1
-MDk1MywtMjcxMTI3MDUxLDIwMzg1NDAyNjIsMjA0OTkxNDk4OC
-wyOTk3MDk1NTUsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTM3MTM4MDc0NiwtMTQ3MTQ1ODU4OCwtMT
+M4OTUyMDksOTE2NjcxMjc0LC0xMDE2NDI5MTE0LC0xMTI2MDUw
+OTUzLC0yNzExMjcwNTEsMjAzODU0MDI2MiwyMDQ5OTE0OTg4LD
+I5OTcwOTU1NSwyMDQwMjk3NjIyXX0=
 -->
