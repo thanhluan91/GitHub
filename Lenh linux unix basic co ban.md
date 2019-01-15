@@ -123,10 +123,12 @@
 		  `gzip <tên file>` tạo file nén (.gz). Sử dụng `gzip -d <tên file>` để giải nén (file .gz).
   18. **unzip**
 		  `unzip <file-nén.zip>` giải nén một file nén (.zip).
-		   Sử dụng `unzip -l <file-nén.zip>** để xem nội dung file zip mà không cần giải nén
-  20. ** **
+		  
+		 - Sử dụng `unzip -l <file-nén.zip>` để xem nội dung file zip mà không cần giải nén
+
+## Cấu trúc phân lớp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjI3ODEyNyw2MTM3MDQ2NCwtMTM1OD
+eyJoaXN0b3J5IjpbMTk5MDA5MjgzOSw2MTM3MDQ2NCwtMTM1OD
 I3ODE0OSw4NDA0ODI2NTQsMTI0NjUwNTE3MCwtMTYwODIwMDYx
 MSwtNjQ3NjU1MTYxXX0=
 -->
