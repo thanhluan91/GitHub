@@ -54,7 +54,7 @@
   cp viết tắt của copy là sao chép thư mục khác
      - Để tạo bản copy của 1 file nhưng với tên khác trong cùng directory
 
-       ` cp [file_name] [another_name]`
+       ` cp [file nguồn] [file đích]`
 
      - Để copy 1 hay nhiều file đến directory khác
 
@@ -72,17 +72,18 @@
        `b.txt` -> `lab/b.txt` -
        `c.txt` -> `lab/c.txt` -
 
-  2. **mv - di chuyển hoặc đổi tên**
-  2. **rm - xóa, xóa hết, xóa sạch**
-  7. **Các lệnh về thông tin hệ thống**
+  5. **mv - di chuyển hoặc đổi tên**
+  6. 
+  7. **rm - xóa, xóa hết, xóa sạch**
+  8. **Các lệnh về thông tin hệ thống**
 
-  2. **df -kiểm tra dung lượng các partition**
-  2. **du - kiểm tra dung lượng các directory**
-  2. **free - thông tin về Ram**
-  2. **top - Một Task Manager của Linux**
-  2. **uname - Thông tin về kernel**
-  2. **ifconfig - Hiển thị thông tin mạng**
-  2. ** **
+  9. **df -kiểm tra dung lượng các partition**
+  10. **du - kiểm tra dung lượng các directory**
+  11. **free - thông tin về Ram**
+  12. **top - Một Task Manager của Linux**
+  13. **uname - Thông tin về kernel**
+  14. **ifconfig - Hiển thị thông tin mạng**
+  15. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjA1NjQ5MSwtNjQ3NjU1MTYxXX0=
+eyJoaXN0b3J5IjpbLTE2MDgyMDA2MTEsLTY0NzY1NTE2MV19
 -->
