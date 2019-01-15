@@ -100,15 +100,18 @@
 	  `rm -r <tên thư mục>` để xóa thư mục và toàn bộ dữ liệu trong thư mục đó.
 ---	  
   12. **less – print LESS**
-  13. 
-  14. **du - kiểm tra dung lượng các directory**
+	  `less <tên file>` in ra nội dung của một file theo từng trang trong trường hợp nội dung của file quá lớn và phải đọc theo trang. Bạn có thể dùng *Ctrl+F* để chuyển trang tiếp theo và *Ctrl+B* để chuyển về trang trước
+	  
+	  ----
+  13. **grep**
+  14. 
   15. **free - thông tin về Ram**
   16. **top - Một Task Manager của Linux**
   17. **uname - Thông tin về kernel**
   18. **ifconfig - Hiển thị thông tin mạng**
   19. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMDY5MTU2LC0xMzU4Mjc4MTQ5LDg0MD
-Q4MjY1NCwxMjQ2NTA1MTcwLC0xNjA4MjAwNjExLC02NDc2NTUx
-NjFdfQ==
+eyJoaXN0b3J5IjpbMzU0Nzg4NDEsLTEzNTgyNzgxNDksODQwND
+gyNjU0LDEyNDY1MDUxNzAsLTE2MDgyMDA2MTEsLTY0NzY1NTE2
+MV19
 -->
