@@ -52,9 +52,9 @@
 
 ![](https://camo.githubusercontent.com/65ba5e03e7c0a634ca05143cb7d55e848635e8ca/68747470733a2f2f692e696d6775722e636f6d2f747468586e4c742e706e67)
 
-- **2.13** lựa chọn ổ cứng sẽ cài đặt hệ điều hành **OS Ubuntu ** 
+- **2.13** lựa chọn ổ cứng sẽ cài đặt hệ điều hành **OS Ubuntu Server** lên máy chủ  
 
-[![](https://camo.githubusercontent.com/564a90a169b38fc1fdd8bbe98d6837e2ffa75a88/68747470733a2f2f692e696d6775722e636f6d2f704534754365512e706e67)](https://camo.githubusercontent.com/564a90a169b38fc1fdd8bbe98d6837e2ffa75a88/68747470733a2f2f692e696d6775722e636f6d2f704534754365512e706e67)
+![](https://camo.githubusercontent.com/564a90a169b38fc1fdd8bbe98d6837e2ffa75a88/68747470733a2f2f692e696d6775722e636f6d2f704534754365512e706e67)](https://camo.githubusercontent.com/564a90a169b38fc1fdd8bbe98d6837e2ffa75a88/68747470733a2f2f692e696d6775722e636f6d2f704534754365512e706e67)
 
 -   Bỏ trống và chọn "Continue" để bỏ qua cấu hình proxy
 
@@ -78,6 +78,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDI3MTU0NSw4ODY2NDU4MDEsLTUwMj
-U1NDA5LDE5NTY0NzM2NDNdfQ==
+eyJoaXN0b3J5IjpbOTA1NDA1MjQ4LDg4NjY0NTgwMSwtNTAyNT
+U0MDksMTk1NjQ3MzY0M119
 -->
