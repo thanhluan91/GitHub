@@ -76,7 +76,8 @@
        `c.txt` -> `lab/c.txt` -
 ---
   5. **mv - di chuyển hoặc đổi tên**
-	  -  `mv <file nguồn> <file đích>  di chuyển một file hoặc thư mục từ vị trí này sang vị trí khác .
+	  -  `mv <file nguồn> <file đích>  di chuyển một file hoặc thư mục từ vị trí này sang vị trí khác . Lệnh này cũng dùng để đổi tên tệp tin/thư mục khi thư mục nguồn và đích trùng nhau
+	  
 ---
   6. 
  ---
@@ -94,6 +95,6 @@
   15. **ifconfig - Hiển thị thông tin mạng**
   16. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjUwNTE3MCwtMTYwODIwMDYxMSwtNj
-Q3NjU1MTYxXX0=
+eyJoaXN0b3J5IjpbLTUzNjY4MDA1LDEyNDY1MDUxNzAsLTE2MD
+gyMDA2MTEsLTY0NzY1NTE2MV19
 -->
