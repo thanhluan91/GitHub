@@ -83,3 +83,6 @@
   2. **uname - Thông tin về kernel**
   2. **ifconfig - Hiển thị thông tin mạng**
   2. ** **
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY0NzY1NTE2MV19
+-->
