@@ -97,6 +97,7 @@ Làm tương tự để add thêm các vmnet tiếp theo.
 ##### Xóa một vmnet
 
 Trong Virtual Network Editor chọn một vmnet và ấn Remove Network (button cạnh Add Network)
+![](![](https://i.imgur.com/e6GoDz1.png))
 
 ### 2.2. Sửa dải IP của một vmnet
 
@@ -104,7 +105,7 @@ Có thể thấy các dải IP mà VMware tự sinh ra và gắn cho các card m
 
 Trong dòng Subnet IP chọn dải IP và subnet muốn thay đổi.
 
-[![](https://camo.githubusercontent.com/a22f66e3d1e68b1a65cdf7edc5636073c4f74478/687474703a2f2f692e696d6775722e636f6d2f386139506a6f432e706e67)](https://camo.githubusercontent.com/a22f66e3d1e68b1a65cdf7edc5636073c4f74478/687474703a2f2f692e696d6775722e636f6d2f386139506a6f432e706e67)
+![]((https://i.imgur.com/nog7IBA.png)
 
 Click Apply và OK
 
@@ -262,7 +263,8 @@ Bỏ chọn connect a host virtual adapter to this network
 
 [![](https://camo.githubusercontent.com/d9a253690cca40131b758c40a80079ebbc760e8a/687474703a2f2f692e696d6775722e636f6d2f645449555172342e706e67)](https://camo.githubusercontent.com/d9a253690cca40131b758c40a80079ebbc760e8a/687474703a2f2f692e696d6775722e636f6d2f645449555172342e706e67)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2OTk4NDcxLDkxNjY3MTI3NCwtMTAxNj
-QyOTExNCwtMTEyNjA1MDk1MywtMjcxMTI3MDUxLDIwMzg1NDAy
-NjIsMjA0OTkxNDk4OCwyOTk3MDk1NTUsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTUzNTgzNzcyMyw5MTY2NzEyNzQsLTEwMT
+Y0MjkxMTQsLTExMjYwNTA5NTMsLTI3MTEyNzA1MSwyMDM4NTQw
+MjYyLDIwNDk5MTQ5ODgsMjk5NzA5NTU1LDIwNDAyOTc2MjJdfQ
+==
 -->
