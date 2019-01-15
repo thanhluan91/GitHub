@@ -119,11 +119,14 @@
 		`tar -tvf <tên-file-nén.tar>`  xem nội dung file nén (.tar).
 
 		`tar -xvf <tên-file-nén.tar>`  giải nén (file .tar).
-  18. **gzip**
-  19. **ifconfig - Hiển thị thông tin mạng**
+  17. **gzip**
+		  `gzip <tên file>` tạo file nén (.gz). Sử dụng `gzip -d <tên file>` để giải nén (file .gz).
+  18. **unzip**
+		  `unzip <file-nén.zip>` giải nén một file nén (.zip).
+		   Sử dụng `unzip -l <file-nén.zip>** để xem nội dung file zip mà không cần giải nén
   20. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyMDk1MTU2LDYxMzcwNDY0LC0xMzU4Mj
-c4MTQ5LDg0MDQ4MjY1NCwxMjQ2NTA1MTcwLC0xNjA4MjAwNjEx
-LC02NDc2NTUxNjFdfQ==
+eyJoaXN0b3J5IjpbLTQ4MjI3ODEyNyw2MTM3MDQ2NCwtMTM1OD
+I3ODE0OSw4NDA0ODI2NTQsMTI0NjUwNTE3MCwtMTYwODIwMDYx
+MSwtNjQ3NjU1MTYxXX0=
 -->
