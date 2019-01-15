@@ -39,13 +39,13 @@
 
 ![](https://camo.githubusercontent.com/50c5bd9e4de25bf17e8cc78144a087c05c443437/68747470733a2f2f692e696d6775722e636f6d2f48336c6d476e672e706e67)
 
--   **2.2** mã hóa thư mục /home để bảo mật . chọn **No** nếu không mã hóa 
+-   **2.10** mã hóa thư mục /home để bảo mật . chọn **No** nếu không mã hóa 
 
 ![](https://camo.githubusercontent.com/f1415cedeb80cc557c1f3518775cc36b78bd0f15/68747470733a2f2f692e696d6775722e636f6d2f71564e504c506d2e706e67)
 
 
--   **2.2** Chọn timezone cho server. chọn timezone và mu **s** 
-[![](https://camo.githubusercontent.com/5177e6b7ce4969ee00887d178583d2b4c63ba6dd/68747470733a2f2f692e696d6775722e636f6d2f76596c4e6838712e706e67)](https://camo.githubusercontent.com/5177e6b7ce4969ee00887d178583d2b4c63ba6dd/68747470733a2f2f692e696d6775722e636f6d2f76596c4e6838712e706e67)
+-   **2.11** Chọn **timezone** cho server. chọn **timezone** và múi giờ phù hợp với vị trí địa lý của mình  
+![](https://camo.githubusercontent.com/5177e6b7ce4969ee00887d178583d2b4c63ba6dd/68747470733a2f2f692e696d6775722e636f6d2f76596c4e6838712e706e67)
 
 -   Enter để chọn ổ cứng sẽ được cài đặt
 
@@ -77,6 +77,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA3ODY2MzcsODg2NjQ1ODAxLC01MD
-I1NTQwOSwxOTU2NDczNjQzXX0=
+eyJoaXN0b3J5IjpbOTIwNzY0MDAsODg2NjQ1ODAxLC01MDI1NT
+QwOSwxOTU2NDczNjQzXX0=
 -->
