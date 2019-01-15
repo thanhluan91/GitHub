@@ -179,7 +179,7 @@
 
 **12. /lib – Thư viện hệ thống**
 
-- Chứa cá thư viện hỗ trợ cho các file thực thi trong /bin và /sbin. Các thư viện này thường có tên bắt đầu bằng ld* hoặc lib*.so.*. Ví dụ như ld-2.11.1.so hay libncurses.so.5.7
+- Chứa cá thư viện hỗ trợ cho các file thực thi trong /bin và /sbin. Các thư viện này thường có tên bắt đầu bằng ld* hoặc lib*.so.*.
 
 **13. /opt – Các ứng dụng phụ tùy chọn**
 
@@ -191,12 +191,11 @@
 
 **15. /media – Các thiết bị gắn có thể gỡ bỏ**
 
-- Thư mục tạm này chứa các thiết bị như CdRom /media/cdrom. floppy /media/floopy hay các phân vùng đĩa cứng /media/Data (hiểu như là ổ D:/Data trong  [Windows](https://www.gocit.vn/bai-viet/tag/windows/ "Posts tagged with Windows"))
-3.**File System Table** 
-	`etc/fstab` file này có trên mọi máy tính Linux, kiểm soát cho biết các điểm mount vào filesystem . Các partition Windows và các chia sẻ mạng và có thể sử dụng nó để kiểm soát các điểm gắn của các thiết bị lưu trữ ngoài giống như USB và các ổ cứng ngoài
+- Thư mục tạm này chứa các thiết bị như CdRom /media/cdrom. floppy /media/floopy hay các phân vùng đĩa cứng /media/Data (hiểu như là ổ D:/Data trong  Windows
+
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODA4MzYxNSwtMTgzMTg0OTcwNiw2MT
+eyJoaXN0b3J5IjpbLTIwMjc5MzU4NCwtMTgzMTg0OTcwNiw2MT
 M3MDQ2NCwtMTM1ODI3ODE0OSw4NDA0ODI2NTQsMTI0NjUwNTE3
 MCwtMTYwODIwMDYxMSwtNjQ3NjU1MTYxXX0=
 -->
