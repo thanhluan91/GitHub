@@ -113,12 +113,17 @@
   15. **find**
 	  `find <thư mục>` -name `<tên file>` tìm kiếm file trong `<thư mục>` theo `<tên file>` .  
 		- Ta cũng có thể dùng `find <thư mục>` -iname `<tên file>` để tìm kiếm không phân biệt hoa thường.
-  17. **top - Một Task Manager của Linux**
+  16. **tar**
+		 `tar -cvf <tên-file-nén.tar> <file1 hoặc file2 ...>`  tạo file nén (.tar) từ các file có sẵn.
+
+	`tar -tvf <tên-file-nén.tar>`  xem nội dung file nén (.tar).
+
+`tar -xvf <tên-file-nén.tar>`  giải nén (file .tar).
   18. **uname - Thông tin về kernel**
   19. **ifconfig - Hiển thị thông tin mạng**
   20. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTU3MjIwNjgsNjEzNzA0NjQsLTEzNT
-gyNzgxNDksODQwNDgyNjU0LDEyNDY1MDUxNzAsLTE2MDgyMDA2
-MTEsLTY0NzY1NTE2MV19
+eyJoaXN0b3J5IjpbMTI2NDk1MzIwNyw2MTM3MDQ2NCwtMTM1OD
+I3ODE0OSw4NDA0ODI2NTQsMTI0NjUwNTE3MCwtMTYwODIwMDYx
+MSwtNjQ3NjU1MTYxXX0=
 -->
