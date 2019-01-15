@@ -203,9 +203,7 @@ kết quả như sau
  |Tạo kho dữ liệu ( repository ) cục bộ mới|| `Git  init`|
  |Kiểm tra một kho lưu trữ và tải về máy cục bộ |Tạo một bản sao làm việc tại một kho lưu trữ cục bộ|`Git clone https://github.com/thanhluan91/Thanh-Luan.git|
  ||
- ||||
- ||||
- ||||
+ 
 
 
 
@@ -217,7 +215,7 @@ kết quả như sau
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Mzk3NzQ1NiwtMzQyMzE5OTIzLDQ0MT
-czNjE4NSwtMTQxNjM2NzI3MywxNzAyMzM1OTcsLTEyMTQzNDcz
-OTMsLTEzNDAwODg4NjIsMzQ5NDk0MTMxXX0=
+eyJoaXN0b3J5IjpbMTEzOTU0MzUyLC0zNDIzMTk5MjMsNDQxNz
+M2MTg1LC0xNDE2MzY3MjczLDE3MDIzMzU5NywtMTIxNDM0NzM5
+MywtMTM0MDA4ODg2MiwzNDk0OTQxMzFdfQ==
 -->
