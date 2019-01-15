@@ -88,19 +88,23 @@
 	  `tail <tên file>` đọc và in ra nội dung 10 dòng cuối cùng của file (mặc định)
 	  `tail -n N <tên file>` trong đó N chỉ định số dòng muốn xem, in ra màn hình
 ---
-  8. **mkdir **
-  9. **rm - xóa, xóa hết, xóa sạch**
+  8. **mkdir - Tạo thư mục mới **
+	  `mkdir <tên thư mục mới muốn tạo> 
+  ---
+  9.
+  ---
+  10. **rm - xóa, xóa hết, xóa sạch**
 	  
-  10. **Các lệnh về thông tin hệ thống**
+  11. **Các lệnh về thông tin hệ thống**
 
-  11. **df -kiểm tra dung lượng các partition**
-  12. **du - kiểm tra dung lượng các directory**
-  13. **free - thông tin về Ram**
-  14. **top - Một Task Manager của Linux**
-  15. **uname - Thông tin về kernel**
-  16. **ifconfig - Hiển thị thông tin mạng**
-  17. ** **
+  12. **df -kiểm tra dung lượng các partition**
+  13. **du - kiểm tra dung lượng các directory**
+  14. **free - thông tin về Ram**
+  15. **top - Một Task Manager của Linux**
+  16. **uname - Thông tin về kernel**
+  17. **ifconfig - Hiển thị thông tin mạng**
+  18. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3NDAyMjY2LDg0MDQ4MjY1NCwxMjQ2NT
-A1MTcwLC0xNjA4MjAwNjExLC02NDc2NTUxNjFdfQ==
+eyJoaXN0b3J5IjpbMTk3NjQ4MTU2Niw4NDA0ODI2NTQsMTI0Nj
+UwNTE3MCwtMTYwODIwMDYxMSwtNjQ3NjU1MTYxXX0=
 -->
