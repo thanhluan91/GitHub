@@ -146,7 +146,7 @@ Thư mục này chứa các file cấu hình của các chương trình, đồng
 
 **5. /dev – Các file thiết bị**
 
-Các phân vùng ổ cứng, thiết bị ngoại vi như USB, ổ đĩa cắm ngoài, hay bất cứ thiết bị nào gắn kèm vào hệ thống đều được lưu ở đây. Ví dụ: /dev/sdb1 là tên của USB bạn vừa cắm vào máy, để mở được USB này bạn cần sử dụng lệnh  `mount`  với quyền root: #  [mount](https://www.gocit.vn/bai-viet/tag/mount/ "Posts tagged with mount")/dev/sdb1 /tmp
+Các phân vùng ổ cứng, thiết bị ngoại vi như USB, ổ đĩa cắm ngoài, hay bất cứ thiết bị nào gắn kèm vào hệ thống đều được lưu ở đây. Ví dụ: /dev/sdb1 là tên của USB bạn vừa cắm vào máy, để mở được USB này bạn cần sử dụng lệnh  `mount`  với quyền root
 
 **6. /tmp – Các file tạm**
 
@@ -196,7 +196,7 @@ Thư mục tạm này chứa các thiết bị như CdRom /media/cdrom. floppy /
 	`etc/fstab` file này có trên mọi máy tính Linux, kiểm soát cho biết các điểm mount vào filesystem . Các partition Windows và các chia sẻ mạng và có thể sử dụng nó để kiểm soát các điểm gắn của các thiết bị lưu trữ ngoài giống như USB và các ổ cứng ngoài
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MzQzMjgwNSwtMTgzMTg0OTcwNiw2MT
-M3MDQ2NCwtMTM1ODI3ODE0OSw4NDA0ODI2NTQsMTI0NjUwNTE3
-MCwtMTYwODIwMDYxMSwtNjQ3NjU1MTYxXX0=
+eyJoaXN0b3J5IjpbLTIxMzEwNTQ4MjcsLTE4MzE4NDk3MDYsNj
+EzNzA0NjQsLTEzNTgyNzgxNDksODQwNDgyNjU0LDEyNDY1MDUx
+NzAsLTE2MDgyMDA2MTEsLTY0NzY1NTE2MV19
 -->
