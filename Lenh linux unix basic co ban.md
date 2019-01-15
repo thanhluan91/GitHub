@@ -62,7 +62,7 @@
 
      - Để copy dir này sang dir khác . (folder cần copy không được có dấu "/" ở cuối nếu không sẽ lỗi) 
       
-       ` cp -r [dir_path] [target_dir_path]
+       ` cp -r [file nguồn] [file đích]
 
       - Để hiển thị quá trình copy (ta dùng option '-v')
 
@@ -84,5 +84,5 @@
   2. **ifconfig - Hiển thị thông tin mạng**
   2. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzY1NTE2MV19
+eyJoaXN0b3J5IjpbMjA4MjA1NjQ5MSwtNjQ3NjU1MTYxXX0=
 -->
