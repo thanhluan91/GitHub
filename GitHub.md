@@ -197,8 +197,8 @@ kết quả như sau
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
 
 ### **III. Basic Git commands**
-  `| Git task | Notes | Git commands |
-   |----------|-------|--------------|
+  | Git task | Notes | Git commands |
+  |----------|-------|--------------|
  
 
 
