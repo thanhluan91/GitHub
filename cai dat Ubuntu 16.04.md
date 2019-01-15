@@ -3,7 +3,7 @@
 
 ### 2. Install
 
-2.1   Chọn Install Ubuntu Server => Enter
+**2.1**   Chọn Install Ubuntu Server => Enter
 
 [![](https://camo.githubusercontent.com/1c7225a93be5ee3cb3fcdfe384dea7f17ec7f3f0/68747470733a2f2f692e696d6775722e636f6d2f7739387a37574f2e706e67)](https://camo.githubusercontent.com/1c7225a93be5ee3cb3fcdfe384dea7f17ec7f3f0/68747470733a2f2f692e696d6775722e636f6d2f7739387a37574f2e706e67)
 
@@ -77,6 +77,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTUyMzExOTksLTUwMjU1NDA5LDE5NT
+eyJoaXN0b3J5IjpbLTEwODExNjQ4MzEsLTUwMjU1NDA5LDE5NT
 Y0NzM2NDNdfQ==
 -->
