@@ -92,7 +92,8 @@
 	  `mkdir <tên thư mục mới muốn tạo>`
 	  Tạo một thư mục mới , nó cũng tương tự với việc bạn chọn new/create directory để tạo một thư mục mới trên giao diện người dùng . 
   ---
-  9.**rmdir - xóa thư mục **
+  9. **rmdir - xóa thư mục**
+	  `rmdir <tên thư mục cần xóa> xóa thư mục với tên tương ứng
   ---
   10. **rm - xóa, xóa hết, xóa sạch**
 	  
@@ -106,6 +107,6 @@
   17. **ifconfig - Hiển thị thông tin mạng**
   18. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDYwNTUxOCw4NDA0ODI2NTQsMTI0Nj
-UwNTE3MCwtMTYwODIwMDYxMSwtNjQ3NjU1MTYxXX0=
+eyJoaXN0b3J5IjpbNzUzMzIyNjYsODQwNDgyNjU0LDEyNDY1MD
+UxNzAsLTE2MDgyMDA2MTEsLTY0NzY1NTE2MV19
 -->
