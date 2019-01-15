@@ -204,7 +204,8 @@ kết quả như sau
  |Kiểm tra một kho lưu trữ và tải về máy cục bộ |Tạo một bản sao làm việc tại một kho lưu trữ cục bộ trong mạng nội bộ |`Git clone` /path/to/repository|
  ||Đối với một máy chủ từ xa|`git clone` username@host:/path/to/repository    VD: Git clone https://github.com/thanhluan91/Thanh-Luan.git|
  |Thêm các tập tin|Thêm một hoặc nhiều tệp tin |git add  "filename" ,    Git add .|
- |Commit|Sử dụng <tin nhắn> đã cho làm thông điệp cam kết|git commit -m "Commit message"|
+ |Commit|Sử dụng <tin nhắn> ghi chú cho bản ghi mới cập nhật|git commit -m "Commit message"|
+ 
  
 
 
@@ -217,9 +218,9 @@ kết quả như sau
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzY1MjAzNjUsMzUzNzc2NTA5LDQwOD
-UzNzE2MCwxNTUzNjg1NTUzLDIwNjkyNzUzMzUsLTk2MzUyOTYx
-MiwxMzI1OTQ1NzU3LC0zNDIzMTk5MjMsNDQxNzM2MTg1LC0xND
-E2MzY3MjczLDE3MDIzMzU5NywtMTIxNDM0NzM5MywtMTM0MDA4
-ODg2MiwzNDk0OTQxMzFdfQ==
+eyJoaXN0b3J5IjpbLTI1MzY4MDM3MSwzNTM3NzY1MDksNDA4NT
+M3MTYwLDE1NTM2ODU1NTMsMjA2OTI3NTMzNSwtOTYzNTI5NjEy
+LDEzMjU5NDU3NTcsLTM0MjMxOTkyMyw0NDE3MzYxODUsLTE0MT
+YzNjcyNzMsMTcwMjMzNTk3LC0xMjE0MzQ3MzkzLC0xMzQwMDg4
+ODYyLDM0OTQ5NDEzMV19
 -->
