@@ -105,7 +105,7 @@ Có thể thấy các dải IP mà VMware tự sinh ra và gắn cho các card m
 
 Trong dòng Subnet IP chọn dải IP và subnet muốn thay đổi.
 
-![]((https://i.imgur.com/nog7IBA.png)
+![](https://i.imgur.com/nog7IBA.png)
 
 Click Apply và OK
 
@@ -115,7 +115,7 @@ Các card mạng này có thể cấp DHCP cho các máy ảo sử dụng nó.
 
 để làm việc này ta ấn vào DHCP Settings, sau đó chọn dải IP dùng để cấp DHCP
 
-[![](https://camo.githubusercontent.com/12d6ecf547ea042eca943d478ee251b18f864622/687474703a2f2f692e696d6775722e636f6d2f526267484b50452e706e67)](https://camo.githubusercontent.com/12d6ecf547ea042eca943d478ee251b18f864622/687474703a2f2f692e696d6775722e636f6d2f526267484b50452e706e67)
+[![](https://i.imgur.com/ynbSglH.png)
 
 ### 2.4. Cách thêm một card mạng vào máy ảo
 
@@ -263,8 +263,7 @@ Bỏ chọn connect a host virtual adapter to this network
 
 [![](https://camo.githubusercontent.com/d9a253690cca40131b758c40a80079ebbc760e8a/687474703a2f2f692e696d6775722e636f6d2f645449555172342e706e67)](https://camo.githubusercontent.com/d9a253690cca40131b758c40a80079ebbc760e8a/687474703a2f2f692e696d6775722e636f6d2f645449555172342e706e67)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTgzNzcyMyw5MTY2NzEyNzQsLTEwMT
-Y0MjkxMTQsLTExMjYwNTA5NTMsLTI3MTEyNzA1MSwyMDM4NTQw
-MjYyLDIwNDk5MTQ5ODgsMjk5NzA5NTU1LDIwNDAyOTc2MjJdfQ
-==
+eyJoaXN0b3J5IjpbLTEzODk1MjA5LDkxNjY3MTI3NCwtMTAxNj
+QyOTExNCwtMTEyNjA1MDk1MywtMjcxMTI3MDUxLDIwMzg1NDAy
+NjIsMjA0OTkxNDk4OCwyOTk3MDk1NTUsMjA0MDI5NzYyMl19
 -->
