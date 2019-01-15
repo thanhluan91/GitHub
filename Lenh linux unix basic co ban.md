@@ -79,8 +79,9 @@
 	  -  `mv <file nguồn> <file đích>`  di chuyển một file hoặc thư mục từ vị trí này sang vị trí khác . Lệnh này cũng dùng để đổi tên tệp tin/thư mục khi thư mục nguồn và đích trùng nhau
 	  
 ---
-  6. **Cat - Xem tệp tin**
-	  `Cat
+  6. **Cat - Xem tâp tin**
+	  `cat <tên tập tin> `
+	  - Dùng để xem hoặc in nội dung tệp tin nào đó . tương tự như việc mở một
  ---
  
   7. **rm - xóa, xóa hết, xóa sạch**
@@ -96,6 +97,6 @@
   15. **ifconfig - Hiển thị thông tin mạng**
   16. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODQ3OTQ3OCwxMjQ2NTA1MTcwLC0xNj
-A4MjAwNjExLC02NDc2NTUxNjFdfQ==
+eyJoaXN0b3J5IjpbNTM1NTg2ODgzLDEyNDY1MDUxNzAsLTE2MD
+gyMDA2MTEsLTY0NzY1NTE2MV19
 -->
