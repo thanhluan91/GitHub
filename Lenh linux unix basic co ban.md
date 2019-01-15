@@ -98,17 +98,17 @@
   10. **rm - xóa, xóa hết, xóa sạch**
 	  `rm <tên file>` xóa file. Bạn cũng có thể sử dụng 
 	  `rm -r <tên thư mục>` để xóa thư mục và toàn bộ dữ liệu trong thư mục đó.
-  11. **Các lệnh về thông tin hệ thống**
-
-  12. **df -kiểm tra dung lượng các partition**
-  13. **du - kiểm tra dung lượng các directory**
-  14. **free - thông tin về Ram**
-  15. **top - Một Task Manager của Linux**
-  16. **uname - Thông tin về kernel**
-  17. **ifconfig - Hiển thị thông tin mạng**
-  18. ** **
+---	  
+  12. **less – print LESS**
+  13. 
+  14. **du - kiểm tra dung lượng các directory**
+  15. **free - thông tin về Ram**
+  16. **top - Một Task Manager của Linux**
+  17. **uname - Thông tin về kernel**
+  18. **ifconfig - Hiển thị thông tin mạng**
+  19. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM2MzQxNDQsLTEzNTgyNzgxNDksOD
-QwNDgyNjU0LDEyNDY1MDUxNzAsLTE2MDgyMDA2MTEsLTY0NzY1
-NTE2MV19
+eyJoaXN0b3J5IjpbNTExMDY5MTU2LC0xMzU4Mjc4MTQ5LDg0MD
+Q4MjY1NCwxMjQ2NTA1MTcwLC0xNjA4MjAwNjExLC02NDc2NTUx
+NjFdfQ==
 -->
