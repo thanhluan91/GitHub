@@ -2,7 +2,8 @@
 
 ### 1. Tải Ubuntu Server từ trang chủ.
 
-Bạn hãy truy cập vào Website: [tại đây]https://www.ubuntu.com/download/server]. Nhấn  **Download**  để tiến hành tải  **Ubuntu Server**  về. Lưu ý hãy chọn phiên bản  **16.04.1 LTS**  nhé. Sau đó ghi ra đĩa hoặc tạo USB cài đặt tuỳ theo điều kiện của bạn.
+Bạn hãy truy cập vào Website: [tại đây](https://www.ubuntu.com/download/server). Nhấn  **Download**  để tiến hành tải  **Ubuntu Server**  về. Lưu ý hãy chọn phiên bản  **16.04.1 LTS**  nhé. Sau đó ghi ra đĩa hoặc tạo USB cài đặt tuỳ theo điều kiện của bạn.
+
 ### 2. Install
 
 - **2.1**   Chọn Install Ubuntu Server => Enter
@@ -82,6 +83,6 @@ Bạn hãy truy cập vào Website: [tại đây]https://www.ubuntu.com/download
 |END!| 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDQ1NjYyMSwtMTE0MDk4OTg3Niw4OD
-Y2NDU4MDEsLTUwMjU1NDA5LDE5NTY0NzM2NDNdfQ==
+eyJoaXN0b3J5IjpbLTE5NTY2MjM0OTUsLTExNDA5ODk4NzYsOD
+g2NjQ1ODAxLC01MDI1NTQwOSwxOTU2NDczNjQzXX0=
 -->
