@@ -116,15 +116,15 @@ Bạn hãy truy cập vào Website: [tại đây](https://www.ubuntu.com/downloa
 -   **2.8** Thông báo hoàn thành quá trình cài đặt . Lúc này chọn **Continue** và máy sẽ tự động restart vào OS Ubuntu server  
 ![](https://camo.githubusercontent.com/d5cbfb9b86cef31289e18eb7f33faee5bb249aa3/68747470733a2f2f692e696d6775722e636f6d2f35325448694c4a2e706e67)
 
-    #### Hoàn thành quá trình cài đặt và hãy đăng nhập với tài khoản vừa tạo ở trên
-|    |
-|----|
-|    |
 
-|:## END:|
+|   Hoàn thành quá trình cài đặt và hãy đăng nhập với tài khoản ( User ) vừa tạo ở trên  |
+|:----:|
+|  END  |
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTc4NTEyLDE3NTY0NDM5MjMsLTExND
-A5ODk4NzYsODg2NjQ1ODAxLC01MDI1NTQwOSwxOTU2NDczNjQz
-XX0=
+eyJoaXN0b3J5IjpbMTEyNjg5NTcyMiwxNzU2NDQzOTIzLC0xMT
+QwOTg5ODc2LDg4NjY0NTgwMSwtNTAyNTU0MDksMTk1NjQ3MzY0
+M119
 -->
