@@ -86,7 +86,7 @@ Bạn hãy truy cập vào Website: [tại đây](https://www.ubuntu.com/downloa
 ![](https://camo.githubusercontent.com/f1415cedeb80cc557c1f3518775cc36b78bd0f15/68747470733a2f2f692e696d6775722e636f6d2f71564e504c506d2e706e67)
 
 
--   **2.11** Chọn **timezone** cho server. chọn **timezone** và múi giờ phù hợp với vị trí địa lý của mình  
+-  **2.11** Chọn **timezone** cho server. chọn **timezone** và múi giờ phù hợp với vị trí địa lý của mình  
 ![](https://camo.githubusercontent.com/5177e6b7ce4969ee00887d178583d2b4c63ba6dd/68747470733a2f2f692e696d6775722e636f6d2f76596c4e6838712e706e67)
 
 -   **2.12** Lựa chọn hình thức cấu hình chia Parition ổ cứng. có thể chọn **Guided - use entire disk** để máy tự động phân chia dung lượng và phần vùng ổ cứng
@@ -117,11 +117,12 @@ Bạn hãy truy cập vào Website: [tại đây](https://www.ubuntu.com/downloa
 ![](https://camo.githubusercontent.com/d5cbfb9b86cef31289e18eb7f33faee5bb249aa3/68747470733a2f2f692e696d6775722e636f6d2f35325448694c4a2e706e67)
 
 
-|Hoàn thành quá trình cài đặt và hãy đăng nhập với tài khoản vừa tạo ở trên!|
+|   Hoàn thành quá trình cài đặt và hãy đăng nhập với tài khoản vừa tạo ở trên!|
 :-----------:
 |END!| 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjQ0MzkyMywtMTE0MDk4OTg3Niw4OD
-Y2NDU4MDEsLTUwMjU1NDA5LDE5NTY0NzM2NDNdfQ==
+eyJoaXN0b3J5IjpbLTEwMDk5MTUwMjcsMTc1NjQ0MzkyMywtMT
+E0MDk4OTg3Niw4ODY2NDU4MDEsLTUwMjU1NDA5LDE5NTY0NzM2
+NDNdfQ==
 -->
