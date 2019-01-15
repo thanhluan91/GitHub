@@ -71,10 +71,10 @@
 
 ![](https://camo.githubusercontent.com/dccb0036d24752649a2dc6f24aacdb650840ea3e/68747470733a2f2f692e696d6775722e636f6d2f7331536d704e502e706e67)
 
--   **2.8** Thông bao **select a Language** 
+-   **2.8** Thông báo hoàn thành quá trình cài đặt . Lúc này chọn **Continue** và máy sẽ tự động restart vào OS Ubuntu server  
 ![](https://camo.githubusercontent.com/d5cbfb9b86cef31289e18eb7f33faee5bb249aa3/68747470733a2f2f692e696d6775722e636f6d2f35325448694c4a2e706e67)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTAxNDgwMiwtMTE0MDk4OTg3Niw4OD
+eyJoaXN0b3J5IjpbMjAxODMwOTI2NywtMTE0MDk4OTg3Niw4OD
 Y2NDU4MDEsLTUwMjU1NDA5LDE5NTY0NzM2NDNdfQ==
 -->
