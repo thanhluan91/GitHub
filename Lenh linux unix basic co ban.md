@@ -127,8 +127,21 @@
 		 - Sử dụng `unzip -l <file-nén.zip>` để xem nội dung file zip mà không cần giải nén
 
 ## Cấu trúc phân lớp
+-   Trên nhiều hệ điều hành, bao gồm cả linux , file system thường có dạng cây. Linux filesystem sẽ thường được bắt đầu từ thư mục root. Tất cả các thư mục khác là con của thư mục này. Các định dạng file system mà linux sp là: ext2, ext3, ext4, XFS, JFS, btrfs
+-   1./ (root): thư mục gốc, thư mục cha toàn bộ hệ thống
+-   2./ bin: chứa các tệp binary, chứa các lệnh của người dùng và toàn hệ thống
+-   3./ boot: chứa các thư mục và tệp tin trong bootloader
+-   4./dev: chứa các thiết bị ngoại vi, thiết bị đầu cuối gắn vào hệ thống
+-   5./etc: chứa các câu hình của package, và system
+-   6./home: chứa các tập tin, thư mục người dùng trên hệ thống
+-   7./lib: chứa các thư viện cho các chương trình trong /bin và /sbin
+-   8./media: là các điểm gắn kết system với các thiết bị bên ngoài
+-   9./mnt: điểm gắn kết cho phép gắn trực tiếp filesystem
+-   10./opt: chứa các gói phần mềm từ các package đã cài đặt
+-   11./tmp: chứa các file tạm thời, của các package đang chạy, sẽ mất đi khi root
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDA5MjgzOSw2MTM3MDQ2NCwtMTM1OD
+eyJoaXN0b3J5IjpbMTM0ODk0MTkxOCw2MTM3MDQ2NCwtMTM1OD
 I3ODE0OSw4NDA0ODI2NTQsMTI0NjUwNTE3MCwtMTYwODIwMDYx
 MSwtNjQ3NjU1MTYxXX0=
 -->
