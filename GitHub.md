@@ -199,7 +199,7 @@ kết quả như sau
 ### **III. Basic Git commands**
   | Git task| Notes|Git commands |
   |:------------------------------|:------------------------------:|:-------------:|
-  | Khai Báo tài khoản với Git áefsadfasdfaewfsdf| Cấu hình tên và địa chỉ mail để tạo key và liên kết xác thực tài khoản với Git |:- Git config --global user.name "Thanhluan91" :- git config --global user.email lamchidinhdn@gmail.com | 
+  | Khai Báo tài khoản với Git | Cấu hình tên và địa chỉ mail để tạo key và liên kết xác thực tài khoản với Git |:- Git config --global user.name "Thanhluan91" :- git config --global user.email lamchidinhdn@gmail.com | 
  
 
 
@@ -212,7 +212,7 @@ kết quả như sau
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNDUzMTc3LC0xNDE2MzY3MjczLDE3MD
-IzMzU5NywtMTIxNDM0NzM5MywtMTM0MDA4ODg2MiwzNDk0OTQx
-MzFdfQ==
+eyJoaXN0b3J5IjpbLTE4NTcwMDk0NTEsLTE0MTYzNjcyNzMsMT
+cwMjMzNTk3LC0xMjE0MzQ3MzkzLC0xMzQwMDg4ODYyLDM0OTQ5
+NDEzMV19
 -->
