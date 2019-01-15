@@ -66,20 +66,6 @@ _Màn hình cài đặt máy ảo tương tự như máy thật Ubuntu_​
 
 III. Networking Vmware
 
-Khi mới cài đặt VMware Workstation, mặc định phần mềm sẽ cài cho chúng ta 2 card mạng:
-
--   Một card bridge, card này sử dụng chính card mạng thật của chúng ta để kết nối ra ngoài Internet (card ethernet hoặc wireless). Do đó khi sử dụng card mạng này IP của máy ảo sẽ cùng với dải IP của máy thật.
-
-Ưu điểm: đơn giản, ra được internet và cùng dải máy thật nên cấu hình gì cũng dễ dàng.
-
-Nhược điểm: tôi đã gặp nhiều trường hợp dùng card bridge cấu hình bình thường và đến khi nơi nào không có mạng (lên lớp chẳng hạn) thì hỏi "hôm qua làm bình thường, sao nay lại không kết nối được?"
-
-=> mất mạng là mất hết!!!!
-
--   Một card Nat, card này sẽ Nat địa chỉ IP của máy thật ra một địa chỉ khác cho máy ảo sử dụng. Card này cũng có thể kết nối ra bên ngoài Internet.
-
-Cá nhân tôi ít khi dùng card này.
-
 Để xem các card mạng đã có trong VMware Workstation ta chỉ cần bật VMware lên, chọn Edit => Virtual Network Editor
 
 [![](https://camo.githubusercontent.com/685edb82d7771ab1f538102d5af1efb621c9e849/687474703a2f2f692e696d6775722e636f6d2f48513643334e702e706e67)](https://camo.githubusercontent.com/685edb82d7771ab1f538102d5af1efb621c9e849/687474703a2f2f692e696d6775722e636f6d2f48513643334e702e706e67)
@@ -276,7 +262,7 @@ Bỏ chọn connect a host virtual adapter to this network
 
 [![](https://camo.githubusercontent.com/d9a253690cca40131b758c40a80079ebbc760e8a/687474703a2f2f692e696d6775722e636f6d2f645449555172342e706e67)](https://camo.githubusercontent.com/d9a253690cca40131b758c40a80079ebbc760e8a/687474703a2f2f692e696d6775722e636f6d2f645449555172342e706e67)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzY2ODc3LC0xMDE2NDI5MTE0LC0xMT
+eyJoaXN0b3J5IjpbOTE2NjcxMjc0LC0xMDE2NDI5MTE0LC0xMT
 I2MDUwOTUzLC0yNzExMjcwNTEsMjAzODU0MDI2MiwyMDQ5OTE0
 OTg4LDI5OTcwOTU1NSwyMDQwMjk3NjIyXX0=
 -->
