@@ -89,7 +89,8 @@
 	  `tail -n N <tên file>` trong đó N chỉ định số dòng muốn xem, in ra màn hình
 ---
   8. **mkdir - Tạo thư mục mới **
-	  `mkdir <tên thư mục mới muốn tạo> 
+	  `mkdir <tên thư mục mới muốn tạo>`
+	  Tạo một thư mục mới , nó cũng tương tự với việc bạn chọn new/create directory để tạo một thư mục mới trên giao diện người dùng  
   ---
   9.
   ---
@@ -105,6 +106,6 @@
   17. **ifconfig - Hiển thị thông tin mạng**
   18. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjQ4MTU2Niw4NDA0ODI2NTQsMTI0Nj
+eyJoaXN0b3J5IjpbLTQ2OTMwMDEwOCw4NDA0ODI2NTQsMTI0Nj
 UwNTE3MCwtMTYwODIwMDYxMSwtNjQ3NjU1MTYxXX0=
 -->
