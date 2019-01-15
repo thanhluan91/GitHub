@@ -81,7 +81,7 @@
 ---
   6. **Cat - Xem tâp tin**
 	  `cat <tên tập tin> `
-	  - Dùng để xem hoặc in nội dung tệp tin nào đó . tương tự như việc mở một
+	  - Dùng để xem hoặc in nội dung tệp tin nào đó . tương tự như việc mở một tập tin bằng công cụ hỗ trợ như Notepad trong Windown
  ---
  
   7. **rm - xóa, xóa hết, xóa sạch**
@@ -97,6 +97,6 @@
   15. **ifconfig - Hiển thị thông tin mạng**
   16. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1NTg2ODgzLDEyNDY1MDUxNzAsLTE2MD
+eyJoaXN0b3J5IjpbNDUwMjcyNzQyLDEyNDY1MDUxNzAsLTE2MD
 gyMDA2MTEsLTY0NzY1NTE2MV19
 -->
