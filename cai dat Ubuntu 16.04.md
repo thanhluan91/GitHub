@@ -47,7 +47,8 @@
 -   **2.11** Chọn **timezone** cho server. chọn **timezone** và múi giờ phù hợp với vị trí địa lý của mình  
 ![](https://camo.githubusercontent.com/5177e6b7ce4969ee00887d178583d2b4c63ba6dd/68747470733a2f2f692e696d6775722e636f6d2f76596c4e6838712e706e67)
 
--   **2.12** Lựa chọn hình thức cấu hình chia Parition ổ cứng. có thể chọn **** 
+-   **2.12** Lựa chọn hình thức cấu hình chia Parition ổ cứng. có thể chọn **Guided - use entire disk** để máy tự động phân chia dung lượng và phần vùng ổ cứng
+		- hoặc chon * 
 
 [![](https://camo.githubusercontent.com/65ba5e03e7c0a634ca05143cb7d55e848635e8ca/68747470733a2f2f692e696d6775722e636f6d2f747468586e4c742e706e67)](https://camo.githubusercontent.com/65ba5e03e7c0a634ca05143cb7d55e848635e8ca/68747470733a2f2f692e696d6775722e636f6d2f747468586e4c742e706e67)
 
@@ -77,6 +78,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjM4Nzg0NSw4ODY2NDU4MDEsLTUwMj
-U1NDA5LDE5NTY0NzM2NDNdfQ==
+eyJoaXN0b3J5IjpbLTE5MDk4OTQ3MDYsODg2NjQ1ODAxLC01MD
+I1NTQwOSwxOTU2NDczNjQzXX0=
 -->
