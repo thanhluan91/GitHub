@@ -147,10 +147,10 @@
 		-   Thư mục / var chứa các tệp sẽ thay đổi về kích thước và nội dung khi hệ thống đang chạy
 
 3.**File System Table** 
-	`etc/fsta
+	`etc/fstab` 
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4NTk3ODUwLDYxMzcwNDY0LC0xMzU4Mj
+eyJoaXN0b3J5IjpbNjQyMTMzMzk2LDYxMzcwNDY0LC0xMzU4Mj
 c4MTQ5LDg0MDQ4MjY1NCwxMjQ2NTA1MTcwLC0xNjA4MjAwNjEx
 LC02NDc2NTUxNjFdfQ==
 -->
