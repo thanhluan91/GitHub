@@ -1,4 +1,5 @@
-# Hướng dẫn cài đặt hệ điều hành Ubuntu 16.04nguyen thanh luan
+# Hướng dẫn cài đặt hệ điều hành Ubuntu 16.04
+nguyen thanh luan
 trung tam y te my duc 
 
 sdafasd
@@ -20,5 +21,5 @@ jsad fln sadfikkkkkkkkkkkkkk
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE0MTMyMDldfQ==
+eyJoaXN0b3J5IjpbMTk1NjQ3MzY0M119
 -->
