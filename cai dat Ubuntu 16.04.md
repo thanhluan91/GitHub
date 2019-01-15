@@ -7,7 +7,7 @@
 
 [![](https://camo.githubusercontent.com/1c7225a93be5ee3cb3fcdfe384dea7f17ec7f3f0/68747470733a2f2f692e696d6775722e636f6d2f7739387a37574f2e706e67)](https://camo.githubusercontent.com/1c7225a93be5ee3cb3fcdfe384dea7f17ec7f3f0/68747470733a2f2f692e696d6775722e636f6d2f7739387a37574f2e706e67)
 
-2: tới phần **select a Language** chọn ngôn ngữ sử dụng trong hệ điều hành **Ubuntu Server 16.04**
+2: tới phần **select a Language** chọn ngôn ngữ sử dụng trong hệ điều hành **Ubuntu Server 16.04** chọn **English** ==> Enter 
 
 [![](https://camo.githubusercontent.com/b2aa1b8b4c5da050eab40f08f50aaddfc91410e8/68747470733a2f2f692e696d6775722e636f6d2f49664f7353586f2e706e67)](https://camo.githubusercontent.com/b2aa1b8b4c5da050eab40f08f50aaddfc91410e8/68747470733a2f2f692e696d6775722e636f6d2f49664f7353586f2e706e67)
 
@@ -77,6 +77,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU1ODc2MywtNTAyNTU0MDksMTk1Nj
-Q3MzY0M119
+eyJoaXN0b3J5IjpbNDkxNzg3MjAxLC01MDI1NTQwOSwxOTU2ND
+czNjQzXX0=
 -->
