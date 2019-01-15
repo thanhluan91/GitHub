@@ -121,9 +121,13 @@ Các card mạng này có thể cấp DHCP cho các máy ảo sử dụng nó.
 
 - Cấp DHCP 	 từ 192.168.220.10 đến 192.168.220.50 
 #### 2.4 Khởi tạo máy ảo theo cấu hình 
+- 2 cpu
+- 2GB RAM
+- Ổ 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzE3OTI3NywtMTQ3MTQ1ODU4OCwtMT
-M4OTUyMDksOTE2NjcxMjc0LC0xMDE2NDI5MTE0LC0xMTI2MDUw
-OTUzLC0yNzExMjcwNTEsMjAzODU0MDI2MiwyMDQ5OTE0OTg4LD
-I5OTcwOTU1NSwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbMjg5NzMzNTQ4LC0xNDcxNDU4NTg4LC0xMz
+g5NTIwOSw5MTY2NzEyNzQsLTEwMTY0MjkxMTQsLTExMjYwNTA5
+NTMsLTI3MTEyNzA1MSwyMDM4NTQwMjYyLDIwNDk5MTQ5ODgsMj
+k5NzA5NTU1LDIwNDAyOTc2MjJdfQ==
 -->
