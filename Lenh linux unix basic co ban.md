@@ -8,6 +8,7 @@
    Khi dùng lệnh pwd chúng ta sẽ có full path của thư mục mà chúng ta đang dùng ở hiện tại. Ở trên Gnome thì trên thanh tiêu đề Terminal có hiển thị sẵn thư mục đang dùng rồi
     `pwd`
 
+---
   2. **ls - Có những gì ở đây**
 
   ls sẽ liệt kê toàn bộ những file, directory có trong thư mục hiện tại. Nếu các bạn sử dụng Linux thì đây sẽ là một lệnh có thể nói là dùng nhiều nhất nhì. Cách sử dụng:
@@ -22,7 +23,7 @@
     - ls -R hiện thị cả các file ở các sub-directory
 
     - ls [directory_path] sẽ hiển thị các file/thư mục ở directory đó, có thể dùng thêm các options bên trên.
-
+---
   3. **cd đến nơi khác**
 
   cd viết tắt của Change Directory, nghĩa là đổi sang thư mục khác. Dùng cực kỳ thường xuyên, ngày nào cũng phải dùng 
@@ -51,7 +52,7 @@
 
        `CentOS1:/usr/local/lib$ cd -`
        `CentOS1:/usr/local$`   
-  ---------      
+  ---      
   4. **cp - Tạo bản copy**
   cp viết tắt của copy là sao chép thư mục khác
      - Để tạo bản copy của 1 file nhưng với tên khác trong cùng directory
@@ -73,20 +74,23 @@
        `a.txt` -> `lab/a.txt` -
        `b.txt` -> `lab/b.txt` -
        `c.txt` -> `lab/c.txt` -
-
+---
   5. **mv - di chuyển hoặc đổi tên**
+---
   6. 
-  7. **rm - xóa, xóa hết, xóa sạch**
-  8. **Các lệnh về thông tin hệ thống**
+ ***
+  7. 
+  8. **rm - xóa, xóa hết, xóa sạch**
+  9. **Các lệnh về thông tin hệ thống**
 
-  9. **df -kiểm tra dung lượng các partition**
-  10. **du - kiểm tra dung lượng các directory**
-  11. **free - thông tin về Ram**
-  12. **top - Một Task Manager của Linux**
-  13. **uname - Thông tin về kernel**
-  14. **ifconfig - Hiển thị thông tin mạng**
-  15. ** **
+  10. **df -kiểm tra dung lượng các partition**
+  11. **du - kiểm tra dung lượng các directory**
+  12. **free - thông tin về Ram**
+  13. **top - Một Task Manager của Linux**
+  14. **uname - Thông tin về kernel**
+  15. **ifconfig - Hiển thị thông tin mạng**
+  16. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjYzNzYyMCwtMTYwODIwMDYxMSwtNj
+eyJoaXN0b3J5IjpbLTg5NjI5NzY4MSwtMTYwODIwMDYxMSwtNj
 Q3NjU1MTYxXX0=
 -->
