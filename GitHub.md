@@ -197,11 +197,11 @@ kết quả như sau
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
 
 ### **III. Basic Git commands**
-  | Git task| Notes|Git commands |
+  | **Git task**| **Notes**|**Git commands**|
   |:------------------------------|:------------------------------|:-------------|
   | Khai Báo tài khoản với Git | Cấu hình tên và địa chỉ mail để tạo key và liên kết xác thực tài khoản với Git | Git config   --global   user.name  `Thanhluan91`  -  Git config  --global  user.email `lamchidinhdn@gmail.com`| 
  |Tạo kho dữ liệu ( repository ) cục bộ mới|| `Git  init`|
- |||`Git|
+ |||`Git clone |
  ||||
  ||||
  ||||
@@ -217,7 +217,7 @@ kết quả như sau
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc1NjU0MTYsNDQxNzM2MTg1LC0xND
-E2MzY3MjczLDE3MDIzMzU5NywtMTIxNDM0NzM5MywtMTM0MDA4
-ODg2MiwzNDk0OTQxMzFdfQ==
+eyJoaXN0b3J5IjpbLTM0MjMxOTkyMyw0NDE3MzYxODUsLTE0MT
+YzNjcyNzMsMTcwMjMzNTk3LC0xMjE0MzQ3MzkzLC0xMzQwMDg4
+ODYyLDM0OTQ5NDEzMV19
 -->
