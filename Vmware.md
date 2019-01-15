@@ -68,7 +68,7 @@ III. Networking Vmware
 
 Để xem các card mạng đã có trong VMware Workstation ta chỉ cần bật VMware lên, chọn Edit => Virtual Network Editor
 
-[![](https://camo.githubusercontent.com/685edb82d7771ab1f538102d5af1efb621c9e849/687474703a2f2f692e696d6775722e636f6d2f48513643334e702e706e67)](https://camo.githubusercontent.com/685edb82d7771ab1f538102d5af1efb621c9e849/687474703a2f2f692e696d6775722e636f6d2f48513643334e702e706e67)
+[](![](https://i.imgur.com/ZLzcEsW.png))
 
 Ta có thể thấy trong hình card bridge có tên là VMnet0, card Nat có tên là VMnet8
 
@@ -262,7 +262,7 @@ Bỏ chọn connect a host virtual adapter to this network
 
 [![](https://camo.githubusercontent.com/d9a253690cca40131b758c40a80079ebbc760e8a/687474703a2f2f692e696d6775722e636f6d2f645449555172342e706e67)](https://camo.githubusercontent.com/d9a253690cca40131b758c40a80079ebbc760e8a/687474703a2f2f692e696d6775722e636f6d2f645449555172342e706e67)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2NjcxMjc0LC0xMDE2NDI5MTE0LC0xMT
-I2MDUwOTUzLC0yNzExMjcwNTEsMjAzODU0MDI2MiwyMDQ5OTE0
-OTg4LDI5OTcwOTU1NSwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbMjI5NzQwNTM1LDkxNjY3MTI3NCwtMTAxNj
+QyOTExNCwtMTEyNjA1MDk1MywtMjcxMTI3MDUxLDIwMzg1NDAy
+NjIsMjA0OTkxNDk4OCwyOTk3MDk1NTUsMjA0MDI5NzYyMl19
 -->
