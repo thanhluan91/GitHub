@@ -76,10 +76,13 @@
        `c.txt` -> `lab/c.txt` -
 ---
   5. **mv - di chuyển hoặc đổi tên**
+	  - 
 ---
   6. 
- ***
+ ---
+ 
   7. 
+---
   8. **rm - xóa, xóa hết, xóa sạch**
   9. **Các lệnh về thông tin hệ thống**
 
@@ -91,6 +94,6 @@
   15. **ifconfig - Hiển thị thông tin mạng**
   16. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjI5NzY4MSwtMTYwODIwMDYxMSwtNj
+eyJoaXN0b3J5IjpbMTQwMTA5MTMzOCwtMTYwODIwMDYxMSwtNj
 Q3NjU1MTYxXX0=
 -->
