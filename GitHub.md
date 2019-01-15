@@ -202,7 +202,7 @@ kết quả như sau
   | Khai Báo tài khoản với Git | Cấu hình tên và địa chỉ mail để tạo key và liên kết xác thực tài khoản với Git | Git config   --global   user.name  `Thanhluan91`  -  Git config  --global  user.email `lamchidinhdn@gmail.com`| 
  |Tạo kho dữ liệu ( repository ) cục bộ mới|| `Git  init`|
  |Kiểm tra một kho lưu trữ và tải về máy cục bộ |Tạo một bản sao làm việc tại một kho lưu trữ cục bộ|`Git clone https://github.com/thanhluan91/Thanh-Luan.git|
- ||dsfdsf|fsdafdsf|
+ ||Đối với một máy chủ từ xa, sử dụng|fsdafdsf|
  
 
 
@@ -215,7 +215,7 @@ kết quả như sau
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDY1ODQxMSwtMzQyMzE5OTIzLDQ0MT
-czNjE4NSwtMTQxNjM2NzI3MywxNzAyMzM1OTcsLTEyMTQzNDcz
-OTMsLTEzNDAwODg4NjIsMzQ5NDk0MTMxXX0=
+eyJoaXN0b3J5IjpbNzkxMDQ4ODEyLC0zNDIzMTk5MjMsNDQxNz
+M2MTg1LC0xNDE2MzY3MjczLDE3MDIzMzU5NywtMTIxNDM0NzM5
+MywtMTM0MDA4ODg2MiwzNDk0OTQxMzFdfQ==
 -->
