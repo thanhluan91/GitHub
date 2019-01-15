@@ -82,10 +82,10 @@ Card bridge không có địa chỉ IP do nó sẽ sử dụng dải IP của m�
 
 Cũng trong Virtual Network Editor ta chọn như sau:
 
-![]()
+![](https://i.imgur.com/HOhmzkr.png)
 
 -   Bước 1: chọn Add Network
--   Bước 2: chọn card cần add thêm (ở đây là VMnet1)
+-   Bước 2: chọn card cần add thêm (ở đây là VMnet10)
 -   Bước 3: ấn OK
 
 Lúc này trên cửa sổ Virtual Network Editor sẽ xuất hiện thêm card VMnet1 và được gắn tự động một dải IP, như hình dưới đây:
@@ -262,7 +262,8 @@ Bỏ chọn connect a host virtual adapter to this network
 
 [![](https://camo.githubusercontent.com/d9a253690cca40131b758c40a80079ebbc760e8a/687474703a2f2f692e696d6775722e636f6d2f645449555172342e706e67)](https://camo.githubusercontent.com/d9a253690cca40131b758c40a80079ebbc760e8a/687474703a2f2f692e696d6775722e636f6d2f645449555172342e706e67)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwMzEyNjI4LDkxNjY3MTI3NCwtMTAxNj
-QyOTExNCwtMTEyNjA1MDk1MywtMjcxMTI3MDUxLDIwMzg1NDAy
-NjIsMjA0OTkxNDk4OCwyOTk3MDk1NTUsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTIwNDQzNDc0ODYsOTE2NjcxMjc0LC0xMD
+E2NDI5MTE0LC0xMTI2MDUwOTUzLC0yNzExMjcwNTEsMjAzODU0
+MDI2MiwyMDQ5OTE0OTg4LDI5OTcwOTU1NSwyMDQwMjk3NjIyXX
+0=
 -->
