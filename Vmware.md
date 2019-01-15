@@ -74,9 +74,9 @@ Ta có thể thấy trong hình card bridge có tên là VMnet0, card Nat có t�
 
 Card bridge không có địa chỉ IP do nó sẽ sử dụng dải IP của máy thật. VMware sẽ tự sinh một dải IP và gán cho VMnet8. Trong trường hợp của tôi là dải 10.10.0.0/24.
 
-## 2. Các thao tác với một card mạng ảo trong VMware Workstation
+## 1. Các thao tác với một card mạng ảo trong VMware Workstation
 
-### 2.1. Thêm, xóa một vmnet
+### 1.1. Thêm, xóa một vmnet
 
 ##### Thêm một vmnet
 
@@ -99,7 +99,7 @@ Làm tương tự để add thêm các vmnet tiếp theo.
 Trong Virtual Network Editor chọn một vmnet và ấn Remove Network (button cạnh Add Network)
 ![](![](https://i.imgur.com/e6GoDz1.png))
 
-### 2.2. Sửa dải IP của một vmnet
+### 1.2. Sửa dải IP của một vmnet
 
 Có thể thấy các dải IP mà VMware tự sinh ra và gắn cho các card mạng rất khó nhớ. Ta có thể thay đổi dải IP này bằng cách ấn vào vmnet muốn đổi địa chỉ.
 
@@ -111,7 +111,7 @@ Trong dòng Subnet IP chọn dải IP và subnet muốn thay đổi.
 
 Click Apply và OK
 
-### 2.3. Cấu hình DHCP
+### 1.3. Cấu hình DHCP
 
 Các card mạng này có thể cấp DHCP cho các máy ảo sử dụng nó.
 
@@ -121,7 +121,7 @@ Các card mạng này có thể cấp DHCP cho các máy ảo sử dụng nó.
 
 - Cấp DHCP 	 từ 192.168.220.10 đến 192.168.220.50 
 
-#### 2.4 Khởi tạo máy ảo theo cấu hình 
+#### 1.4 Khởi tạo máy ảo theo cấu hình 
 
 - 2 cpu
 - 2GB RAM
@@ -132,12 +132,12 @@ Các card mạng này có thể cấp DHCP cho các máy ảo sử dụng nó.
 
 ![](https://i.imgur.com/6fqMhOl.png)
 
-##### 2.5 Khởi tạo snapshot 
+##### 1.5 Khởi tạo snapshot 
 
 ![](https://i.imgur.com/fjwdjjM.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0NTU4NjA1LC0xNDcxNDU4NTg4LC0xMz
-g5NTIwOSw5MTY2NzEyNzQsLTEwMTY0MjkxMTQsLTExMjYwNTA5
-NTMsLTI3MTEyNzA1MSwyMDM4NTQwMjYyLDIwNDk5MTQ5ODgsMj
-k5NzA5NTU1LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTIwNDE5MjgwODcsLTE0NzE0NTg1ODgsLT
+EzODk1MjA5LDkxNjY3MTI3NCwtMTAxNjQyOTExNCwtMTEyNjA1
+MDk1MywtMjcxMTI3MDUxLDIwMzg1NDAyNjIsMjA0OTkxNDk4OC
+wyOTk3MDk1NTUsMjA0MDI5NzYyMl19
 -->
