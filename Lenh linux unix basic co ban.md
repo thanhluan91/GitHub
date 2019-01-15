@@ -96,7 +96,8 @@
 	  `rmdir <tên thư mục cần xóa> xóa thư mục trong thư mục hiện tại
   ---
   10. **rm - xóa, xóa hết, xóa sạch**
-	  
+	  `rm <tên file>` xóa file. Bạn cũng có thể sử dụng 
+	  `rm -r <tên thư mục>` để xóa thư mục và toàn bộ dữ liệu trong thư mục đó.
   11. **Các lệnh về thông tin hệ thống**
 
   12. **df -kiểm tra dung lượng các partition**
@@ -107,7 +108,7 @@
   17. **ifconfig - Hiển thị thông tin mạng**
   18. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTkwMDA5MywtMTM1ODI3ODE0OSw4ND
-A0ODI2NTQsMTI0NjUwNTE3MCwtMTYwODIwMDYxMSwtNjQ3NjU1
-MTYxXX0=
+eyJoaXN0b3J5IjpbLTEzMzM2MzQxNDQsLTEzNTgyNzgxNDksOD
+QwNDgyNjU0LDEyNDY1MDUxNzAsLTE2MDgyMDA2MTEsLTY0NzY1
+NTE2MV19
 -->
