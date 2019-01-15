@@ -44,7 +44,7 @@
 ![](https://camo.githubusercontent.com/f1415cedeb80cc557c1f3518775cc36b78bd0f15/68747470733a2f2f692e696d6775722e636f6d2f71564e504c506d2e706e67)
 
 
--   **2.2** tới phần **select a Language** 
+-   **2.2** Chọn timezone cho server. chọn timezone và mu **s** 
 [![](https://camo.githubusercontent.com/5177e6b7ce4969ee00887d178583d2b4c63ba6dd/68747470733a2f2f692e696d6775722e636f6d2f76596c4e6838712e706e67)](https://camo.githubusercontent.com/5177e6b7ce4969ee00887d178583d2b4c63ba6dd/68747470733a2f2f692e696d6775722e636f6d2f76596c4e6838712e706e67)
 
 -   Enter để chọn ổ cứng sẽ được cài đặt
@@ -77,6 +77,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTcyOTA5MjMsODg2NjQ1ODAxLC01MD
+eyJoaXN0b3J5IjpbLTE4NjA3ODY2MzcsODg2NjQ1ODAxLC01MD
 I1NTQwOSwxOTU2NDczNjQzXX0=
 -->
