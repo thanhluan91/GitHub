@@ -31,7 +31,7 @@
 
 ![](https://camo.githubusercontent.com/b18dfc224f7f631208e978a2052717b457f1009a/68747470733a2f2f692e696d6775722e636f6d2f414676314a4d732e706e67)
 
--   **2.2** tới phần **select a Language** 
+-   **2.2** Tạo User khác để đăng nhập từ đầu . Thay vì sử dụng User **root** vì lý do bảo mật. 
 
 [![](https://camo.githubusercontent.com/ab8287ff80126554d551b0f59a72c6f9253556d9/68747470733a2f2f692e696d6775722e636f6d2f5331385a6d616f2e706e67)](https://camo.githubusercontent.com/ab8287ff80126554d551b0f59a72c6f9253556d9/68747470733a2f2f692e696d6775722e636f6d2f5331385a6d616f2e706e67)
 
@@ -77,6 +77,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Mjg0NjI2OCwtNTAyNTU0MDksMTk1Nj
+eyJoaXN0b3J5IjpbMTk5ODE0NjUzMSwtNTAyNTU0MDksMTk1Nj
 Q3MzY0M119
 -->
