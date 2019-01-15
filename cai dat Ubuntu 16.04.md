@@ -73,8 +73,11 @@
 
 -   **2.8** Thông báo hoàn thành quá trình cài đặt . Lúc này chọn **Continue** và máy sẽ tự động restart vào OS Ubuntu server  
 ![](https://camo.githubusercontent.com/d5cbfb9b86cef31289e18eb7f33faee5bb249aa3/68747470733a2f2f692e696d6775722e636f6d2f35325448694c4a2e706e67)
+
+Hoàn thành quá trình cài đặt và hãy đăng nhập với tài khoản vừa tạo ở trên!
+END! 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODMwOTI2NywtMTE0MDk4OTg3Niw4OD
-Y2NDU4MDEsLTUwMjU1NDA5LDE5NTY0NzM2NDNdfQ==
+eyJoaXN0b3J5IjpbLTEwOTY5NzYxNDMsLTExNDA5ODk4NzYsOD
+g2NjQ1ODAxLC01MDI1NTQwOSwxOTU2NDczNjQzXX0=
 -->
