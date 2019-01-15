@@ -70,9 +70,9 @@ III. Networking Vmware
 
 !![](https://i.imgur.com/ZLzcEsW.png)
 
-Ta có thể thấy trong hình card bridge có tên là VMnet0, card Nat có tên là VMnet8
+Ta có thể thấy trong hình card bridge có tên là VMnet0, card Nat có tên là VMnet8 , Host-only VMnet1
 
-Card bridge không có địa chỉ IP do nó sẽ sử dụng dải IP của máy thật. VMware sẽ tự sinh một dải IP và gán cho VMnet8. Trong trường hợp của tôi là dải 192.168.238.0/24.
+Card bridge không có địa chỉ IP do nó sẽ sử dụng dải IP của máy thật. VMware sẽ tự sinh một dải IP và gán cho VMnet8. Trong trường hợp của tôi là dải 10.10.0.0/24.
 
 ## 2. Các thao tác với một card mạng ảo trong VMware Workstation
 
@@ -82,7 +82,7 @@ Card bridge không có địa chỉ IP do nó sẽ sử dụng dải IP của m�
 
 Cũng trong Virtual Network Editor ta chọn như sau:
 
-[![](https://camo.githubusercontent.com/0112c25af7636ee16891bc928582e9bf07d9a125/687474703a2f2f692e696d6775722e636f6d2f633548326c4f4c2e706e67)](https://camo.githubusercontent.com/0112c25af7636ee16891bc928582e9bf07d9a125/687474703a2f2f692e696d6775722e636f6d2f633548326c4f4c2e706e67)
+![]()
 
 -   Bước 1: chọn Add Network
 -   Bước 2: chọn card cần add thêm (ở đây là VMnet1)
@@ -262,8 +262,7 @@ Bỏ chọn connect a host virtual adapter to this network
 
 [![](https://camo.githubusercontent.com/d9a253690cca40131b758c40a80079ebbc760e8a/687474703a2f2f692e696d6775722e636f6d2f645449555172342e706e67)](https://camo.githubusercontent.com/d9a253690cca40131b758c40a80079ebbc760e8a/687474703a2f2f692e696d6775722e636f6d2f645449555172342e706e67)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTEwMjk5MTEsOTE2NjcxMjc0LC0xMD
-E2NDI5MTE0LC0xMTI2MDUwOTUzLC0yNzExMjcwNTEsMjAzODU0
-MDI2MiwyMDQ5OTE0OTg4LDI5OTcwOTU1NSwyMDQwMjk3NjIyXX
-0=
+eyJoaXN0b3J5IjpbNjMwMzEyNjI4LDkxNjY3MTI3NCwtMTAxNj
+QyOTExNCwtMTEyNjA1MDk1MywtMjcxMTI3MDUxLDIwMzg1NDAy
+NjIsMjA0OTkxNDk4OCwyOTk3MDk1NTUsMjA0MDI5NzYyMl19
 -->
