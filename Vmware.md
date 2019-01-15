@@ -12,12 +12,12 @@ II. **Vmware workstation**
     
     Các thành phần của máy ảo  
 
-    [](https://imgur.com/a/YTFYDkt)
+    ![](https://imgur.com/a/YTFYDkt)
 
     - Một máy ảo sẽ có những thành phần giống như một máy thật chẳng hạn như  CPU , RAM , HDD , CARD  mạng hay ổ DVD ......
     
 
-[than](https://i.imgur.com/XJCJb6d.png) 
+![](https://i.imgur.com/XJCJb6d.png) 
 
 Một máy thật có thể chạy được nhiều máy ảo khác nhau cùng lúc tùy thuộc vào khả năng đáp ứng phần cứng của chính máy thật đó.
 
