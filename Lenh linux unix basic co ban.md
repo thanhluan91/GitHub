@@ -167,36 +167,36 @@
 	-   /usr/bin chứa các file thực thi của người dùng như: at, awk, cc, less… Nếu bạn không tìm thấy chúng trong /bin hãy tìm trong /usr/bin
 	-   /usr/sbin chứa các file thực thi của hệ thống dưới quyền của admin như: atd, cron, sshd… Nếu bạn không tìm thấy chúng trong /sbin thì hãy tìm trong thư mục này.
 	-   /usr/lib chứa các thư viện cho các chương trình trong /usr/bin và /usr/sbin
-	-   /usr/local chứa các chương tình của người dùng được cài từ mã nguồn. Ví dụ như bạn cài  [apache từ mã nguồn, nó sẽ được lưu dưới /usr/local/[apache](https://www.gocit.vn/bai-viet/tag/apache/ "Posts tagged with Apache")2
+	-   /usr/local chứa các chương tình của người dùng được cài từ mã nguồn. Ví dụ như bạn cài  apache từ mã nguồn, nó sẽ được lưu dưới /usr/local/apache2
 
 **10. /home – Thư mục người của dùng**
 
-Thư mục này chứa tất cả các file cá nhân của từng người dùng. Ví dụ: /home/john, /home/marie
+- Thư mục này chứa tất cả các file cá nhân của từng người dùng. Ví dụ: /home/john, /home/marie
 
 **11. /boot – Các file khởi động**
 
-Tất cả các file yêu cầu khi khởi động như initrd, vmlinux. grub được lưu tại đây. Ví dụ vmlixuz-2.6.32-24-generic
+- Tất cả các file yêu cầu khi khởi động như initrd, vmlinux. grub được lưu tại đây. Ví dụ vmlixuz-2.6.32-24-generic
 
 **12. /lib – Thư viện hệ thống**
 
-Chứa cá thư viện hỗ trợ cho các file thực thi trong /bin và /sbin. Các thư viện này thường có tên bắt đầu bằng ld* hoặc lib*.so.*. Ví dụ như ld-2.11.1.so hay libncurses.so.5.7
+- Chứa cá thư viện hỗ trợ cho các file thực thi trong /bin và /sbin. Các thư viện này thường có tên bắt đầu bằng ld* hoặc lib*.so.*. Ví dụ như ld-2.11.1.so hay libncurses.so.5.7
 
 **13. /opt – Các ứng dụng phụ tùy chọn**
 
-Tên thư mục này nghĩa là optional (tùy chọn), nó chứa các ứng dụng thêm vào từ các nhà cung cấp độc lập khác. Các ứng dụng này có thể được cài ở /opt hoặc một thư mục con của /opt
+- Tên thư mục này nghĩa là optional (tùy chọn), nó chứa các ứng dụng thêm vào từ các nhà cung cấp độc lập khác. Các ứng dụng này có thể được cài ở /opt hoặc một thư mục con của /opt
 
 **14. /mnt – Thư mục để mount**
 
-Đây là thư mục tạm để mount các file hệ thống. Ví dụ như # mount /dev/sda2 /mnt
+- Đây là thư mục tạm để mount các file hệ thống. Ví dụ như # mount /dev/sda2 /mnt
 
 **15. /media – Các thiết bị gắn có thể gỡ bỏ**
 
-Thư mục tạm này chứa các thiết bị như CdRom /media/cdrom. floppy /media/floopy hay các phân vùng đĩa cứng /media/Data (hiểu như là ổ D:/Data trong  [Windows](https://www.gocit.vn/bai-viet/tag/windows/ "Posts tagged with Windows"))
+- Thư mục tạm này chứa các thiết bị như CdRom /media/cdrom. floppy /media/floopy hay các phân vùng đĩa cứng /media/Data (hiểu như là ổ D:/Data trong  [Windows](https://www.gocit.vn/bai-viet/tag/windows/ "Posts tagged with Windows"))
 3.**File System Table** 
 	`etc/fstab` file này có trên mọi máy tính Linux, kiểm soát cho biết các điểm mount vào filesystem . Các partition Windows và các chia sẻ mạng và có thể sử dụng nó để kiểm soát các điểm gắn của các thiết bị lưu trữ ngoài giống như USB và các ổ cứng ngoài
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1NjAyODU1LC0xODMxODQ5NzA2LDYxMz
-cwNDY0LC0xMzU4Mjc4MTQ5LDg0MDQ4MjY1NCwxMjQ2NTA1MTcw
-LC0xNjA4MjAwNjExLC02NDc2NTUxNjFdfQ==
+eyJoaXN0b3J5IjpbLTYxODA4MzYxNSwtMTgzMTg0OTcwNiw2MT
+M3MDQ2NCwtMTM1ODI3ODE0OSw4NDA0ODI2NTQsMTI0NjUwNTE3
+MCwtMTYwODIwMDYxMSwtNjQ3NjU1MTYxXX0=
 -->
