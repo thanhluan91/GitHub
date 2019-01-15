@@ -1,5 +1,41 @@
 # Hướng dẫn cài đặt hệ điều hành Ubuntu 16.04
 
+
+## Giới thiệu.
+
+**1. Ubuntu là gì?**
+
+**Ubuntu**  là một hệ điều hành mã nguồn mở miễn phí được xây dựng dựa trên  **Debian GNU/Linux**. Điều đó có nghĩa là mọi người đều được tự do sử dụng, thay đổi, cải tiến nó…  **Ubuntu**  được tài trợ bởi công ty **Canonical Ltd**  (chủ sở hữu là một người Nam Phi  **Mark Shuttleworth**). Thay vì bán  **Ubuntu**,  **Canonical**  tạo ra doanh thu bằng cách bán hỗ trợ kĩ thuật.
+
+**Canonical**  phát triển  **Ubuntu**  thành 2 dòng sản phẩm chính:
+
+-   **Ubuntu Desktop:**  cài đặt cho các máy tính cá nhân và phục vụ những người dùng thông thường.
+-   **Ubuntu Server:**  cài đặt cho các máy chủ để phục vụ các dịch vụ trên internet cũng như mạng doanh nghiệp.
+
+[box type=”info” align=”” class=”” width=””]Sự khác biệt giữa  **Ubuntu Desktop**  và  **Ubuntu Server**  đó là trên  **Ubuntu Server**  không có  **X window environment** (giao diện đồ hoạ).
+
+Tuy nhiên cũng có sự giống nhau:
+
+-   Cả 2 dòng sản phẩm này đều sử dụng chung  **repositories**. Khiến cho việc cài đặt các ứng dụng  **Server**  trên  **Desktop**  cũng dễ dàng.
+-   Kể từ  **Ubuntu 10.10**  hãng  **Canonical**  đã sử dụng chung  **kernel**  cho cả dòng  **Server**  và  **Desktop**  để tiện cho việc hỗ trợ.[/box]
+
+### 2. Các phiên bản Ubuntu.
+
+**Ubuntu**  được chia làm 2 phiên bản:
+
+-   **Phiên bản hỗ trợ lâu dài**  (**L**ong  **T**erm  **S**upport): Thường được hỗ trợ sự cố trong 5 năm. Các phiên bản LTS thường sẽ ra mắt 2 năm 1 lần.
+-   **Phiên bản thông thường**  (Standard release): Thường chỉ được hỗ trợ sự cố trong 9 tháng và luôn cập nhật các công nghệ mới nhất.
+
+[box type=”note” align=”” class=”” width=””]Đối với dòng  **Ubuntu Server**  chúng ta chỉ nên sử dụng các phiên bản  **LTS**. Vì máy chủ cần có sự ổn định hơn là luôn cập nhật công nghệ mới.
+
+Để biết chi tiết về thông tin thời gian hỗ trợ hệ thống của bạn. Mở  **terminal**  và gõ lệnh:  _**ubuntu-support-status**_.
+ **3. Yêu cầu tối thiểu để cài đặt Ubuntu Server 16.04 LTS.
+
+**Ubuntu Server 16.04 LTS**  hỗ trợ 3 kiến trúc chính là:  **Intel x86**,  **AMD64**  và **ARM**. Cấu hình hệ thống tối thiểu để cài đặt là:
+
+-   **CPU:**  300 megahertz.
+-   **RAM:**  192 megabytes.
+-   **Ổ đĩa cứng:**  1.4 gigabytes.
 ### 1. Tải Ubuntu Server từ trang chủ.
 
 Bạn hãy truy cập vào Website: [tại đây](https://www.ubuntu.com/download/server). Nhấn  **Download**  để tiến hành tải  **Ubuntu Server**  về. Lưu ý hãy chọn phiên bản  **16.04.1 LTS**  nhé. Sau đó ghi ra đĩa hoặc tạo USB cài đặt tuỳ theo điều kiện của bạn.
@@ -83,6 +119,6 @@ Bạn hãy truy cập vào Website: [tại đây](https://www.ubuntu.com/downloa
 |END!| 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTY2MjM0OTUsLTExNDA5ODk4NzYsOD
-g2NjQ1ODAxLC01MDI1NTQwOSwxOTU2NDczNjQzXX0=
+eyJoaXN0b3J5IjpbMzc0MzA4Nzk0LC0xMTQwOTg5ODc2LDg4Nj
+Y0NTgwMSwtNTAyNTU0MDksMTk1NjQ3MzY0M119
 -->
