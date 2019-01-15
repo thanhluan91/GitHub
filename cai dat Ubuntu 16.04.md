@@ -67,16 +67,14 @@
 
 ![](https://camo.githubusercontent.com/3dac841f44aada330c65291741e03ded90c4485f/68747470733a2f2f692e696d6775722e636f6d2f4647694a48656f2e706e67)
 
--  **2.17** Cài đặt **select a Language** 
+-  **2.17** Cài đặt **GRUB Boot loader** lên ổ cứng để lựa chọn cấu hình patition . chon **yes** 
 
-[![](https://camo.githubusercontent.com/dccb0036d24752649a2dc6f24aacdb650840ea3e/68747470733a2f2f692e696d6775722e636f6d2f7331536d704e502e706e67)](https://camo.githubusercontent.com/dccb0036d24752649a2dc6f24aacdb650840ea3e/68747470733a2f2f692e696d6775722e636f6d2f7331536d704e502e706e67)
+![](https://camo.githubusercontent.com/dccb0036d24752649a2dc6f24aacdb650840ea3e/68747470733a2f2f692e696d6775722e636f6d2f7331536d704e502e706e67)
 
--   Chọn "Continue" để bắt đầu cài đặt
-
-[![](https://camo.githubusercontent.com/d5cbfb9b86cef31289e18eb7f33faee5bb249aa3/68747470733a2f2f692e696d6775722e636f6d2f35325448694c4a2e706e67)](https://camo.githubusercontent.com/d5cbfb9b86cef31289e18eb7f33faee5bb249aa3/68747470733a2f2f692e696d6775722e636f6d2f35325448694c4a2e706e67)
-
+-   **2.2** tới phần **select a Language** 
+![](https://camo.githubusercontent.com/d5cbfb9b86cef31289e18eb7f33faee5bb249aa3/68747470733a2f2f692e696d6775722e636f6d2f35325448694c4a2e706e67)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDI2NjEyMSwtMTE0MDk4OTg3Niw4OD
+eyJoaXN0b3J5IjpbLTMwMzI2ODA2MCwtMTE0MDk4OTg3Niw4OD
 Y2NDU4MDEsLTUwMjU1NDA5LDE5NTY0NzM2NDNdfQ==
 -->
