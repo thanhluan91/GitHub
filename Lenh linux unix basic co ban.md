@@ -65,7 +65,7 @@
 
      - Để copy dir này sang dir khác . (folder cần copy không được có dấu "/" ở cuối nếu không sẽ lỗi) 
       
-       ` cp -r [file nguồn] [file đích]
+       ` cp -r [file nguồn] [file đích]`
 
       - Để hiển thị quá trình copy (ta dùng option '-v')
 
@@ -93,7 +93,7 @@
 	  Tạo một thư mục mới , nó cũng tương tự với việc bạn chọn new/create directory để tạo một thư mục mới trên giao diện người dùng . 
   ---
   9. **rmdir - xóa thư mục**
-	  `rmdir <tên thư mục cần xóa> xóa thư mục với tên tương ứng
+	  `rmdir <tên thư mục cần xóa> xóa thư mục trong thư mục hiện tại
   ---
   10. **rm - xóa, xóa hết, xóa sạch**
 	  
@@ -107,6 +107,6 @@
   17. **ifconfig - Hiển thị thông tin mạng**
   18. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzMzIyNjYsODQwNDgyNjU0LDEyNDY1MD
-UxNzAsLTE2MDgyMDA2MTEsLTY0NzY1NTE2MV19
+eyJoaXN0b3J5IjpbLTEzNTgyNzgxNDksODQwNDgyNjU0LDEyND
+Y1MDUxNzAsLTE2MDgyMDA2MTEsLTY0NzY1NTE2MV19
 -->
