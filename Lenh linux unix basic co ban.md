@@ -116,14 +116,14 @@
   16. **tar**
 		 `tar -cvf <tên-file-nén.tar> <file1 hoặc file2 ...>`  tạo file nén (.tar) từ các file có sẵn.
 
-	`tar -tvf <tên-file-nén.tar>`  xem nội dung file nén (.tar).
+		`tar -tvf <tên-file-nén.tar>`  xem nội dung file nén (.tar).
 
-`tar -xvf <tên-file-nén.tar>`  giải nén (file .tar).
-  18. **uname - Thông tin về kernel**
+		`tar -xvf <tên-file-nén.tar>`  giải nén (file .tar).
+  18. **gzip**
   19. **ifconfig - Hiển thị thông tin mạng**
   20. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDk1MzIwNyw2MTM3MDQ2NCwtMTM1OD
-I3ODE0OSw4NDA0ODI2NTQsMTI0NjUwNTE3MCwtMTYwODIwMDYx
-MSwtNjQ3NjU1MTYxXX0=
+eyJoaXN0b3J5IjpbMjQyMDk1MTU2LDYxMzcwNDY0LC0xMzU4Mj
+c4MTQ5LDg0MDQ4MjY1NCwxMjQ2NTA1MTcwLC0xNjA4MjAwNjEx
+LC02NDc2NTUxNjFdfQ==
 -->
