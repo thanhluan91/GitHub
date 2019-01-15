@@ -64,9 +64,31 @@ Sau đó bấm finish là xong, chỉ vậy thôi, quá trình chạy máy ảo,
 
 _Màn hình cài đặt máy ảo tương tự như máy thật Ubuntu_​
 
-III. Netword Vmware
+III. Networking Vmware
+# Networking in VMware
+
+Trong VM có 5 tùy chọn mạng khi tạo một VM
+
+
+
+-   Card Bridge : Khi sử dụng card này, các VM sẽ sử dụng card thật của máy vật lý để kết nối ra các mạng bên ngoài. Các VM sẽ sử dụng CIRD trùng với máy vật lý . Có thể dùng Router vật lý bên ngoài để định tuyến
+    
+-   Card NAT : Khi sử dụng card này, các VM sẽ kết nối đến một SWITCH ảo và sẽ dùng Card vật lý hoạt động như một router ( nhờ vào bản định tuyến ) để giao tiếp ra mạng bên ngoài. Trong mode này, các VM sẽ dùng IP của card vật lý để giao tiếp các mạng bên ngoài
+    
+    -   Khi chọn MODE NAT : các VM sẽ tự động đến VMnet 8
+    -   Các VM có thể giao tiếp với mạng vật lý
+    -   Card NAT chỉ có thể giao tiếp với các card NAT trên các máy ảo khác.
+-   Card Host-only:
+    
+    -   Khi chọn Host-only : các VM sẽ tự động trỏ đến VMnet 1
+    -   Card Host-only không thể giao tiếp với các mạng ngoài mà card vật lý đang kết nối
+    -   Các VM chỉ có thể giao tiếp với cac VM cùng card host-only
+-   Khi sử dụng Custom : thì có thể sử dụng các CARD cấu hình tay, không trỏ về các VMNET mặc định
+    
+-   LAN Segment : các máy nằm trong cùng một LAN segment cũng tựa như các máy cùng nối vào một switch vậy, như việc chia VLAN trên các Switch, sẽ gắn VLAN_ID vào các FRAME .Mỗi một LAN segment hoàn toàn cô lập với máy thật cũng như các LAN segment khác. VMware cũng không tự động cung cấp các DHCP server cho LAN segment.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjgxNjYwMSwtMTEyNjA1MDk1MywtMj
-cxMTI3MDUxLDIwMzg1NDAyNjIsMjA0OTkxNDk4OCwyOTk3MDk1
-NTUsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTEwMTY0MjkxMTQsLTExMjYwNTA5NTMsLT
+I3MTEyNzA1MSwyMDM4NTQwMjYyLDIwNDk5MTQ5ODgsMjk5NzA5
+NTU1LDIwNDAyOTc2MjJdfQ==
 -->
