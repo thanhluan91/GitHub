@@ -75,9 +75,10 @@
 ![](https://camo.githubusercontent.com/d5cbfb9b86cef31289e18eb7f33faee5bb249aa3/68747470733a2f2f692e696d6775722e636f6d2f35325448694c4a2e706e67)
 
 Hoàn thành quá trình cài đặt và hãy đăng nhập với tài khoản vừa tạo ở trên!
-END! 
-> Written with [StackEdit](https://stackedit.io/).
+|:-----:|
+|END!| 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY5NzYxNDMsLTExNDA5ODk4NzYsOD
-g2NjQ1ODAxLC01MDI1NTQwOSwxOTU2NDczNjQzXX0=
+eyJoaXN0b3J5IjpbMzg0MDk1MjE2LC0xMTQwOTg5ODc2LDg4Nj
+Y0NTgwMSwtNTAyNTU0MDksMTk1NjQ3MzY0M119
 -->
