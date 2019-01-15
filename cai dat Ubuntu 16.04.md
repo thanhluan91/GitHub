@@ -19,7 +19,7 @@ Tuy nhiên cũng có sự giống nhau:
 -   Cả 2 dòng sản phẩm này đều sử dụng chung  **repositories**. Khiến cho việc cài đặt các ứng dụng  **Server**  trên  **Desktop**  cũng dễ dàng.
 -   Kể từ  **Ubuntu 10.10**  hãng  **Canonical**  đã sử dụng chung  **kernel**  cho cả dòng  **Server**  và  **Desktop**  để tiện cho việc hỗ trợ.[/box]
 
-### 2. Các phiên bản Ubuntu.
+**2. Các phiên bản Ubuntu.**
 
 **Ubuntu**  được chia làm 2 phiên bản:
 
@@ -29,14 +29,17 @@ Tuy nhiên cũng có sự giống nhau:
 [box type=”note” align=”” class=”” width=””]Đối với dòng  **Ubuntu Server**  chúng ta chỉ nên sử dụng các phiên bản  **LTS**. Vì máy chủ cần có sự ổn định hơn là luôn cập nhật công nghệ mới.
 
 Để biết chi tiết về thông tin thời gian hỗ trợ hệ thống của bạn. Mở  **terminal**  và gõ lệnh:  _**ubuntu-support-status**_.
- **3. Yêu cầu tối thiểu để cài đặt Ubuntu Server 16.04 LTS.
+
+ **3. Yêu cầu tối thiểu để cài đặt Ubuntu Server 16.04 LTS.**
 
 **Ubuntu Server 16.04 LTS**  hỗ trợ 3 kiến trúc chính là:  **Intel x86**,  **AMD64**  và **ARM**. Cấu hình hệ thống tối thiểu để cài đặt là:
 
 -   **CPU:**  300 megahertz.
 -   **RAM:**  192 megabytes.
 -   **Ổ đĩa cứng:**  1.4 gigabytes.
-### 1. Tải Ubuntu Server từ trang chủ.
+
+
+### 1. Tải Ubuntu Server từ trang chủ và tiến hành cài đặt.
 
 Bạn hãy truy cập vào Website: [tại đây](https://www.ubuntu.com/download/server). Nhấn  **Download**  để tiến hành tải  **Ubuntu Server**  về. Lưu ý hãy chọn phiên bản  **16.04.1 LTS**  nhé. Sau đó ghi ra đĩa hoặc tạo USB cài đặt tuỳ theo điều kiện của bạn.
 
@@ -119,6 +122,6 @@ Bạn hãy truy cập vào Website: [tại đây](https://www.ubuntu.com/downloa
 |END!| 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0MzA4Nzk0LC0xMTQwOTg5ODc2LDg4Nj
-Y0NTgwMSwtNTAyNTU0MDksMTk1NjQ3MzY0M119
+eyJoaXN0b3J5IjpbMTc1NjQ0MzkyMywtMTE0MDk4OTg3Niw4OD
+Y2NDU4MDEsLTUwMjU1NDA5LDE5NTY0NzM2NDNdfQ==
 -->
