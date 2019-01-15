@@ -123,10 +123,13 @@ Các card mạng này có thể cấp DHCP cho các máy ảo sử dụng nó.
 #### 2.4 Khởi tạo máy ảo theo cấu hình 
 - 2 cpu
 - 2GB RAM
-- Ổ 
-- 
+- ổ cứng 20 GB
+- Không có card sound
+- không có cổng usb	
+-  card mạng ra internet
+![](![](https://i.imgur.com/6fqMhOl.png))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5NzMzNTQ4LC0xNDcxNDU4NTg4LC0xMz
+eyJoaXN0b3J5IjpbNTExMzU1NzYyLC0xNDcxNDU4NTg4LC0xMz
 g5NTIwOSw5MTY2NzEyNzQsLTEwMTY0MjkxMTQsLTExMjYwNTA5
 NTMsLTI3MTEyNzA1MSwyMDM4NTQwMjYyLDIwNDk5MTQ5ODgsMj
 k5NzA5NTU1LDIwNDAyOTc2MjJdfQ==
