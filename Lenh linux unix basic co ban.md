@@ -110,13 +110,15 @@
  hoặc
   `grep -r <chuỗi> <tên thư mục>`để tìm kiếm trong toàn thư mục
 
-  15. **free - thông tin về Ram**
-  16. **top - Một Task Manager của Linux**
-  17. **uname - Thông tin về kernel**
-  18. **ifconfig - Hiển thị thông tin mạng**
-  19. ** **
+  15. **find**
+	  find <thư mục> -name `<tên file>` tìm kiếm file trong `<thư mục>` theo `<tên file>` .  
+Bạn cũng có thể dùng **find <thư mục> -iname <tên file>** để tìm kiếm không phân biệt hoa thường.
+  17. **top - Một Task Manager của Linux**
+  18. **uname - Thông tin về kernel**
+  19. **ifconfig - Hiển thị thông tin mạng**
+  20. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzNzA0NjQsLTEzNTgyNzgxNDksODQwND
-gyNjU0LDEyNDY1MDUxNzAsLTE2MDgyMDA2MTEsLTY0NzY1NTE2
-MV19
+eyJoaXN0b3J5IjpbMjAyMDc4MDMxLDYxMzcwNDY0LC0xMzU4Mj
+c4MTQ5LDg0MDQ4MjY1NCwxMjQ2NTA1MTcwLC0xNjA4MjAwNjEx
+LC02NDc2NTUxNjFdfQ==
 -->
