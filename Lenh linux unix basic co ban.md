@@ -104,14 +104,19 @@
 	  
 	  ----
   13. **grep**
-  14. 
+	  `grep <chuỗi> <tên file>` tìm kiếm nội dung của file theo chuỗi cung cấp.  
+- Có thể dùng
+ `grep -i <chuỗi> <tên file>`để tìm kiếm không phân biệt hoa thường 
+ hoặc
+  `grep -r <chuỗi> <tên thư mục>`để tìm kiếm trong toàn thư mục
+
   15. **free - thông tin về Ram**
   16. **top - Một Task Manager của Linux**
   17. **uname - Thông tin về kernel**
   18. **ifconfig - Hiển thị thông tin mạng**
   19. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0Nzg4NDEsLTEzNTgyNzgxNDksODQwND
+eyJoaXN0b3J5IjpbNjEzNzA0NjQsLTEzNTgyNzgxNDksODQwND
 gyNjU0LDEyNDY1MDUxNzAsLTE2MDgyMDA2MTEsLTY0NzY1NTE2
 MV19
 -->
