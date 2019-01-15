@@ -200,7 +200,7 @@ kết quả như sau
   | Git task| Notes|Git commands |
   |:------------------------------|:------------------------------|:-------------|
   | Khai Báo tài khoản với Git | Cấu hình tên và địa chỉ mail để tạo key và liên kết xác thực tài khoản với Git | Git config   --global   user.name  `Thanhluan91`  -  Git config  --global  user.email `lamchidinhdn@gmail.com`| 
- ||| Git  init|
+ |Tạo kho dữ liệu cục bộ mới|| `Git  init`|
  ||||
  ||||
  ||||
@@ -217,7 +217,7 @@ kết quả như sau
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Mzk0NjUzNiw0NDE3MzYxODUsLTE0MT
-YzNjcyNzMsMTcwMjMzNTk3LC0xMjE0MzQ3MzkzLC0xMzQwMDg4
-ODYyLDM0OTQ5NDEzMV19
+eyJoaXN0b3J5IjpbNDU3MDc4NDEsNDQxNzM2MTg1LC0xNDE2Mz
+Y3MjczLDE3MDIzMzU5NywtMTIxNDM0NzM5MywtMTM0MDA4ODg2
+MiwzNDk0OTQxMzFdfQ==
 -->
