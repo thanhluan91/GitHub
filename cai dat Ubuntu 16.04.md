@@ -63,7 +63,7 @@
 -   **2.15** Cấu hình http proxy nếu cần thiết để update luôn các phiên bản phần mềm đang có trong đĩa ISO  cài đặt Ubuntu . Bỏ trống và chọn **Continue** 
 ![](https://camo.githubusercontent.com/9e55e35931a0ba709322dd285bfc41c93ae56b44/68747470733a2f2f692e696d6775722e636f6d2f657a597161447a2e706e67)
 
--   Chọn cài đặt các chương trình chuẩn bị sẵn cho Server, Chọn OpenSSH và standard system utilities => Enter
+-  **2.16** nếu muốn cập nhật **select a Language** 
 
 [![](https://camo.githubusercontent.com/3dac841f44aada330c65291741e03ded90c4485f/68747470733a2f2f692e696d6775722e636f6d2f4647694a48656f2e706e67)](https://camo.githubusercontent.com/3dac841f44aada330c65291741e03ded90c4485f/68747470733a2f2f692e696d6775722e636f6d2f4647694a48656f2e706e67)
 
@@ -77,6 +77,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQwNTk4MzYsLTExNDA5ODk4NzYsOD
-g2NjQ1ODAxLC01MDI1NTQwOSwxOTU2NDczNjQzXX0=
+eyJoaXN0b3J5IjpbNzIyODA3NjQwLC0xMTQwOTg5ODc2LDg4Nj
+Y0NTgwMSwtNTAyNTU0MDksMTk1NjQ3MzY0M119
 -->
