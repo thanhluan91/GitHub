@@ -186,7 +186,7 @@ Bạn có thể sử dụng cú pháp sau để tạo bảng:
 |--------------|-------|------|-------|
 | Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
 | Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
-| Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |``
+| Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |`
 
 kết quả như sau 
 
@@ -196,24 +196,10 @@ kết quả như sau
 | Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
 
-### **III. Các thao tác với Github**
----
- **1. Cài đặt** 
+### **III. Basic Git commands**
+  `| Git task | Notes | Git commands |
+   |----------|-------|--------------|
  
-   **1.1 Linux**
-.
-.
-.
-.
-.
-**2.1 Trên Window**
-.
-.
-.
-.
-.
-.
-.
 
 
 
