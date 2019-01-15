@@ -38,7 +38,7 @@ Tiếp theo là phần chọn hệ điều hành, như mình nói, anh em có th
 
 ![Đang tải 5.JPG…](https://photo2.tinhte.vn/data/attachment-files/2018/10/4440479_5.jpg "5.JPG")
 
-	- Các hệ điều hành có thể tạo trên một máy ảo  
+-	Các hệ điều hành có thể tạo trên một máy ảo  
 ​
 
 Bước tiếp theo sẽ là đặt tên cho máy ảo và vị trí lưu trữ của nó  
@@ -46,17 +46,17 @@ Bước tiếp theo sẽ là đặt tên cho máy ảo và vị trí lưu trữ 
 
 ![Đang tải 7.JPG…](https://photo2.tinhte.vn/data/attachment-files/2018/10/4440481_7.jpg "7.JPG")  
 
-	-	Chọn nơi lưu trữ cho máy ảo​
+-	Chọn nơi lưu trữ cho máy ảo​
 
 Sau đó anh em có thể chọn dung lượng ổ cứng cho máy cũng như tùy biến lại các thông số như RAM, CPU... tùy theo khả năng mà máy thật của anh em có thể cung cấp  
   
 
 ![Đang tải 8.JPG…](https://photo2.tinhte.vn/data/attachment-files/2018/10/4440482_8.jpg "8.JPG")
 
-	-	Chọn dung lượng ổ cứng  
+-	Chọn dung lượng ổ cứng  
   
 ![Đang tải 9.JPG…](https://photo2.tinhte.vn/data/attachment-files/2018/10/4440483_9.jpg "9.JPG")​
-	-	Chọn dung lượng Ram 
+-	Chọn dung lượng Ram 
 
 Sau đó bấm finish là xong, chỉ vậy thôi, quá trình chạy máy ảo, nó sẽ tốn tài nguyên như lúc anh em cấu hình, còn việc cài đặt thì anh em có thể làm như một cái máy tính bình thường khác.  
   
