@@ -7,16 +7,17 @@
 
 II. **Vmware workstation**
 
- **1.Máy ảo là gì ?**
-
+ 1. Máy ảo là gì ?
     Máy ảo (Virtual Machine - VM) được xem là một chương trình máy tính ( Client ) được chạy trên một hệ điều hành chủ ( Host ) và hoạt động giống như một máy tính thật , tức  là hệ điều hành và phần mềm hỗ trợ chia sẻ tài nguyên phần cứng của máy thật để máy ảo hoạt động.
     
+    Các thành phần của máy ảo  
+
+    [](https://imgur.com/a/YTFYDkt)
+
     - Một máy ảo sẽ có những thành phần giống như một máy thật chẳng hạn như  CPU , RAM , HDD , CARD  mạng hay ổ DVD ......
     
-  Các thành phần của máy ảo 
 
-
-[](https://i.imgur.com/XJCJb6d.png) 
+[than](https://i.imgur.com/XJCJb6d.png) 
 
 Một máy thật có thể chạy được nhiều máy ảo khác nhau cùng lúc tùy thuộc vào khả năng đáp ứng phần cứng của chính máy thật đó.
 
