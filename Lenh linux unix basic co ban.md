@@ -86,19 +86,20 @@
  
   7. **tail - print Tail**
 	  `tail <tên file>` đọc và in ra nội dung 10 dòng cuối cùng của file (mặc định)
-	  `tail -n N <tên file>` trong đó N chỉ định số dò
+	  `tail -n N <tên file>` trong đó N chỉ định số dòng muốn xem, in ra màn hình
 ---
   8. **rm - xóa, xóa hết, xóa sạch**
-  9. **Các lệnh về thông tin hệ thống**
+	  
+  10. **Các lệnh về thông tin hệ thống**
 
-  10. **df -kiểm tra dung lượng các partition**
-  11. **du - kiểm tra dung lượng các directory**
-  12. **free - thông tin về Ram**
-  13. **top - Một Task Manager của Linux**
-  14. **uname - Thông tin về kernel**
-  15. **ifconfig - Hiển thị thông tin mạng**
-  16. ** **
+  11. **df -kiểm tra dung lượng các partition**
+  12. **du - kiểm tra dung lượng các directory**
+  13. **free - thông tin về Ram**
+  14. **top - Một Task Manager của Linux**
+  15. **uname - Thông tin về kernel**
+  16. **ifconfig - Hiển thị thông tin mạng**
+  17. ** **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTA1NzE4NiwxMjQ2NTA1MTcwLC0xNj
-A4MjAwNjExLC02NDc2NTUxNjFdfQ==
+eyJoaXN0b3J5IjpbODQwNDgyNjU0LDEyNDY1MDUxNzAsLTE2MD
+gyMDA2MTEsLTY0NzY1NTE2MV19
 -->
