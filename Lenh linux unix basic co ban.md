@@ -130,7 +130,7 @@
 -   Trên nhiều hệ điều hành, bao gồm cả linux , file system thường có dạng cây. Linux filesystem sẽ thường được bắt đầu từ thư mục root. Tất cả các thư mục khác là con của thư mục này. Các định dạng file system mà linux sp là: ext2, ext3, ext4, XFS, JFS, btrfs
 **1. / –  Root**
 
-Đúng với tên gọi của mình: nút gốc (root) đây là nơi bắt đầu của tất cả các file và thư mục. Chỉ có root user mới có quyền ghi trong thư mục này. Chú ý rằng /root là thư mục home của root user chứ không phải là /.
+- Đúng với tên gọi của mình: nút gốc (root) đây là nơi bắt đầu của tất cả các file và thư mục. Chỉ có root user mới có quyền ghi trong thư mục này. Chú ý rằng /root là thư mục home của root user chứ không phải là /.
 
 **2. /bin – Chương trình của người dùng**
 
@@ -138,23 +138,23 @@ Thư mục này chứa các chương trình thực thi. Các chương trình chu
 
 **3. /sbin – Chương trình hệ thống**
 
-Cũng giống như /bin, /sbinn cũng chứa các chương trình thực thi, nhưng chúng là những chương trình của admin, dành cho việc bảo trì hệ thống. Ví dụ như: reboot, fdisk..
+- Cũng giống như /bin, /sbinn cũng chứa các chương trình thực thi, nhưng chúng là những chương trình của admin, dành cho việc bảo trì hệ thống. Ví dụ như: reboot, fdisk..
 
 **4. /etc – Các file cấu hình**
 
-Thư mục này chứa các file cấu hình của các chương trình, đồng thời nó còn chứa các shell script dùng để khởi động hoặc tắt các chương trình khác. Ví dụ: /etc/resolv.conf, /etc/logrolate.conf
+- Thư mục này chứa các file cấu hình của các chương trình, đồng thời nó còn chứa các shell script dùng để khởi động hoặc tắt các chương trình khác. Ví dụ: /etc/resolv.conf, /etc/logrolate.conf
 
 **5. /dev – Các file thiết bị**
 
-Các phân vùng ổ cứng, thiết bị ngoại vi như USB, ổ đĩa cắm ngoài, hay bất cứ thiết bị nào gắn kèm vào hệ thống đều được lưu ở đây. Ví dụ: /dev/sdb1 là tên của USB bạn vừa cắm vào máy, để mở được USB này bạn cần sử dụng lệnh  `mount`  với quyền root
+- Các phân vùng ổ cứng, thiết bị ngoại vi như USB, ổ đĩa cắm ngoài, hay bất cứ thiết bị nào gắn kèm vào hệ thống đều được lưu ở đây. Ví dụ: /dev/sdb1 là tên của USB bạn vừa cắm vào máy, để mở được USB này bạn cần sử dụng lệnh  `mount`
 
 **6. /tmp – Các file tạm**
 
-Thư mục này chứa các file tạm thời được tạo bởi hệ thống và các người dùng. Các file lưu trong thư mục này sẽ bị xóa khi hệ thống khởi động lại.
+- Thư mục này chứa các file tạm thời được tạo bởi hệ thống và các người dùng. Các file lưu trong thư mục này sẽ bị xóa khi hệ thống khởi động lại.
 
 **7. /proc – Thông tin về các tiến trình**
 
-Thông tin về các tiến trình đang chạy sẽ được lưu trong /proc dưới dạng một hệ thống file thư mục mô phỏng. Ví dụ thư mục con /proc/{pid} chứa các thông tin về tiến trình có ID là pid (pid ~ process ID). Ngoài ra đây cũng là nơi lưu thông tin về về các tài nguyên đang sử dụng của hệ thống như: /proc/version, /proc/uptime…
+- Thông tin về các tiến trình đang chạy sẽ được lưu trong /proc dưới dạng một hệ thống file thư mục mô phỏng. Ví dụ thư mục con /proc/{pid} chứa các thông tin về tiến trình có ID là pid (pid ~ process ID). Ngoài ra đây cũng là nơi lưu thông tin về về các tài nguyên đang sử dụng của hệ thống như: /proc/version, /proc/uptime…
 
 **8. /var – File về biến của chương trình**
 
@@ -196,7 +196,7 @@ Thư mục tạm này chứa các thiết bị như CdRom /media/cdrom. floppy /
 	`etc/fstab` file này có trên mọi máy tính Linux, kiểm soát cho biết các điểm mount vào filesystem . Các partition Windows và các chia sẻ mạng và có thể sử dụng nó để kiểm soát các điểm gắn của các thiết bị lưu trữ ngoài giống như USB và các ổ cứng ngoài
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzEwNTQ4MjcsLTE4MzE4NDk3MDYsNj
-EzNzA0NjQsLTEzNTgyNzgxNDksODQwNDgyNjU0LDEyNDY1MDUx
-NzAsLTE2MDgyMDA2MTEsLTY0NzY1NTE2MV19
+eyJoaXN0b3J5IjpbOTkwOTIyMjQ1LC0xODMxODQ5NzA2LDYxMz
+cwNDY0LC0xMzU4Mjc4MTQ5LDg0MDQ4MjY1NCwxMjQ2NTA1MTcw
+LC0xNjA4MjAwNjExLC02NDc2NTUxNjFdfQ==
 -->
