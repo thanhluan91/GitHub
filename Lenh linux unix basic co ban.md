@@ -139,9 +139,10 @@
 -   9./mnt: điểm gắn kết cho phép gắn trực tiếp filesystem
 -   10./opt: chứa các gói phần mềm từ các package đã cài đặt
 -   11./tmp: chứa các file tạm thời, của các package đang chạy, sẽ mất đi khi root
-1. 
+1. **Thư mục home**
+		-   Trong những hệ thống UNIX, mỗi người dùng có đường dẫn sở hữu của họ. Thông thường được đặt /home. Thư mục /home thường được mount 1 filesystem riêng biệt trên partition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODk0MTkxOCw2MTM3MDQ2NCwtMTM1OD
-I3ODE0OSw4NDA0ODI2NTQsMTI0NjUwNTE3MCwtMTYwODIwMDYx
-MSwtNjQ3NjU1MTYxXX0=
+eyJoaXN0b3J5IjpbLTE2MzQ2MDM2OTcsNjEzNzA0NjQsLTEzNT
+gyNzgxNDksODQwNDgyNjU0LDEyNDY1MDUxNzAsLTE2MDgyMDA2
+MTEsLTY0NzY1NTE2MV19
 -->
