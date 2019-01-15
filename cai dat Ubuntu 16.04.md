@@ -22,14 +22,16 @@
 - **2.5** Chọn chuẩn cú pháp gõ bàn phím dành cho  **Keyboad** của bạn . Thông thường chúng ta sủa dụng chuẩn tiếng anh. nên chọ **English**
 
 ![](https://camo.githubusercontent.com/29f4926fecbf721d10b881ff7cc1f9fd481e88c4/68747470733a2f2f692e696d6775722e636f6d2f344c79685865752e706e67)
+
 -  **2.6** Quá trình cấu hình mạng tự động
 
 ![](https://camo.githubusercontent.com/ec207f83ac1d4508d9245216337c9f858d43abb0/68747470733a2f2f692e696d6775722e636f6d2f463334663857642e706e67)
--  **2.2** Cấu hình tên máy **hostname** cho server Ubuntu 
+
+-  **2.7** Cấu hình tên máy **hostname** cho server Ubuntu 
 
 ![](https://camo.githubusercontent.com/b18dfc224f7f631208e978a2052717b457f1009a/68747470733a2f2f692e696d6775722e636f6d2f414676314a4d732e706e67)
 
--   **2.2** Tạo User khác để đăng nhập từ đầu . Thay vì sử dụng User **root** vì lý do bảo mật. 
+-   **2.8** Tạo User khác để đăng nhập từ đầu . Thay vì sử dụng User **root** vì lý do bảo mật. 
 
 ![](https://camo.githubusercontent.com/ab8287ff80126554d551b0f59a72c6f9253556d9/68747470733a2f2f692e696d6775722e636f6d2f5331385a6d616f2e706e67)
 
@@ -75,6 +77,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4MTA0MTM2LC01MDI1NTQwOSwxOTU2ND
+eyJoaXN0b3J5IjpbODg2NjQ1ODAxLC01MDI1NTQwOSwxOTU2ND
 czNjQzXX0=
 -->
