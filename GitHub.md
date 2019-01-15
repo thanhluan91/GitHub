@@ -203,7 +203,7 @@ kết quả như sau
  |Tạo kho dữ liệu ( repository ) cục bộ mới|| `Git  init`|
  |Kiểm tra một kho lưu trữ và tải về máy cục bộ |Tạo một bản sao làm việc tại một kho lưu trữ cục bộ trong mạng nội bộ |`Git clone` /path/to/repository|
  ||Đối với một máy chủ từ xa|`git clone` username@host:/path/to/repository    VD: Git clone https://github.com/thanhluan91/Thanh-Luan.git|
- |Thêm các tập tin|Thêm một hoặc nhiều tệp tin |git add <filename> , Git add |
+ |Thêm các tập tin|Thêm một hoặc nhiều tệp tin |git add <filename> ,    Git add .|
  
 
 
@@ -216,8 +216,8 @@ kết quả như sau
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4ODMzNDIzLDIwNjkyNzUzMzUsLTk2Mz
-UyOTYxMiwxMzI1OTQ1NzU3LC0zNDIzMTk5MjMsNDQxNzM2MTg1
-LC0xNDE2MzY3MjczLDE3MDIzMzU5NywtMTIxNDM0NzM5MywtMT
-M0MDA4ODg2MiwzNDk0OTQxMzFdfQ==
+eyJoaXN0b3J5IjpbMTg3NzUzNjE2MywyMDY5Mjc1MzM1LC05Nj
+M1Mjk2MTIsMTMyNTk0NTc1NywtMzQyMzE5OTIzLDQ0MTczNjE4
+NSwtMTQxNjM2NzI3MywxNzAyMzM1OTcsLTEyMTQzNDczOTMsLT
+EzNDAwODg4NjIsMzQ5NDk0MTMxXX0=
 -->
