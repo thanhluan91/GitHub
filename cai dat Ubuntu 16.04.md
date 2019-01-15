@@ -11,7 +11,7 @@
 
 [![](https://camo.githubusercontent.com/b2aa1b8b4c5da050eab40f08f50aaddfc91410e8/68747470733a2f2f692e696d6775722e636f6d2f49664f7353586f2e706e67)](https://camo.githubusercontent.com/b2aa1b8b4c5da050eab40f08f50aaddfc91410e8/68747470733a2f2f692e696d6775722e636f6d2f49664f7353586f2e706e67)
 
--   Chọn khu vực =>Enter
+   **2.3** lựa chọn khu vực **
 
 [![](https://camo.githubusercontent.com/56f11cbc637d8ad42c33b98398afcb17b46c17c5/68747470733a2f2f692e696d6775722e636f6d2f4173504345446d2e706e67)](https://camo.githubusercontent.com/56f11cbc637d8ad42c33b98398afcb17b46c17c5/68747470733a2f2f692e696d6775722e636f6d2f4173504345446d2e706e67)
 
@@ -77,6 +77,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODExNjQ4MzEsLTUwMjU1NDA5LDE5NT
-Y0NzM2NDNdfQ==
+eyJoaXN0b3J5IjpbLTMxNDcwNjM3MCwtNTAyNTU0MDksMTk1Nj
+Q3MzY0M119
 -->
