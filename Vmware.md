@@ -130,10 +130,10 @@ Các card mạng này có thể cấp DHCP cho các máy ảo sử dụng nó.
 - không có cổng usb	
 -  card mạng ra internet
 
-!![](https://i.imgur.com/6fqMhOl.png)
+![](https://i.imgur.com/6fqMhOl.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExNDI5OTM5LC0xNDcxNDU4NTg4LC0xMz
-g5NTIwOSw5MTY2NzEyNzQsLTEwMTY0MjkxMTQsLTExMjYwNTA5
-NTMsLTI3MTEyNzA1MSwyMDM4NTQwMjYyLDIwNDk5MTQ5ODgsMj
-k5NzA5NTU1LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTIwOTkwNDU1NTYsLTE0NzE0NTg1ODgsLT
+EzODk1MjA5LDkxNjY3MTI3NCwtMTAxNjQyOTExNCwtMTEyNjA1
+MDk1MywtMjcxMTI3MDUxLDIwMzg1NDAyNjIsMjA0OTkxNDk4OC
+wyOTk3MDk1NTUsMjA0MDI5NzYyMl19
 -->
