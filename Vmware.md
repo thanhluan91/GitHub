@@ -64,9 +64,9 @@ Sau đó bấm finish là xong, chỉ vậy thôi, quá trình chạy máy ảo,
 
 _Màn hình cài đặt máy ảo tương tự như máy thật Ubuntu_​
 
-                                  `end!`
+III. Netword Vmware
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjYwNTA5NTMsLTI3MTEyNzA1MSwyMD
-M4NTQwMjYyLDIwNDk5MTQ5ODgsMjk5NzA5NTU1LDIwNDAyOTc2
-MjJdfQ==
+eyJoaXN0b3J5IjpbMTY2MjgxNjYwMSwtMTEyNjA1MDk1MywtMj
+cxMTI3MDUxLDIwMzg1NDAyNjIsMjA0OTkxNDk4OCwyOTk3MDk1
+NTUsMjA0MDI5NzYyMl19
 -->
