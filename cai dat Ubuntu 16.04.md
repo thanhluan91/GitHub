@@ -19,11 +19,11 @@
 
 [![](https://camo.githubusercontent.com/2d8085d3a70dc97eb89e86aab3f72b4ed20f4c16/68747470733a2f2f692e696d6775722e636f6d2f3148505576756e2e706e67)](https://camo.githubusercontent.com/2d8085d3a70dc97eb89e86aab3f72b4ed20f4c16/68747470733a2f2f692e696d6775722e636f6d2f3148505576756e2e706e67)
 
--**2.2** Chọn chuẩn cú pháp gõ bàn phím dành cho  **Keyboad** của bạn . Thông thường chúng ta sủa dụng chuẩn tiếng anh. nên chọ ****
+-**2.5** Chọn chuẩn cú pháp gõ bàn phím dành cho  **Keyboad** của bạn . Thông thường chúng ta sủa dụng chuẩn tiếng anh. nên chọ **English**
 
 [![](https://camo.githubusercontent.com/29f4926fecbf721d10b881ff7cc1f9fd481e88c4/68747470733a2f2f692e696d6775722e636f6d2f344c79685865752e706e67)](https://camo.githubusercontent.com/29f4926fecbf721d10b881ff7cc1f9fd481e88c4/68747470733a2f2f692e696d6775722e636f6d2f344c79685865752e706e67)
 
--   Quá trình cấu hình mạng tự động
+-  **2.6** Quá trình cấu hình mạng tự động
 
 [![](https://camo.githubusercontent.com/ec207f83ac1d4508d9245216337c9f858d43abb0/68747470733a2f2f692e696d6775722e636f6d2f463334663857642e706e67)](https://camo.githubusercontent.com/ec207f83ac1d4508d9245216337c9f858d43abb0/68747470733a2f2f692e696d6775722e636f6d2f463334663857642e706e67)
 
@@ -77,6 +77,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDAxOTQ4MywtNTAyNTU0MDksMTk1Nj
-Q3MzY0M119
+eyJoaXN0b3J5IjpbLTExNjA3NTAzMzgsLTUwMjU1NDA5LDE5NT
+Y0NzM2NDNdfQ==
 -->
