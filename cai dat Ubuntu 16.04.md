@@ -56,7 +56,7 @@
 
 ![](https://camo.githubusercontent.com/564a90a169b38fc1fdd8bbe98d6837e2ffa75a88/68747470733a2f2f692e696d6775722e636f6d2f704534754365512e706e67)
 
--  **2.14** tới phần **select a Language** 
+-  **2.14** xác nhận chép đè thông tin partition lên ổ cứng đã lựa chọn trước đó . Chọn **Yes** 
 
 [![](https://camo.githubusercontent.com/4d57b8c0386d007c879a6bf20eb0b52e3c59d9a0/68747470733a2f2f692e696d6775722e636f6d2f4f74706c68685a2e706e67)](https://camo.githubusercontent.com/4d57b8c0386d007c879a6bf20eb0b52e3c59d9a0/68747470733a2f2f692e696d6775722e636f6d2f4f74706c68685a2e706e67)
 
@@ -78,6 +78,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc2NTAyMDQsODg2NjQ1ODAxLC01MD
+eyJoaXN0b3J5IjpbLTE2MTIzNjc4NjEsODg2NjQ1ODAxLC01MD
 I1NTQwOSwxOTU2NDczNjQzXX0=
 -->
