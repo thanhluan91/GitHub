@@ -64,7 +64,7 @@ Sau đó bấm finish là xong, chỉ vậy thôi, quá trình chạy máy ảo,
 
 _Màn hình cài đặt máy ảo tương tự như máy thật Ubuntu_​
 
-III. Networking Vmware
+##III. Networking Vmware
 
 Để xem các card mạng đã có trong VMware Workstation ta chỉ cần bật VMware lên, chọn Edit => Virtual Network Editor
 
@@ -74,19 +74,21 @@ Ta có thể thấy trong hình card bridge có tên là VMnet0, card Nat có t�
 
 Card bridge không có địa chỉ IP do nó sẽ sử dụng dải IP của máy thật. VMware sẽ tự sinh một dải IP và gán cho VMnet8. Trong trường hợp của tôi là dải 10.10.0.0/24.
 
-*- Card mạng Bridgerd*
+- *Card mạng Bridgerd*
+
 Use bridged connection: cho phép card mạng máy ảo kết nối trực tiếp với card mạng máy thật, giống như khi chúng được kết nối vào chung một  switch. Khi đó, địa chỉ IP của máy ảo phải nằm cùng subnet với địa chỉ IP mà card mạng máy thật đang dùng. Đây là lựa chọn thường được sử dụng nhiều nhất khi tạo một mạng máy tính ảo.
 
 ![](https://public.bn.files.1drv.com/y4ppJIOyfVJ9RCOXlNVSLBxZzussv262CT9xc3wTowCxPK8jlHL1XN17Gxx-To8w7KLaaMu5qWcJf_LpoWAKZgLzyyxTzmsrzxxYfIoYf3wiBKn5gTGFJDKitsxRdYVmss3T4JOHIOMxdrTN9sycdzverySuu6pqUXhrnidwVuoxX2ARCMjOJlEXt6ErKHJarho/briged.png?psid=1&rdrts=222244552)
 	
- -Card mạng Nat*
+ - *Card mạng Nat*
+
 Use network address translation (NAT): máy ảo sẽ nằm ở một vùng địa chỉ IP khác vd : dải 10.10.0.0/24 và phải thực hiện việc kỹ thuật chuyển đổi địa chỉ (NAT) khi liên lạc với máy tính bên ngoài. 
 
 máy tính sẽ đóng vai trò như 1 router phân giải và định tuyến giao tiếp với bên ngoài qua vmnet 8 ( thông qua cổng gateway vd: 10.10.0.1 ) 
 	
 ![](https://public.bn.files.1drv.com/y4pPI_qJ1M7fyo2Yq_Qd-SzfBNrJ5Hw0G_KxCGWnVsPACJS39PVOdAsjgRarXlVP6-iWWj9i3sepjaxNEikoAVdyrXKPuFZ-bmOIneRzJ61iaNhnMEiTaNnL1LOKgoWRdrLSpSlKv9theXkxEThKcqbbRoZIRRNKryaNOXiofheZrP-yUr3LVhDDtuMQ2gOzlOb/NAT.png?psid=1&rdrts=222244552)
 
-*- Card mạng Hots-only*
+- *Card mạng Hots-only*
 Use host-only networking: máy tính ảo sẽ kết nối với máy tính thật bằng một vùng mạng riêng, nhưng không liên lạc được với bên ngoài. Ở chế độ này,  các máy ảo không có kết nối vào mạng vật lý bên ngoài hay internet thông qua máy thật , có nghĩa là mạng VMnet Host-only và mạng vật lý hoàn toàn tách biệt. IP của máy ảo được cấp bởi DHCP của VMnet tương ứng. Trong nhiều trường hợp đặc biệt cần cấu hình riêng, ta có thể tắt DHCP trên VMnet và cấu hình IP bằng tay cho máy ảo
 
 ![](https://public.bn.files.1drv.com/y4pyWxk6W8sg2MY6Z_L4JtmxDisFBamuFd_RToMVprmMEOOx_MFFuFWuIo4Gl0QuSUh6fQNFI8NRtAIFYYq2IjDeSUsSmydqM_yXmR0xPs35b84nd2l0x0imIhph4rWLGaHcF_BdAemUpR1XQSuXeTNlk9CbbARGIOx473RnGaheQoH6gQOIwmP7uDIShFb3-Eu/host-only.png?psid=1&rdrts=222244552)
