@@ -76,15 +76,15 @@
 
     **1.6** **GNU/Linux**
 
-    	- Thế là bác Richard Stallman sở hữu các phần mềm của GNU thì thiếu lõi, nhân kernel, còn bác Linus Torvalds thì đã có nhân kernel nhưng để phát triển lên được hệ điều hành hoàn chỉnh là còn nhiếu rất nhiều thứ abc xyz. Cả hai bác đều có chung tư tưởng lớn, muốn xây dựng hệ điều hành mã nguồn mở.
+    - Thế là bác Richard Stallman sở hữu các phần mềm của GNU thì thiếu lõi, nhân kernel, còn bác Linus Torvalds thì đã có nhân kernel nhưng để phát triển lên được hệ điều hành hoàn chỉnh là còn nhiếu rất nhiều thứ abc xyz. Cả hai bác đều có chung tư tưởng lớn, muốn xây dựng hệ điều hành mã nguồn mở.
 
-    	- Linus Torvalds làm việc một cách hăng say trong vòng 3 năm liên tục và sự kết hợp của nhân Linux cùng các phần mềm của GNU đã cho ra đời hệ điều hành hoàn toàn miễn phí đầu tiên. Nó được mang tên GNU/Linux với phiên bản 1.0 vào năm 1994 - được phát triển và tung ra trên thị trường dưới bản quyền GNU General Public License. Do đó mà bất cứ ai cũng có thể tải và xem mã nguồn của GNU/Linux.
+    - Linus Torvalds làm việc một cách hăng say trong vòng 3 năm liên tục và sự kết hợp của nhân Linux cùng các phần mềm của GNU đã cho ra đời hệ điều hành hoàn toàn miễn phí đầu tiên. Nó được mang tên GNU/Linux với phiên bản 1.0 vào năm 1994 - được phát triển và tung ra trên thị trường dưới bản quyền GNU General Public License. Do đó mà bất cứ ai cũng có thể tải và xem mã nguồn của GNU/Linux.
 
     ![](https://images.viblo.asia/e65e233c-0198-48d1-b3c4-4c866f877340.jpg)
 
-    	-	Một cách chính xác, thuật ngữ Linux được sử dụng để chỉ nhân hệ điều hành (kernel), chứ bản thân nó chưa phải là hệ điều hành 
+    - Một cách chính xác, thuật ngữ Linux được sử dụng để chỉ nhân hệ điều hành (kernel), chứ bản thân nó chưa phải là hệ điều hành 
 
-		-	Còn hệ điều hành được tạo ra bởi việc đóng gói nhân Linux cùng với các thư viện và công cụ GNU - hệ điều hành bạn đang sử dụng đó, nó có tên là GNU/Linux. Nhưng không hiểu sao người ta gọi ngắn ngọn lại là Linux. Hẳn là một sự bất công bằng cho GNU, nhưng biết làm sao được. Và đành xuôi theo chiều gió, trong series này, mình cũng dùng từ Linux để chỉ hệ điều hành này, còn khi nào cần nhắc tới phần nhân thì mình sẽ nói rõ là kernel Linux.
+	- Còn hệ điều hành được tạo ra bởi việc đóng gói nhân Linux cùng với các thư viện và công cụ GNU - hệ điều hành bạn đang sử dụng đó, nó có tên là GNU/Linux. Nhưng không hiểu sao người ta gọi ngắn ngọn lại là Linux. Hẳn là một sự bất công bằng cho GNU, nhưng biết làm sao được. Và đành xuôi theo chiều gió, trong series này, mình cũng dùng từ Linux để chỉ hệ điều hành này, còn khi nào cần nhắc tới phần nhân thì mình sẽ nói rõ là kernel Linux.
 
 	kiểm tra bằng cách vào Terminal gõ: 
 	![](https://i.imgur.com/74FT48G.png)
