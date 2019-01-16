@@ -15,6 +15,8 @@
 
 - [2.3. Red Hat Enterprise linux (RHEL) và Fedora](#2.3)
 
+- [2.4. Slackware](#2.4)
+
 [3. Các nhóm các distro phổ biến ](#3)
 
 
@@ -121,6 +123,12 @@ Debian có chính sách nghiêm ngặt đối với chất lượng các gói v�
 
 - 2 distro phổ biến nhất được phát triển dựa trên Fedora là **Red Hat Enterprise Linux** - với đối tượng hướng tới là các doanh nghiệp và công ty lớn (tất nhiên là có tính phí) ; và **CentOS** - free và hướng tới đối tượng là người sử dụng cá nhân.
 
+<a name="2.4"></a>
+## 2.3 Slackware
+
+- Được Patrick Volkerding phát hành vào năm 1992, Slackware là bản phân phối Linux tồn tại lâu đời nhất và cho đến giữa những năm 1990, nó chiếm khoảng 80% trong tổng số bản phân phối được sử dụng. Tuy nhiên mọi thứ đã thay đổi khi Red Hat Linux xuất hiện và ngày nay Slackware không còn nổi tiếng như xưa. Lý do không phải là do nó không tốt, trái lại nó vẫn là một trong những distro Linux hàng đầu nhưng Slackware có khả năng tùy chỉnh cao và mạnh mẽ, không thân thiện với người dùng. Chính điều này ảnh hưởng đến sự phổ biến của nó. Slackware sử dụng hệ thống gói pkgtools, không có kho lưu trữ gói chính thức và có rất nhiều cấu hình phải thực hiện thủ công
+			<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi4iofAjPLfAhWJ-2EKHZ98BFkQjRx6BAgBEAU&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7pSgzV7uQXg&psig=AOvVaw1-AN09_R0948Z7DggWW7uj&ust=1547721073031520">
+			
 
 <a name="3"></a>
 # 3.Các nhóm Distro phổ biến
