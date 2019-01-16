@@ -3,7 +3,7 @@
 1. **Nguồn Gốc**
 
 	
-	**1.1 **Unix**
+	**1.1** **Unix**
 
 	-hệ điều hành Unix bắt nguồn từ một đề án nghiên cứu tại phòng thì nghiệm Bell Labs của công ty AT&T và được dẫn dắt bởi Ken Thompson, Dennis Ritchie hai nhà khoa học máy tính nổi tiếng.
 
@@ -39,7 +39,7 @@
 
     BSD giúp cho Unix trở nên phổ biến và có nhiều đóng góp về mặt kỹ thuật như: csh, termcap, curses, vi, TCP/IP socket, long file name, symbolic link
 
-	**1.3 **Unix && BSD**
+	**1.3** **Unix && BSD**
 
 	- Nhánh BSD đi đến hồi kết của quá trình phát triển với sự ra đời và của các open source project như: FreeBSD, NetBSD và OpenBSD. BSD phát triển từ version 1 đến version cuối cùng 4.4 năm 1992.
 
@@ -48,3 +48,29 @@
 	- Mặc dù phiên bản chính thức của Unix, BSD đã dừng phát triển từ lâu, thế nhưng những di sản mà chúng để lại là rất lớn cho đến ngày hôm nay. Rất nhiều hệ điều hành, từ close source cho đến open source đều dựa trên 2 nhánh này
 
 	![](https://images.viblo.asia/9fdc05b1-a243-4e72-81d4-ab85a4572263.png)
+
+	**1.4** **GNU**
+		- 
+    Năm 1971, Richard Stallman bắt đầu làm việc tại MIT trong một nhóm nhân viên kĩ thuật chuyên sử dụng phần mềm tự do. Tuy vậy, đến những năm của thập kỉ 80, hầu hết các phần mềm đều có tính chất sở hữu (bản quyền). Nhận thấy điều này có thể ngăn cản việc hợp tác giữa những người phát triển phần mềm, Stallman và những người khác khởi đầu dự án GNU vào năm 1983.
+    		![](https://upload.wikimedia.org/wikipedia/commons/3/3d/Richard_Stallman_at_Pittsburgh_University.jpg)
+
+              Richard Stallman tại đại học Pittsburgh 2010
+
+    Mục tiêu của dự án GNU là tạo ra được một hệ điều hành giống Unix nhưng miễn phí, nơi mà mọi người có quyền tự do copy, phát triển, chỉnh sửa và phân phối phần mềm và việc tái phân phối là không bị giới hạn.
+
+    Sau đó vào năm 1985, Stallman bắt đầu thành lập Tổ chức phần mềm tự do và viết ra giấy phép chung GNU (GNU General Public License - GNU GPL) vào năm 1989.
+
+    Khoảng đầu 1990, nhiều chương trình như thư viện, trình biên dịch, trình soạn thảo văn bản, Unix Shell, và một chương trình quản lý cửa sổ đã ra đời, nhưng các thành phần cấp thấp cần thiết như trình điều khiển thiết bị, daemons, và kernel vẫn chưa hoàn thành.
+
+    Như vậy điều Richard Stallman tìm kiếm bây giờ là có phần nhân hệ điều hành để chạy những phần mềm trên.
+
+    Và thế là định mệnh của cuộc tình đôi ta bắt đầu từ đây: GNU và Linux.
+
+    **1.5** **Linux**
+    - Vào năm 1991 trong khi đang học tại Helsinki - Phần Lan, Linus Torvalds bắt đầu có ý tưởng về một hệ điều hành, hơn nữa ông cũng nhận thấy hạn chế trong giấy phép của Minix - chỉ cho phép việc sử dụng Minix trong giáo dục mà thôi. Ông bắt đầu viết nên hệ điều hành riêng của mình.
+    	![](https://images.viblo.asia/24d02ced-bfc0-4d9f-9d7a-2f10e80b689d.jpg)
+
+           Chân dung Linus Torvalds, tác giả của hệ điều hành mã nguồn mở Linux.
+
+    -	Torvalds phát triển Linux kernel trên môi trường Minix, các ứng dụng viết cho Minix có thể sử dụng trên Linux. Sau này, khi Linux đã "trưởng thành" thì việc phát triển Linux diễn ra ngay trên hệ thống Linux
+
