@@ -85,6 +85,6 @@
 
 		-	Còn hệ điều hành được tạo ra bởi việc đóng gói nhân Linux cùng với các thư viện và công cụ GNU - hệ điều hành bạn đang sử dụng đó, nó có tên là GNU/Linux. Nhưng không hiểu sao người ta gọi ngắn ngọn lại là Linux. Hẳn là một sự bất công bằng cho GNU, nhưng biết làm sao được. Và đành xuôi theo chiều gió, trong series này, mình cũng dùng từ Linux để chỉ hệ điều hành này, còn khi nào cần nhắc tới phần nhân thì mình sẽ nói rõ là kernel Linux.
 
-		kiểm tra bằng cách vào Terminal gõ: 
+	kiểm tra bằng cách vào Terminal gõ: 
 	![](https://i.imgur.com/74FT48G.png)
 
