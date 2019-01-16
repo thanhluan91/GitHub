@@ -7,10 +7,10 @@
 
 - 	hệ điều hành Unix bắt nguồn từ một đề án nghiên cứu tại phòng thì nghiệm Bell Labs của công ty AT&T và được dẫn dắt bởi Ken Thompson, Dennis Ritchie hai nhà khoa học máy tính nổi tiếng.
 
-	![](https://en.wikipedia.org/wiki/File:Ken_Thompson_and_Dennis_Ritchie.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/4/46/Ken_Thompson_and_Dennis_Ritchie.jpg)
 
 
-                      Chân dung Ken Thompson (bên trái), Dennis Ritchie (bên phải)
+   Chân dung Ken Thompson (bên trái), Dennis Ritchie (bên phải)
 
  - Phiên bản đầu tiên của Unix được ra đời vào tháng 3 năm 1971, tiếp đó là phiên bản thứ 2 ra đời năm 1972.
 
