@@ -81,6 +81,7 @@ Use bridged connection: cho phép card mạng máy ảo kết nối trực tiế
 Use network address translation (NAT): máy ảo sẽ nằm ở một vùng địa chỉ IP khác vd : dải 10.10.0.0/24 và phải thực hiện việc kỹ thuật chuyển đổi địa chỉ (NAT) khi liên lạc với máy tính bên ngoài. 
 
 máy tính sẽ đóng vai trò như 1 router phân giải và định tuyến giao tiếp với bên ngoài qua vmnet 8 ( thông qua cổng gateway vd: 10.10.0.1 ) 
+	![](https://public.bn.files.1drv.com/y4pPI_qJ1M7fyo2Yq_Qd-SzfBNrJ5Hw0G_KxCGWnVsPACJS39PVOdAsjgRarXlVP6-iWWj9i3sepjaxNEikoAVdyrXKPuFZ-bmOIneRzJ61iaNhnMEiTaNnL1LOKgoWRdrLSpSlKv9theXkxEThKcqbbRoZIRRNKryaNOXiofheZrP-yUr3LVhDDtuMQ2gOzlOb/NAT.png?psid=1&rdrts=222244552)
 
 *- Card mạng Hots-only*
 Use host-only networking: máy tính ảo sẽ kết nối với máy tính thật bằng một vùng mạng riêng, nhưng không liên lạc được với bên ngoài.
