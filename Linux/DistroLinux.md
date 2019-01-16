@@ -11,7 +11,9 @@
 
 - [2.1. Debian](#2.1)
 
-- [2.2. Fedora](#2.2)
+- [2.2. Ubuntu](#2.2)
+
+- [2.3. Red Hat Enterprise linux (RHEL) và Fedora](#2.3)
 
 [3. Các nhóm các distro phổ biến ](#3)
 
@@ -51,7 +53,9 @@ thiếu thường để sử dụng trong các hệ thống nhúng.
 <a name="2.1"></a>
 ## 2.1. Debian 
 
-<img src="http://i.imgur.com/abNJwzc.png" hight="700px" width="300px">
+<img src="https://st.quantrimang.com/photos/image/2018/09/18/ban-phan-phoi-linux-2.jpg">
+
+- Debian là một trong những bản phân phối Linux đầu tiên. Nó được Ian Murdock công bố lần đầu vào ngày 16 tháng 8 năm 1993, nhưng phải đến năm 1996 mới phát hành phiên bản ổn định đầu tiên của nó. Về cơ bản, nhà phát triển muốn tạo một bản phân phối ổn định để mọi người có thể tải và sử dụng miễn phí, thay vì phải thu thập từng ứng dụng và tự biên dịch
 
 - Là một bản phân phối phi thương mại và là một trong những bản phân phối ra đời sớm nhất, duy trì bởi một cộng đồng phát triển tình nguyện với một cam kết mạnh mẽ cho nguyên tắc phần mềm miễn phí và quản lý dự án dân chủ. 
 
@@ -73,7 +77,8 @@ Debian có chính sách nghiêm ngặt đối với chất lượng các gói v�
 
 - Có khá nhiều distro phát triển dựa trên distro Debian như: Raspbian, Knoppix, Astra Linux, Kali Linux, ... và phổ biến nhất là nhánh **Ubuntu**
 
-### ***Ubuntu**
+<a name="2.2"></a>
+### 2.2 Ubuntu
 
 <img src="http://imgur.com/7FhdGO1.png"  hight="700px" width="300px"> 
 
@@ -91,13 +96,20 @@ Debian có chính sách nghiêm ngặt đối với chất lượng các gói v�
 
   - Ngoài Ubuntu, các nhà phát triển còn sản sinh ra các distro mang hơi hướng tương tự Ubuntu như **Kubuntu**, **Xubuntu** và **Lunbuntu**, **Linux Mint**. Các distro này chủ yếu khác biệt với Ubuntu ở giao diện màn hình.
 
-<a name="2.2"></a>
-## 2.2 Fedora 
+<a name="2.3"></a>
+## 2.3 Red Hat Enterprise linux (RHEL) và Fedora 
 
 <img src="http://imgur.com/2YngFp8.png">
 
 
 - Là một bản phân phối cộng đồng được ***"đỡ đầu"*** bởi một công ty của Mỹ - Red Hat. Nó được tạo ra nhằm kiểm thử các công nghệ cho một bản phân phối thương mại khác của Red Hat - nơi mà các phần mềm nguồn mở mới được tạo lập, phát triển và kiểm thử trong môi trường cộng đồng trước khi được đưa vào Red Hat Enterprise Linux.
+
+- Red Hat Enterprise Linux là phiên bản kế thừa của Red Hat Linux, một trong những bản Linux cũ nhất. Phiên bản gốc được phát hành năm 1995 và được thay thế bởi Red Hat Enterprise Linux năm 2003. Đây là một bản phân phối trả phí và dành cho người dùng doanh nghiệp
+	
+	<img src="https://access.redhat.com/sites/default/files/video/thumbnails/rhel7_docker_overview_tn.jpg">
+
+- Fedora là phiên bản miễn phí thay thế, dành cho người dùng gia đình. Nó có nhiều tính năng của RHEL và một số tính năng thử nghiệm chưa được triển khai trong RHEL. Cả hai phiên bản này đều sử dụng định dạng gói .rmp, do đó các phần mềm từ các bản phân phối khác như Debian không thể chạy trên distro này
+
 
 - Chu kì ra phiên bản mới của Fedora là 6 tháng. Phiên bản mới với các tính năng bảo mật mà các chuyên gia đánh giá khá tốt.
 
