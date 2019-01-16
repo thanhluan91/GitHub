@@ -78,7 +78,9 @@ Card bridge không có địa chỉ IP do nó sẽ sử dụng dải IP của m�
 Use bridged connection: cho phép card mạng máy ảo kết nối trực tiếp với card mạng máy thật, giống như khi chúng được kết nối vào chung một  switch. Khi đó, địa chỉ IP của máy ảo phải nằm cùng subnet với địa chỉ IP mà card mạng máy thật đang dùng. Đây là lựa chọn thường được sử dụng nhiều nhất khi tạo một mạng máy tính ảo.
 
  -Card mạng Nat*
-Use network address translation (NAT): máy ảo sẽ nằm ở một vùng địa chỉ IP khác và phải thực hiện việc kỹ thuật chuyển đổi địa chỉ (NAT) khi liên lạc với máy tính bên ngoài.
+Use network address translation (NAT): máy ảo sẽ nằm ở một vùng địa chỉ IP khác vd : dải 10.10.0.0/24 và phải thực hiện việc kỹ thuật chuyển đổi địa chỉ (NAT) khi liên lạc với máy tính bên ngoài. 
+
+máy tính sẽ đóng vai trò như 1 router phân giải và định tuyến giao tiếp với bên ngoài qua vmnet 8 ( thông qua cổng gateway vd: 10.10.0.1 ) 
 
 *- Card mạng Hots-only*
 Use host-only networking: máy tính ảo sẽ kết nối với máy tính thật bằng một vùng mạng riêng, nhưng không liên lạc được với bên ngoài.
