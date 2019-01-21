@@ -180,10 +180,11 @@ Debian có chính sách nghiêm ngặt đối với chất lượng các gói v�
     - Distro tiêu biểu: Ubuntu, Open SUSE, Linux Mint.
 
      **Bảng so sánh - CentOS và Ubuntu**
-|Ubuntu|CentoS|
-|:------|:-------|
-|Dựa trên Debian|Dựa trên nền RHEL|
-|Cập nhật thường xuyên|Cập nhật quan trọng|
+
+|Ubuntu                                |CentoS                                |
+|:-------------------------------------|:-------------------------------------|
+|Dựa trên Debian                       |Dựa trên nền RHEL|
+|Cập nhật thường xuyên                 |Cập nhật quan trọng|
 |Không hỗ trợ Cpanel( có phương pháp thế )|Hỗ trợ Cpanel/WHM|
 |Cộng đồng người dùng lập trình viên lớn|Cộng đồng người dùng lập trình viên nhỏ hơn |
 |Dễ học cho người mới dùng, và có bản Ubuntu desktop phổ biến|Khó học cho người mới và không có bản desktop phổ biến|
