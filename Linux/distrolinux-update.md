@@ -129,7 +129,7 @@ Debian có chính sách nghiêm ngặt đối với chất lượng các gói v�
 ## 2.4 CentOS
 - CentOS là một Linux distribution mã nguồn mở dựa trên linux kernel. Nó có nguồn gốc hoàn toàn từ bản phân phối Redhat Enterprise Linux(RHEL), bản được dùng nhiều nhất trong giới doanh nghiệp thế giới IT . CentOS cũng là một hệ điều hành cap cấp được hỗ trợ bởi chính cộng đồng của nó và được phát hành năm 2004. 
 - Dễ dàng tùy chỉnh,bảo mật ổn định, có nhiều cấp độ bảo mật chuẩn doanh nghiệp, khiến nó trở thành lựa chọn an toàn cho người dùng .
-
+            ![](https://www.idgcdn.com.au/article/images/740x500/dimg/Centos_logo.jpg)
 
 <a name="2.5"></a>
 ## 2.5 Slackware
